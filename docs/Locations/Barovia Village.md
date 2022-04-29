@@ -6,7 +6,14 @@ tags:
 # Barovia Village
 
 - Village in [[Barovia]]
-- First entered in [[Session 4]]
+- First entered in [[Session 4]], see [[Session 4#Entering Barovia Village|Entering Barovia]]
+
+## Description
+
+- Slick, wet cobblestones of the road
+- Tall buildings, tired and worn
+	- Some abandoned
+- 
 
 ## Gates of Barovia
 

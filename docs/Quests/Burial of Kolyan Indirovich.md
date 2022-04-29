@@ -11,4 +11,4 @@ tags:
 
 ## Progress
 
-- In [[Session 4]], Nox, Sanar, Demetri, and Klepto brought the body of [[Kolyan Indirovich]] to the [[Barovia Church of the Morning Lord]] under the care of [[Father Donovich]]
+- In [[Session 4]], [[Nox Vita|Nox]], [[Sanar]], [[Demetri Bebanburg|Demetri]], and [[Klepto]] brought the body of [[Kolyan Indirovich]] to the [[Barovia Church of the Morning Lord]] under the care of [[Father Donovich]]

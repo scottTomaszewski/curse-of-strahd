@@ -5,10 +5,17 @@ tags:
 
 # Ireena Kolyanovich
 
-- Twin of [[Kali Rouge]], sister of [[Ismark Kolyanovich]], and daughter of [[Kolyan Indirovich]].  
-- Looks identical to [[Kali Rouge|Kali]] except for the hair color: black for Ireena, Deep purple for Kali.  
+- Looks identical to [[Kali Rouge|Kali]] except for the hair color: black for Ireena, Deep purple for [[Kali Rouge|Kali]].  
 	- Both [[Kali Rouge|Kali]] and Ireena have died their hair from the natural red.  
 - Ireena died hers because red hair is looked down upon in [[Barovia]]
+- Knows the way to the [[Tser Pool]] according to [[Ismark Kolyanovich]] ([[Session 4#Entering the Blood on the Vine Tavern]])
+
+## Relationships
+
+- Twin of [[Kali Rouge]]
+- Sister of [[Ismark Kolyanovich]]
+- Adopted daughter of [[Kolyan Indirovich]]
+	- According to the [[Kolyan Letter]]
 
 ## History
 

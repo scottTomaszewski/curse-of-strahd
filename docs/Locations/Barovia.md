@@ -5,7 +5,7 @@ tags:
 
 # Barovia (Country)
 
-Country ruled by [[Count Strahd]] (according to [[Morgantha]]).
+Country ruled by [[Strahd von Zarovich]] (according to [[Morgantha]]).
 
 ## Villages
 
