@@ -54,6 +54,7 @@ tags:
 ## Traveling to the [[Blood on the Vine Tavern]]
 
 Walking down the main road to the tavern...
+
 - We see a raven with blue-tipped wings on top of a house
 	- As people pass, then subtly put two fingers over their heart
 		- (We later find out that this is a belief of good fortune (?) according to [[Ismark Kolyanovich]])

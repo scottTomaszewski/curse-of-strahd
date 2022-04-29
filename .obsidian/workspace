@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Non-Player Characters/Ireena Kolyanovich.md",
+            "file": "docs/Sessions/Session 4.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "letter 1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Non-Player Characters/Ireena Kolyanovich.md",
+                "file": "docs/Sessions/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,20 +97,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437,
-    "collapsed": true
+    "width": 437
   },
   "active": "d62ea473cc873ec9",
   "lastOpenFiles": [
+    "docs/Sessions/Session 4.md",
     "docs/Non-Player Characters/Ireena Kolyanovich.md",
     "docs/Handouts/Kolyan Letter.md",
-    "Kolyan Letter.md",
-    "docs/Sessions/Session 4.md",
+    "docs/Handouts/Kolyan Letter 1.md",
+    "docs/Non-Player Characters/Sorvia.md",
     "docs/Non-Player Characters/Strahd von Zarovich.md",
     "docs/Assets/Kolyan Letter.png",
-    "Mirabell.md",
-    "Illinka.md",
-    "Sorvia.md",
+    "docs/Non-Player Characters/Mirabell.md",
+    "docs/Non-Player Characters/Illinka.md",
     "docs/Organizations/Ex Vistani.md"
   ]
 }
