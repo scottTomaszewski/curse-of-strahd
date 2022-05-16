@@ -14,8 +14,7 @@ tags:
 
 - Twin of [[Kali Rouge]]
 - Sister of [[Ismark Kolyanovich]]
-- Adopted daughter of [[Kolyan Indirovich]]
-	- According to the [[Kolyan Letter]]
+- Daughter of [[Kolyan Indirovich]] (according to the [[Kolyan Letter]])
 
 ## History
 
