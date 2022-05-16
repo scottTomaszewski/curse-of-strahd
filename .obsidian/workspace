@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Non-Player Characters/Madam Eva.md",
+            "file": "docs/Items/Tarokka Deck.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 4.md",
+                "file": "docs/Items/Tarokka Deck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 437,
     "collapsed": true
   },
-  "active": "1fef674dc06ea9f3",
+  "active": "d28fc9e3d50386ce",
   "lastOpenFiles": [
-    "docs/Sessions/Session 4.md",
+    "docs/Items/Tarokka Deck.md",
     "docs/Non-Player Characters/Madam Eva.md",
+    "docs/Non-Player Characters/Morgantha.md",
+    "docs/Items/Untitled.md",
+    "docs/Untitled.md",
+    "docs/Sessions/Session 4.md",
     "docs/Non-Player Characters/Ireena Kolyanovich.md",
-    "Tarokka Deck.md",
     "docs/Player Characters/Nox Vita.md",
     "docs/Non-Player Characters/Doru.md",
-    "docs/Non-Player Characters/Sorvia.md",
-    "docs/Non-Player Characters/Stanamir.md",
-    "docs/Non-Player Characters/Illinka.md",
-    "docs/Non-Player Characters/Eric.md"
+    "docs/Non-Player Characters/Sorvia.md"
   ]
 }
