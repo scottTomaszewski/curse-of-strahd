@@ -26,6 +26,7 @@ tags:
 - Met with [[Morgantha]] who was selling pies and pastries from a cart
 	- She says to a previous customer, "May the pie bring you a little relief"
 	- Recognizes us as outsiders, gives us a free meat pie
+		- [[Kali Rouge|Kali]], [[Nox Vita|Nox]], and [[Nirin Eze|Nirin]] all eat some of the pie
 	- Information/lore drop
 		- Villages: [[Barovia Village]], [[Vallaki]], and [[Krezk]]
 			- Rumor that there was a [[Fourth Village]] that was consumed by the river/lake (?)
@@ -45,7 +46,7 @@ tags:
 				- Kept under the floors of [[Barovia Church of the Morning Lord]]
 		- [[Strahd von Zarovich]] 
 			- Resides in [[Castle Ravenloft]]
-			- Has a servant referred to as the [[Chamberlain]] who "checks out" things in [[Barovia Village]] every once in a while
+			- Has a servant referred to as the [[Lord Rahadin]] who "checks out" things in [[Barovia Village]] every once in a while
 			- [[Morgantha]] has never met [[Strahd von Zarovich]]
 		- [[Tser Pool]] is down the road, formed from the runoff of the mountains
 	- (Whispered) Does not appreciate [[Strahd von Zarovich]]'s leadership
@@ -95,7 +96,7 @@ On the way to [[Burgomaster Manor]], we stopped by [[Bill Draur's Mercantile]]
 
 - Met the shopkeep [[Bill Draur]] and his nephew [[Periwimple]]
 - Sold a few things, bought some adventuring gear
-- [[Bill Draur]] asked us to fetch his leather bundle in exchange for a 20% discount, see [[Retreive Leather Bundle for Bill Draur]] for details
+- [[Bill Draur]] asked us to fetch his leather bundle in exchange for a 20% discount, see [[Retrieve Leather Bundle for Bill Draur]] for details
 
 ## Evening in the Burgomaster Manor
 
@@ -121,7 +122,7 @@ Everyone made their way back to the [[Burgomaster Manor]] to rest for the night.
 
 That night, we all received the same dream: we stood at a crossroads of 2 directions designated by a sign post.  On top of the sign post was a Raven that cocked its head towards the direction indicated on the sign as the "[[Tser Pool]]", opposite of the post that pointed towards [[Castle Ravenloft]] and [[Vallaki]].  In our dream, the scene blurred to see an empty [[Vistani]] caravan encampment.  We were drawn to one tent in particular; one that was more ornate, but older and faded.  Inside the tent we saw trinkets, relics, a chair, and table.  At the table was a woman (likely [[Madam Eva]]) who pulled out a [[Tarokka Deck]] and draws the "Mist" card saying, "The distance between us renders my sight blurred.  Join me at the [[Tser Pool]] to see what your future holds."
 
-That night, those that ate the pies earlier that day felt a "beautiful rest - feelings of safety and comfort"
+That night, those that ate the pies earlier that day ([[Kali Rouge|Kali]], [[Nox Vita|Nox]], and [[Nirin Eze|Nirin]]) felt a "beautiful rest - feelings of safety and comfort"
 
 ## Active Leads
 

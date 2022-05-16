@@ -17,6 +17,7 @@ tags:
 - Sister of [[Ismark Kolyanovich]]
 - Daughter of [[Kolyan Indirovich]] (according to the [[Kolyan Letter]])
 - Biten by [[Strahd von Zarovich]], see [[#Strahd Makes Moves]]
+- Thinks [[Bill Draur]] is "an ass, his shop has nothing worth it, but this bag could be just as worthless." ([[Session 5#Battle for the Leather Bundle]])
 
 ## History
 
@@ -31,7 +32,7 @@ tags:
 		- He was very polite
 		- She could not say "no" (she was charmed)
 		- She let him into her house both times	as he is forbidden (see [[Strahd von Zarovich#Forbidden Entry]])
-	- The [[Chamberlain]] was with Strahd in a Black Carriage
+	- The [[Lord Rahadin]] was with Strahd in a Black Carriage
 	- [[Ismark Kolyanovich]] was also with them, but he too was charmed and unable to stop Strahd
 		- Said he "didn't want to" in the moment
 

@@ -16,4 +16,8 @@ Character Sheet: https://www.dndbeyond.com/characters/66370582
 - Twin sister of [[Ireena Kolyanovich]]
 - Daughter of [[Kolyan Indirovich]]
 
+## Items
 
+### Dream Book
+
+A book that records her dreams

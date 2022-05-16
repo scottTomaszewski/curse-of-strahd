@@ -9,6 +9,10 @@ tags:
 
 Character Sheet: https://www.dndbeyond.com/characters/67724958
 
+## Box
+
+Not sure what this is, but Nox engages with it when others aren't watching
+
 ## Notes
 
 - Slept in a bed for the first time in [[Session 4#Rest at the Burgomaster Manor]]
