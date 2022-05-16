@@ -101,13 +101,30 @@ On the way to [[Burgomaster Manor]], we stopped by [[Bill Draur's Mercantile]]
 
 [[Ismark Kolyanovich]] guided us to his residence, the [[Burgomaster Manor]] which  [[Burgomaster Manor#Description|appeared]] to be setup for defense and appeared to be under attack
 
-- Met [[Ireena Kolyanovich]] for the first time who looked exactly like [[Kali Rouge|Kali]], but with black hair
+- Met [[Ireena Kolyanovich]] for the first time (with a dagger in hand) who looked exactly like [[Kali Rouge|Kali]], but with black hair
 - In another room was the corpse of [[Kolyan Indirovich]] who had been [[Kolyan Indirovich#Death|dead]] for several days and was giving off a smell
 - [[Ireena Kolyanovich]] and [[Ismark Kolyanovich]] shared details about Ireena's bite marks from when [[Ireena Kolyanovich#Strahd Makes Moves|Strahd made moves]] on her
+- The sibilings believe that bringing [[Ireena Kolyanovich|Ireena]] to the [[Church of St Andral]] in [[Vallaki]] is the safest place for her. 
 - Learned that the calendar is based on the moon (See [[Moon#Calendar]])
 
 ## Transport of Kolyan
 
+We decided to move [[Kolyan Indirovich|Kolyan's]] corpse to the [[Barovia Church of the Morning Lord]] in preparaton for the funeral ceremonies.  The party took his body over with [[Ismark Kolyanovich]] as their guide, while [[Kali Rouge|Kali]] and [[Nirin Eze|Nirin]] stayed behind to protect and give [[Ireena Kolyanovich]] some training.  [[Nirin Eze|Nirin]] proved he was very well trained against both of them, despite Ireena being the "best swordsman in the village" and Kali's experiences.
+
+While traveling with [[Kolyan Indirovich|Kolyan's]] body, people slammed windows and doors shut as they passed by.  When the rest of the group arrived at the [[Barovia Church of the Morning Lord|Barovia Church]] the priest, [[Father Donovich]] was welcoming, but crazed from his son in the basement.  Nox fearfully ventured into the basement to attempt to help the situation, but after conversing with [[Doru]], the vampiric son in the basement who was crying for blood, "so hungry!", Nox quickly tried to escape with the help of the others.
+
 ## Rest at the Burgomaster Manor
 
-- Sleep 
+Everyone made their way back to the [[Burgomaster Manor]] to rest for the night.  As a group, we agree that we shouldn't make enemies with [[Strahd von Zarovich]] so early.  
+
+[[Sanar]] and [[Nox Vita|Nox]] share a room as Nox sleeps in a bed for the first time in his life and shared a bit about his background.  As [[Nirin Eze|Nirin]] ended the day, he prayed and the words "[[Morgantha]] knows more" came to him. 
+
+That night, we all received the same dream: we stood at a crossroads of 2 directions designated by a sign post.  On top of the sign post was a Raven that cocked its head towards the direction indicated on the sign as the "[[Tser Pool]]", opposite of the post that pointed towards [[Castle Ravenloft]] and [[Vallaki]].  In our dream, the scene blurred to see an empty [[Vistani]] caravan encampment.  We were drawn to one tent in particular; one that was more ornate, but older and faded.  Inside the tent we saw trinkets, relics, a chair, and table.  At the table was a woman (likely [[Madam Eva]]) who pulled out a [[Tarokka Deck]] and draws the "Mist" card saying, "The distance between us renders my sight blurred.  Join me at the [[Tser Pool]] to see what your future holds."
+
+That night, those that ate the pies earlier that day felt a "beautiful rest - feelings of safety and comfort"
+
+## Active Leads
+
+- Find the leather bundle for shopkeeper
+- Bring Ireena to Vallaki Church
+- Head to the Tser Pool to visit Madam Eva

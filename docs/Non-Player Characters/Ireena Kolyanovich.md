@@ -9,6 +9,7 @@ tags:
 	- Both [[Kali Rouge|Kali]] and Ireena have died their hair from the natural red.  
 - Ireena died hers because red hair is looked down upon in [[Barovia]]
 - Knows the way to the [[Tser Pool]] according to [[Ismark Kolyanovich]] ([[Session 4#Entering the Blood on the Vine Tavern]])
+- Self described as the "best swordsman in the village" and "has political clout" ([[Session 4]])
 
 ## Relationships
 
