@@ -77,17 +77,37 @@ Walking down the main road to the tavern...
 		- [[Sorvia]], [[Illinka]], and [[Mirabell]]
 		- Eyeing drunk [[Ismark Kolyanovich]] 
 	- Man, [[Ismark Kolyanovich]] who takes particular interest in [[Kali Rouge|Kali]]
-- [[Kali Rouge]] and [[Ismark Kolyanovich]] have a conversation
-	- Ismark claims 
-		- He is Kali's brother 
-		- Is the Son of the Burgomaster
-		- Kali has a twin, [[Ireena Kolyanovich]]
+- Broke party attempts to barter for drinks with [[Klepto]] sneaking a pitcher with coin he subtly acquired and [[Sanar]] attempting a magic trick against [[Eric]]
+	- [[Sorvia]], [[Illinka]], and [[Mirabell]] confront [[Sanar]] and tell him not to trick others with magic
+- [[Kali Rouge]] and [[Ismark Kolyanovich]] have a conversation where he claimes
+	- He is Kali's brother 
+	- Is the Son of the Burgomaster
+	- Kali has a twin, [[Ireena Kolyanovich]]
 - Group conversation with [[Ismark Kolyanovich]] 
 	- Claims the [[Vistani]] passed through [[Barovia Village]] 3 days ago and [[Stanamir]] was with them
 		- They were headed to the [[Tser Pool]]
 	- Upon hearing about the [[Kolyan Letter]] found on the dead body at the beginning of the session, claims that was messenger sent from his father, [[Kolyan Indirovich]]
-	- 
+- We decide to take the conversation to a more private location and [[Ismark Kolyanovich]] offers his home, the [[Burgomaster Manor]]
 
-## Manor rest stuff
+## Visiting Bill Draur's Mercantile
+
+On the way to [[Burgomaster Manor]], we stopped by [[Bill Draur's Mercantile]]
+
+- Met the shopkeep [[Bill Draur]] and his nephew [[Periwimple]]
+- Sold a few things, bought some adventuring gear
+- [[Bill Draur]] asked us to fetch his leather bundle in exchange for a 20% discount, see [[Retreive Leather Bundle for Bill Draur]] for details
+
+## Evening in the Burgomaster Manor
+
+[[Ismark Kolyanovich]] guided us to his residence, the [[Burgomaster Manor]] which  [[Burgomaster Manor#Description|appeared]] to be setup for defense and appeared to be under attack
+
+- Met [[Ireena Kolyanovich]] for the first time who looked exactly like [[Kali Rouge|Kali]], but with black hair
+- In another room was the corpse of [[Kolyan Indirovich]] who had been [[Kolyan Indirovich#Death|dead]] for several days and was giving off a smell
+- [[Ireena Kolyanovich]] and [[Ismark Kolyanovich]] shared details about Ireena's bite marks from when [[Ireena Kolyanovich#Strahd Makes Moves|Strahd made moves]] on her
+- Learned that the calendar is based on the moon (See [[Moon#Calendar]])
+
+## Transport of Kolyan
+
+## Rest at the Burgomaster Manor
 
 - Sleep 

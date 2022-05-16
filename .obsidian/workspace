@@ -9,7 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "docs/Non-Player Characters/Ireena Kolyanovich.md",
+=======
+            "file": "docs/Sessions/Session 4.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "9e4077dae9ef8919",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Locations/Moon.md",
+>>>>>>> 0f15a058bff413a1e435a5fba0d9b1e1028da48c
             "mode": "source"
           }
         }
@@ -48,8 +64,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +84,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "docs/Non-Player Characters/Ireena Kolyanovich.md",
+=======
+                "file": "docs/Locations/Moon.md",
+>>>>>>> 0f15a058bff413a1e435a5fba0d9b1e1028da48c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +106,7 @@
     "width": 437,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "1fef674dc06ea9f3",
   "lastOpenFiles": [
     "docs/Non-Player Characters/Ireena Kolyanovich.md",
@@ -99,5 +119,19 @@
     "docs/Assets/Kolyan Letter.png",
     "docs/Non-Player Characters/Mirabell.md",
     "docs/Non-Player Characters/Illinka.md"
+=======
+  "active": "9e4077dae9ef8919",
+  "lastOpenFiles": [
+    "docs/Locations/Moon.md",
+    "docs/Sessions/Session 4.md",
+    "docs/Assets/Barovia Church of the Morning Lord.png",
+    "docs/Non-Player Characters/Strahd von Zarovich.md",
+    "docs/Organizations/Vistani.md",
+    "docs/Non-Player Characters/Kolyan Indirovich.md",
+    "docs/Handouts/Kolyan Letter.md",
+    "docs/Non-Player Characters/Ireena Kolyanovich.md",
+    "docs/Locations/Burgomaster Manor.md",
+    "docs/Quests/Burial of Kolyan Indirovich.md"
+>>>>>>> 0f15a058bff413a1e435a5fba0d9b1e1028da48c
   ]
 }

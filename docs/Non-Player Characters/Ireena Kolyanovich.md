@@ -15,8 +15,24 @@ tags:
 - Twin of [[Kali Rouge]]
 - Sister of [[Ismark Kolyanovich]]
 - Daughter of [[Kolyan Indirovich]] (according to the [[Kolyan Letter]])
+- Biten by [[Strahd von Zarovich]], see [[#Strahd Makes Moves]]
 
 ## History
+
+### Strahd Makes Moves
+
+- [[Strahd von Zarovich]] has affection for Ireena according to [[Ismark Kolyanovich]]; and the village knows
+- Happened "recently"
+- Strahd bit her twice (time unknown)
+	- She is not showing signs of change, we know there are other parts of the ritual that need to take place in order to complete the transformation
+	- She is unsure why she was bitten 
+	- Ireena described Strahd's eyes as "hypnotic"
+		- He was very polite
+		- She could not say "no" (she was charmed)
+		- She let him into her house both times	as he is forbidden (see [[Strahd von Zarovich#Forbidden Entry]])
+	- The [[Chamberlain]] was with Strahd in a Black Carriage
+	- [[Ismark Kolyanovich]] was also with them, but he too was charmed and unable to stop Strahd
+		- Said he "didn't want to" in the moment
 
 ### Nightly Attacks
 
