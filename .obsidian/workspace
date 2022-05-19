@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Non-Player Characters/King Maker.md",
+                "file": "README.md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Non-Player Characters/King Maker.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "d28fc9e3d50386ce",
   "lastOpenFiles": [
-    "docs/Non-Player Characters/King Maker.md",
+    "README.md",
+    "docs/index.md",
     "docs/Sessions/Session 3.md",
+    "docs/Non-Player Characters/King Maker.md",
     "docs/Sessions/Session 1.md",
     "docs/Non-Player Characters/Ireena Kolyanovich.md",
     "docs/Non-Player Characters/Kolyan Indirovich.md",
     "docs/Sessions/Session 4.md",
     "docs/Assets/Gates of Barovia 1.png",
-    "docs/Sessions/Session 2.md",
-    "docs/Handouts/Strahd Letter to Dursts.md",
-    "docs/Non-Player Characters/Eric.md"
+    "docs/Sessions/Session 2.md"
   ]
 }

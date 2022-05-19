@@ -12,6 +12,8 @@ tags:
 
 I will clean this up....
 
+(see ryans notes here https://discord.com/channels/772116234509877311/772116235005591594/976657447961915422)
+
 - Loot in room
 	- Silver shortsword
 	- Black book with victim log
