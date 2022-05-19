@@ -33,7 +33,7 @@ Finishing off the remaining enemies and regrouping with a revived [[Sanar]], we 
 
 The final room was filled with water up to our waists, with a structure along the sides to stand on, and a pedestal in the middle. Upon the pedestal was a white baby's blanket - potentially owned by [[Durst Family|Walter]] - and a Bloody Dagger which seemed cursed.  As we entered, Shadows phased through the walls and began a chant of their own, "One must die!  One must die!"  Turning to leave, a Refuse Pile came alive in the corner of the room and attacked us.  The Shadows remained passive and eventually left the room.  In the battle, [[Klepto]] was eaten by the Pile and within he found the "heart" of the beast was a baby wailing ([[Durst Family|Walter]]).  [[Klepto]] reached out and cast Shocking Grasp to murder a baby, and the Pile fell.  
 
-On our way out, [[Klepto]] grabbed the Bloody Dagger, [[Kali Rouge|Kali]] grabbed a Bone Dagger and a Rat Skull Dagger, and [[Nox Vita|Nox]] grabbed a Shriveled Goblin Hand.  [[Nox Vita|Nox]] lay the family to rest in the Crypts we found in [[Session 2#Navigating the Death House]].  
+On our way out, [[Klepto]] grabbed the Bloody Dagger, [[Kali Rouge|Kali]] grabbed a Bone Dagger and a Rat Skull Dagger, and [[Nox Vita|Nox]] grabbed a Shriveled Goblin Hand.  The Bloody Dagger was used for cursed sacrifices in the basement and when grabbed it restored [[Klepto]]'s' spells and enabled him to do so subtly, as if it wanted to be picked up.  [[Nox Vita|Nox]] lay the family to rest in the Crypts we found in [[Session 2#Navigating the Death House]].  
 
 ## Collapsing Death House
 
