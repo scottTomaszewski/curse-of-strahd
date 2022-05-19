@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Durst Family.md",
+                "file": "docs/Non-Player Characters/Durst Family.md",
                 "mode": "source"
               }
             }
@@ -68,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
   "active": "6e82afa0e4ca3e28",
   "lastOpenFiles": [
     "docs/Sessions/Session 3.md",
-    "Durst Family.md",
+    "docs/Non-Player Characters/Durst Family.md",
     "docs/Locations/Death House.md",
     "docs/Non-Player Characters/Strahd von Zarovich.md",
     "docs/Non-Player Characters/Ireena Kolyanovich.md",
