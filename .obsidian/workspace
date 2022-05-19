@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Non-Player Characters/Durst Family.md",
+                "file": "docs/Player Characters/Klepto.md",
                 "mode": "source"
               }
             }
@@ -108,6 +108,7 @@
   "active": "6e82afa0e4ca3e28",
   "lastOpenFiles": [
     "docs/Sessions/Session 3.md",
+    "docs/Player Characters/Klepto.md",
     "docs/Non-Player Characters/Durst Family.md",
     "docs/Locations/Death House.md",
     "docs/Non-Player Characters/Strahd von Zarovich.md",
@@ -115,7 +116,6 @@
     "README.md",
     "docs/index.md",
     "docs/Non-Player Characters/King Maker.md",
-    "docs/Sessions/Session 1.md",
-    "docs/Non-Player Characters/Kolyan Indirovich.md"
+    "docs/Sessions/Session 1.md"
   ]
 }
