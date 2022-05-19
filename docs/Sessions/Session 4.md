@@ -5,6 +5,8 @@ tags:
 
 # Session 4
 
+[Youtube: Curse of Strahd Session 4](https://youtu.be/Zdy4RAJWcXE)
+
 ## [[Barovia Village#Svalich Woods|Svalich Woods]]
 
 - [[Klepto]] smells/sees death

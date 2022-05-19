@@ -5,6 +5,8 @@ tags:
 
 # Session 5
 
+[Youtube: Curse of Strahd Session 5](https://youtu.be/1pBFAP5rmlk)
+
 ## Waking at the [[Burgomaster Manor]]
 
 We all wake up at the [[Burgomaster Manor]] after sharing the same dream (see [[Session 4#Rest at the Burgomaster Manor]]). [[Kali Rouge|Kali]], [[Nox Vita|Nox]], and [[Nirin Eze|Nirin]] all have a lovely sleep as a result of eating the pie the day before.  Kali opened her [[Kali Rouge#Dream Book|Dream Book]] to find no description of the dream, only positive adjectives.  The peaceful sleep led [[Nirin Eze|Nirin]] to rush out of the house early to acquire more pies only to find [[Morgantha]] had left already.  Instead, [[Eric]] told him that she left behind a few pies for purchase.  Without any money, [[Nirin Eze|Nirin]] tricked [[Eric]] into putting the pies on another's tab. [[Nox Vita|Nox]] and [[Sanar]] woke and Nox made an attempt to engage with his [[Nox Vita#Box]].
