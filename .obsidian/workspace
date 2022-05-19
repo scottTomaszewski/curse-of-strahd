@@ -10,14 +10,12 @@
           {
             "id": "6e82afa0e4ca3e28",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Sessions/Session 3.md",
+                "file": "docs/Organizations/Vistani.md",
                 "mode": "source"
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -26,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Sessions/Session 5.md",
                 "mode": "source"
               }
             }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Sessions/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +105,15 @@
   },
   "active": "54054fc92edf89ca",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/Player Characters/Kali Rouge.md",
-    "docs/Player Characters/Demetri Bebanburg.md",
-    "docs/Player Characters/Sanar.md",
-    "docs/Player Characters/Nox Vita.md",
-    "docs/Player Characters/Nirin Eze.md",
-    "docs/Player Characters/Klepto.md",
+    "docs/Sessions/Session 5.md",
+    "docs/Organizations/Vistani.md",
+    "docs/Non-Player Characters/Stanamir.md",
+    "docs/Quests/Meet Madam Eva.md",
+    "docs/Quests/Retrieve Leather Bundle for Bill Draur.md",
+    "docs/Quests/Burial of Kolyan Indirovich.md",
     "docs/Sessions/Session 3.md",
-    "docs/Non-Player Characters/Durst Family.md",
-    "docs/Locations/Death House.md"
+    "docs/Quests/Bring Ireena to the Abbey of Saint Markovia.md",
+    "docs/Quests/Bring Ireena to Vallaki.md",
+    "docs/index.md"
   ]
 }

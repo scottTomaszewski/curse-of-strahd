@@ -37,10 +37,10 @@ As we walked down the river, [[Demetri Bebanburg|Demetri]] spotted a leather bun
 
 As we returned to [[Barovia Village]], [[Sanar]] convinced the group to open the satchel and [[Kali Rouge|Kali]] did so after [[Ireena Kolyanovich]] claimed [[Bill Draur]] to be "an ass, his shop has nothing worth it, but this bag could be just as worthless."  Within the pack was approximately 4 Explorers Packs.  
 
-When we arrived in the [[Barovia Village|village]], we made our way to [[Bill Draur's Mercantile]] to return the satchel where [[Bill Draur]] gave us a 20gp discount, but it meant nothing as he increased the price of a Shield for [[Nox Vita|Nox]] to 35gp!  After agreeing to purchase the Shield for 15gp, we started heading for the [[Tser Pool]].
+When we arrived in the [[Barovia Village|village]], we made our way to [[Bill Draur's Mercantile]] to return the satchel where [[Bill Draur]] gave us a 20gp discount, but it meant nothing as he increased the price of a Shield for [[Nox Vita|Nox]] to 35gp!  After agreeing to purchase the Shield for 15gp, we started heading for the [[Tser Pool]] to [[Meet Madam Eva]]
 
 ## Active Leads
 
-- Bring Ireena to the Vallaki Church
-- Bring Ireena to the Krezk Abbey
-- Head to the Tser Pool to visit Madam Eva
+- [[Bring Ireena to Vallaki]]
+- [[Bring Ireena to the Abbey of Saint Markovia]]
+- [[Meet Madam Eva]]
