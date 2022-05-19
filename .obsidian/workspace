@@ -8,34 +8,25 @@
         "type": "split",
         "children": [
           {
-            "id": "d28fc9e3d50386ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "a6d7517d5c34dddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Non-Player Characters/Ireena Kolyanovich.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
             "id": "6e82afa0e4ca3e28",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/Sessions/Session 3.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "54054fc92edf89ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Durst Family.md",
                 "mode": "source"
               }
             }
@@ -68,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "letter 1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Sessions/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,20 +104,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437,
-    "collapsed": true
+    "width": 437
   },
-  "active": "d28fc9e3d50386ce",
+  "active": "6e82afa0e4ca3e28",
   "lastOpenFiles": [
+    "docs/Sessions/Session 3.md",
+    "Durst Family.md",
+    "docs/Locations/Death House.md",
+    "docs/Non-Player Characters/Strahd von Zarovich.md",
+    "docs/Non-Player Characters/Ireena Kolyanovich.md",
     "README.md",
     "docs/index.md",
-    "docs/Sessions/Session 3.md",
     "docs/Non-Player Characters/King Maker.md",
     "docs/Sessions/Session 1.md",
-    "docs/Non-Player Characters/Ireena Kolyanovich.md",
-    "docs/Non-Player Characters/Kolyan Indirovich.md",
-    "docs/Sessions/Session 4.md",
-    "docs/Assets/Gates of Barovia 1.png",
-    "docs/Sessions/Session 2.md"
+    "docs/Non-Player Characters/Kolyan Indirovich.md"
   ]
 }

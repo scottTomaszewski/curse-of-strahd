@@ -1,16 +1,20 @@
 ---
-aliases: The Devil, The Count, The Beast
+aliases: The Devil, The Count, The Beast, The Ancient
 tags: 
 ---
 
 # Strahd von Zarovich
 
-- Also known as *The Devil*, *The Count*, *The Beast*
+- Also known as 
+	- *The Devil* by many townsfolk (who seem to fear saying his name)
+	- *The Count*
+	- *The Beast* 
+	- *The Ancient* by the chanting in [[Session 3#Death House Basement]]
+	- *The Land* by the chanting in [[Session 3#Death House Basement]]
 - Dwells in [[Castle Ravenloft]]
-	- Doesnt often come down
+	- Doesn't often come down
 - Is potentially a [[Vampirism#Full Vampire]]
 	- According to [[Ireena Kolyanovich]] in [[Session 4#Evening in the Burgomaster Manor]], when she was charmed by Strahd (see [[Ireena Kolyanovich#Strahd Makes Moves]]), rumor has it that he was forbidden from entering a home without permission
-
 
 ## Description
 
