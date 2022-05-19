@@ -8,37 +8,17 @@
         "type": "split",
         "children": [
           {
-            "id": "9676ab866e967e3f",
-            "type": "split",
-            "children": [
-              {
-                "id": "d28fc9e3d50386ce",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "docs/Sessions/Session 5.md",
-                    "mode": "source"
-                  },
-                  "pinned": true
-                }
+            "id": "d28fc9e3d50386ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/Session 5.md",
+                "mode": "source"
               },
-              {
-                "id": "4246e529c4360e88",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "docs/Sessions/Session 4.md",
-                    "mode": "source"
-                  },
-                  "pinned": true
-                }
-              }
-            ],
-            "direction": "horizontal"
+              "pinned": true
+            }
           },
           {
             "id": "6e82afa0e4ca3e28",
@@ -46,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Quests/Retrieve Leather Bundle for Bill Draur.md",
+                "file": "docs/Sessions/Session 1.md",
                 "mode": "source"
               }
             }
@@ -108,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 5.md",
+                "file": "docs/Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +106,17 @@
     "width": 437,
     "collapsed": true
   },
-  "active": "d28fc9e3d50386ce",
+  "active": "6e82afa0e4ca3e28",
   "lastOpenFiles": [
+    "docs/Sessions/Session 1.md",
     "docs/Sessions/Session 5.md",
-    "docs/Sessions/Session 4.md",
+    "docs/Locations/Death House.md",
     "docs/Quests/Retrieve Leather Bundle for Bill Draur.md",
+    "docs/Sessions/Session 4.md",
     "docs/Non-Player Characters/Ireena Kolyanovich.md",
     "docs/Non-Player Characters/Bill Draur.md",
-    "Abbot.md",
-    "Abbey of Saint Markovia.md",
-    "docs/Locations/Krezk.md",
-    "docs/Quests/Bring Ireena to the Abbey of Saint Markovia.md",
-    "docs/Player Characters/Nirin Eze.md"
+    "docs/Non-Player Characters/Abbot.md",
+    "docs/Locations/Abbey of Saint Markovia.md",
+    "docs/Locations/Krezk.md"
   ]
 }
