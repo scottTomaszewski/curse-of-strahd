@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Sessions/Session 2.md",
+                "file": "docs/Sessions/Session 3.md",
                 "mode": "source"
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 2.md",
+                "file": "docs/Sessions/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "d28fc9e3d50386ce",
   "lastOpenFiles": [
+    "docs/Sessions/Session 3.md",
+    "docs/Assets/Gates of Barovia 1.png",
     "docs/Sessions/Session 2.md",
     "docs/Sessions/Session 1.md",
     "docs/Handouts/Strahd Letter to Dursts.md",
     "docs/Non-Player Characters/Eric.md",
     "docs/Sessions/Session 5.md",
     "docs/Sessions/Session 4.md",
-    "docs/Sessions/Session 3.md",
     "docs/Locations/Death House.md",
-    "docs/Quests/Retrieve Leather Bundle for Bill Draur.md",
-    "docs/Non-Player Characters/Ireena Kolyanovich.md"
+    "docs/Quests/Retrieve Leather Bundle for Bill Draur.md"
   ]
 }

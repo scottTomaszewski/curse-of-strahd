@@ -17,7 +17,7 @@ tags:
 
 ## Gates of Barovia
 
-![[Gates of Barovia.png]]
+![[docs/Assets/Gates of Barovia.png]]
 
 - East of Barovia Village
 
