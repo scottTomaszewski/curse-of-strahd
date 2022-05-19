@@ -7,8 +7,8 @@ tags:
 
 ![[Demetri Bebanburg.png|500]]
 
-Character sheet: [DnD Beyond - Demetri](https://www.dndbeyond.com/characters/70139190)
-Played by Stagno
+- Character sheet: [DnD Beyond - Demetri](https://www.dndbeyond.com/characters/70139190)
+- Played by Stagno
 
 ## [[Vampirism]]
 

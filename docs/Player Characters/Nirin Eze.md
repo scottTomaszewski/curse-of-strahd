@@ -7,8 +7,8 @@ tags:
 
 ![[Nirin Eze.png|500]]
 
-Character Sheet: [DnD Beyond - Nirin](https://www.dndbeyond.com/characters/66350071)
-Played by Ty
+- Character Sheet: [DnD Beyond - Nirin](https://www.dndbeyond.com/characters/66350071)
+- Played by Ty
 
 ## Items
 

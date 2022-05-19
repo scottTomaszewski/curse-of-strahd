@@ -7,8 +7,8 @@ tags:
 
 ![[Kali Rouge.png|500]]
 
-Character Sheet: [DnD Beyond - Kali](https://www.dndbeyond.com/characters/66370582)
-Played by: Scott
+- Character Sheet: [DnD Beyond - Kali](https://www.dndbeyond.com/characters/66370582)
+- Played by: Scott
 
 - Was referred to as "Allison" by [[Ismark Kolyanovich]] and [[Ireena Kolyanovich]] in [[Session 4]]
 

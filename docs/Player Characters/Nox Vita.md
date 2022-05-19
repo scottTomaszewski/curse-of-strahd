@@ -7,8 +7,8 @@ tags:
 
 ![[Nox Vita.png|500]]
 
-Character Sheet: [DnD Beyond - Nox](https://www.dndbeyond.com/characters/67724958)
-Played by Zach
+- Character Sheet: [DnD Beyond - Nox](https://www.dndbeyond.com/characters/67724958)
+- Played by Zach
 
 ## Notes
 
