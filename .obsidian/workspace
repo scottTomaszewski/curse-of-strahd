@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Player Characters/Klepto.md",
+                "file": "docs/index.md",
                 "mode": "source"
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 3.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "direction": "horizontal",
     "width": 437
   },
-  "active": "6e82afa0e4ca3e28",
+  "active": "54054fc92edf89ca",
   "lastOpenFiles": [
-    "docs/Sessions/Session 3.md",
-    "docs/Player Characters/Klepto.md",
-    "docs/Non-Player Characters/Durst Family.md",
-    "docs/Locations/Death House.md",
-    "docs/Non-Player Characters/Strahd von Zarovich.md",
-    "docs/Non-Player Characters/Ireena Kolyanovich.md",
-    "README.md",
     "docs/index.md",
-    "docs/Non-Player Characters/King Maker.md",
-    "docs/Sessions/Session 1.md"
+    "docs/Player Characters/Kali Rouge.md",
+    "docs/Player Characters/Demetri Bebanburg.md",
+    "docs/Player Characters/Sanar.md",
+    "docs/Player Characters/Nox Vita.md",
+    "docs/Player Characters/Nirin Eze.md",
+    "docs/Player Characters/Klepto.md",
+    "docs/Sessions/Session 3.md",
+    "docs/Non-Player Characters/Durst Family.md",
+    "docs/Locations/Death House.md"
   ]
 }
