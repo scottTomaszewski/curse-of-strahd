@@ -10,14 +10,12 @@
           {
             "id": "d28fc9e3d50386ce",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Sessions/Session 5.md",
+                "file": "docs/Sessions/Session 2.md",
                 "mode": "source"
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -26,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Sessions/Session 5.md",
+                "file": "docs/Sessions/Session 1.md",
                 "mode": "source"
               }
             }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 5.md",
+                "file": "docs/Sessions/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +104,17 @@
     "width": 437,
     "collapsed": true
   },
-  "active": "6e82afa0e4ca3e28",
+  "active": "d28fc9e3d50386ce",
   "lastOpenFiles": [
+    "docs/Sessions/Session 2.md",
+    "docs/Sessions/Session 1.md",
+    "docs/Handouts/Strahd Letter to Dursts.md",
+    "docs/Non-Player Characters/Eric.md",
     "docs/Sessions/Session 5.md",
     "docs/Sessions/Session 4.md",
     "docs/Sessions/Session 3.md",
-    "docs/Sessions/Session 2.md",
-    "docs/Sessions/Session 1.md",
     "docs/Locations/Death House.md",
     "docs/Quests/Retrieve Leather Bundle for Bill Draur.md",
-    "docs/Non-Player Characters/Ireena Kolyanovich.md",
-    "docs/Non-Player Characters/Bill Draur.md",
-    "docs/Non-Player Characters/Abbot.md"
+    "docs/Non-Player Characters/Ireena Kolyanovich.md"
   ]
 }
