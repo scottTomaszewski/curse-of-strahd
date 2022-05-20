@@ -20,8 +20,11 @@
         "id": "9e4077dae9ef8919",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/Sessions/Session 6.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -78,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Sessions/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +100,9 @@
   },
   "active": "9e4077dae9ef8919",
   "lastOpenFiles": [
+    "docs/Sessions/Session 6.md",
     "Pasted image 20220519221928.png",
     "Pasted image 20220519221828.png",
-    "docs/Sessions/Session 6.md",
     "docs/Assets/Tser Pool Crossroads.png",
     "docs/Assets/Tser Pool Vistani Camp.png",
     "docs/index.md",

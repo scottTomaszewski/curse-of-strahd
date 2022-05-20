@@ -54,6 +54,7 @@ We get to a crossroads (1 hour later)
 ![[Tser Pool Vistani Camp.png]]
 
 Caravan
+
 - Stanamir greets us "youve made it" and hug, give us wine
 - Ireena is tense, but trying to break from traditions of brother/father
 - why can vistani leave
