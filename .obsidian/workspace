@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Locations/Moon.md",
+            "file": "docs/Sessions/Session 4.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Locations/Moon.md",
+                "file": "docs/Sessions/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 437
   },
-  "active": "9e4077dae9ef8919",
+  "active": "5a614796ec898c62",
   "lastOpenFiles": [
-    "docs/Locations/Moon.md",
     "docs/Sessions/Session 4.md",
+    "docs/Locations/Church of St Andral.md",
+    "docs/Locations/Blood on the Vine Tavern.md",
+    "docs/Non-Player Characters/Ireena Kolyanovich.md",
+    "docs/Locations/Moon.md",
     "docs/Assets/Barovia Church of the Morning Lord.png",
     "docs/Non-Player Characters/Strahd von Zarovich.md",
     "docs/Organizations/Vistani.md",
     "docs/Non-Player Characters/Kolyan Indirovich.md",
-    "docs/Handouts/Kolyan Letter.md",
-    "docs/Non-Player Characters/Ireena Kolyanovich.md",
-    "docs/Locations/Burgomaster Manor.md",
-    "docs/Quests/Burial of Kolyan Indirovich.md"
+    "docs/Handouts/Kolyan Letter.md"
   ]
 }

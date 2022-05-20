@@ -95,6 +95,7 @@ On the way to [[Burgomaster Manor]], we stopped by [[Bill Draur's Mercantile]]
 
 - Met the shopkeep [[Bill Draur]] and his nephew [[Periwimple]]
 - Sold a few things, bought some adventuring gear
+	- 2 backpacks, 4 ropes, 1 piton
 - [[Bill Draur]] asked us to fetch his leather bundle in exchange for a 20% discount, see [[Retreive Leather Bundle for Bill Draur]] for details
 
 ## Evening in the Burgomaster Manor
@@ -105,8 +106,13 @@ On the way to [[Burgomaster Manor]], we stopped by [[Bill Draur's Mercantile]]
 - In another room was the corpse of [[Kolyan Indirovich]] who had been [[Kolyan Indirovich#Death|dead]] for several days and was giving off a smell
 - [[Ireena Kolyanovich]] and [[Ismark Kolyanovich]] shared details about Ireena's bite marks from when [[Ireena Kolyanovich#Strahd Makes Moves|Strahd made moves]] on her
 - Learned that the calendar is based on the moon (See [[Moon#Calendar]])
+- Ireena and Ismark requested we give Kolyan a proper burial.  
+	- Tonight we can bring his body to the [[Barovia Church of the Morning Lord]] (to get tit out of the house)
+	- Tomorrow we can perform the burial rites as part of [[Burial of Kolyan Indirovich]]
 
 ## Transport of Kolyan
+
+
 
 ## Rest at the Burgomaster Manor
 

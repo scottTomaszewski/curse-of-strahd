@@ -22,8 +22,7 @@ tags:
 ### Strahd Makes Moves
 
 - [[Strahd von Zarovich]] has affection for Ireena according to [[Ismark Kolyanovich]]; and the village knows
-- Happened "recently"
-- Strahd bit her twice (time unknown)
+- Strahd bit her twice "recently"
 	- She is not showing signs of change, we know there are other parts of the ritual that need to take place in order to complete the transformation
 	- She is unsure why she was bitten 
 	- Ireena described Strahd's eyes as "hypnotic"
