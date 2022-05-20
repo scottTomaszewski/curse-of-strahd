@@ -70,6 +70,7 @@ Caravan
 	- Some vistani wander freely, true ex-vistani
 
 Ireena joins us in the Madam Eva tent
+
 - pillows to sit on, crystal ball, chair
 - Eva
 	- grey hair, weathered face
