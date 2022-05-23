@@ -99,9 +99,9 @@ We venture into [[Madam Eva]]'s tent with [[Ireena Kolyanovich]] where we find a
 | [[Demetri Bebanburg]] | Necromancer              | Artifact               |
 | [[Kali Rouge]]        | Avenger                  | Broken One             |
 | [[Klepto]]            | Rogue                    | Executioner            |
-| [[Nirin Eze]]         | Illusionist              | Beast                  |
+| [[Nirin Eze]]         | Illusionist              | Tempter                |
 | [[Nox Vita]]          | Anarchist                | Ghost                  |
-| [[Sanar]]             | Enchanter                | Tempter                |
+| [[Sanar]]             | Enchanter                | Beast                  |
 
 We asked [[Madam Eva]] why she was helping and she said, "My Inner eye told me you were coming and I was to help."  She is known to [[Nox Vita|Nox]] as "The Veiled Lady" when asking if she was a deity. She told him she was just a fortune teller, "What I was previously is of no consequence." and that the gods would not help and [[Nox Vita|Nox]] must find his own path.
 
