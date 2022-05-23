@@ -5,214 +5,127 @@ tags:
 
 # Session 6
 
-## Raw
+[Youtube: Curse of Strahd Session 6](https://www.youtube.com/watch?v=bkI1Ff3OY-k)
 
+## Walking to the Tser Pool
 
-- Traveling about an hour when we find an "unkindness" of ravens in a tree
-	- ireena puts 2 fingers to her heart and bows heads
-		- ravens = good luck
-		- to harm = bad luck
-		- possibly originated with mother night
-	- in relation to strahd, people may hide because it could be seen as treasonous, but ireena is unsure
+After leaving [[Barovia Village]], we made our way to the [[Tser Pool]].  We traveled for about an hour and came across an "unkindness" of [[Ravens]] were seen perched in a tree.  As we passed, [[Ireena Kolyanovich]] put two fingers to her heart and bowed her head telling us that ravens represent good luck and to kill one is said to bring on bad luck - the origin may be related to the [[Mother Night]].  When asked why the people hide it, Ireena said that recognition of the raven may be seen as treasonous against [[Strahd von Zarovich]] - but she wasn't entire sure of that.
 
-We get to a crossroads (1 hour later)
+We eventually reach a the Crossroads the we saw in our dream in [[Session 4#Rest at the Burgomaster Manor]].  
 
 ![[Tser Pool Crossroads.png]]
 
-- sign post
-	- NW to Tser pool, slants downwards
-	- SW ravencroft/vallaki slopes upwards
-- gallows and 11 gravestones
-	- No markings on the gravestones
-- Tser pool is about 5 hours away from barovia village
-- Ireena says everyone in barovia has negative perspective of vistani
-	- Ireena has never associated much them
-- as we leave, we hear a creaking and see a corpse is now there
-	- except for sanar who saw a dead version of himself
-- we keep walking and hear howling of wolves and the shouting of a person
-- find an unusual zombie surrounded by 4 wolves, size of horse
-	- wearing leather armor
-	- wielding longsword
-	- eyes are not lifeless
-- another 4 wolves pop out of bushes (yikes)
-- nirin gets downed, twice
-- Ireena attacks and the wolves near her become more careful now that they recognize she is there
-- we kill 4 wolves, other zombie thing kills 3
-- Sir Giraus de karaheu of the silver dragon 
-	- hunts the agents of strahd
-	- Doesnt like strahd
-	- "Dont mess with strahd - dont kill, dont interfere with his leadership, etc" - basically do nothing
-	- Nox: how are you undead but not ...dead
-		- "vengeance keeps me alive"
-- Klepto examines his bot thing
-	- Sanar asks if its sentient, uses telepathy on it
-		- "I WILL GET MY HAND BACK!!!" 
-			- Check video around 1h 50m
-- muddy path through the trees, tracks of wagons
-- get to caravan camp, 8 horses
+To our left was an empty gallows, to our right was 11 unmarked gravestones seemingly undisturbed for some time.  The sign post pointing Northwest read "[[Tser Pool]]" and the hill slanted downwards.  The post pointing Southwest read "Ravenloft" and "[[Vallaki]]" as the hill slanted upwards in that direction.  Another post pointed East and was labeled "[[Barovia Village|Barovia]]."  As we departed this injunction, we heard rope swinging in the wind and where once the gallows was empty, now hung a corpse (male, 55 years old, tattered clothing) to all of us, but [[Sanar]] saw his own corpse hanging there. [[Kali Rouge|Kali]] asked if [[Sanar]] had died before, but he said he hadn't - covering the encounter within the [[Session 3#Death House Basement]].
+
+As we walked, [[Ireena Kolyanovich]] shared that most people in [[Barovia]] have a negative perspective on the [[Vistani]], but she had little experience with them herself.  
+
+## Wolf Ambush
+
+We soon heard the sound of screaming out and the howls of [[Strahd von Zarovich#Wolves|wolves]].  [[Ireena Kolyanovich]] informed us there are two kinds of wolves in [[Barovia]]- the "normal" kind, and a much larger and more dangerous variant.  [[Nirin Eze|Nirin]] led the charge and we came to a group of 4 horse-sized wolves fighting an unusual Zombie equipped with leather armor, a longsword, and eyes that were vibrant with life.  As we approached, 4 more wolves leaped out of some nearby bushed and attacked our party.  
+
+[[Nirin Eze|Nirin]] was downed twice, but Nox quickly brought him back into the fight.  We downed the wolves while the Zombie took down his 4 himself.  [[Ireena Kolyanovich]] even got the killing blow on one and [[Demetri Bebanburg|Demetri]]'s Familiar put another to sleep.  When [[Ireena Kolyanovich]] joined the fight, the wolves seemed to be extra cautious around her, careful not to step on her or harm her in any way.
+
+After the battle, we speak with the Zombie who introduces himself as [[Sir Gaheris de Karaheu]] of the [[Order of the Silver Dragon]].  He stated his purpose was to hunt the agents of [[Strahd von Zarovich]], that he doesn't like Strahd.  He did warn however that we should not interfere with [[Strahd von Zarovich|Strahd's]] leadership in any way - he must suffer the consequences of what he had brought about.  Before departing abruptly, [[Nox Vita|Nox]] asked how he was "undead, but not dead" to which he responded, "Vengeance keeps me alive."
+
+Before moving on, [[Klepto]] examined his new turret bot and [[Sanar]] took the opportunity to show solidarity by asking if it was sentient.  With [[Klepto]] unsure, [[Sanar]] attempted to communicate with the bot telepathically.  The turret immediately yelled out, "GIVE ME BACK MY HAND!"  [[Sanar]] responded, "Whose hand?  Who are you?"  The turret returned, "YOU STOLE MY SWORD, WHEN I FIND YOU I WILL RIP YOU INTO PIECES!" and [[Sanar]] ended the telepathy and told [[Klepto]] that they have much to discuss in the future.
+
+## Tser Pool Vistani Encampment
+
+As we made our way along, we eventually see the tracks of wagons and we reach the [[Tser Pool#Vistani Encampment]] with 8 horses, wagons, and the group of [[Vistani]] we were seeking.
 
 ![[Tser Pool Vistani Camp.png]]
 
-Caravan
+We are immediately welcomed in by [[Stanamir]] who hugs us and joyously gives us wine to drink.  [[Ireena Kolyanovich]] looks tense, but she tries to break from the fearful traditions of her [[Ismark Kolyanovich|brother]] and [[Kolyan Indirovich|father]].  We ask [[Stanamir]] some questions:
 
-- Stanamir greets us "youve made it" and hug, give us wine
-- Ireena is tense, but trying to break from traditions of brother/father
-- why can vistani leave
-	- because saving prince? - confirmed to be strahd
-		- they have mutual respect
-		- dont break his rules, and they are allowed to come/go as they please
-		- not servants, not surprised that others think they are allied
-- know little of the order of the silver dragon, but occasionally see htem
-	- mutually dont mess with each other
-- not stanamir who smuggled kali out
-	- was small family of vistani who have been excommunicated 
-		- strahd should have gotten them
-	- Some vistani wander freely, true ex-vistani
+Why can the [[Vistani]] leave, but others cant?
 
-Ireena joins us in the Madam Eva tent
+- Maybe because the [[Vistani]] saved the prince (from the story told in [[Session 1]])
+- The [[Vistani]] and [[Strahd von Zarovich]] have a mutual respect
+	- If the Vistani dont break [[Strahd von Zarovich]]'s rules, then they are free to come and go
+- Clarified that the [[Vistani]] are not servants of Strahd, but he is not surprised that others think they are allies
 
-- pillows to sit on, crystal ball, chair
-- Eva
-	- grey hair, weathered face
-	- eyes of wisddom and memory
-- Placing cards down
-	-  sanar enchanter
-	- kali avenger
-	- ty illusionist
-	- nox anarchist
-	- demetri necromancer
-	- klepto rogue
-- power courses through her veins as she holds a tarroka deck
-	- tarroka deck lore
-		- high cards - all unique, no suites
-		- common deck - 4 suites
-	- lays down 3 cards from common
-	- lays down 2 from high cards
-	- lays down one card in front of eahc of us from high deck
-	- "threads of fate have spoken to me"
-	- flips common 1 - history, knowledge of the ancient helps better understand enemy
-		- 9 of glyphs - betrayal, represents loss, many in his life, knowledge of history - a man is not what he seems, one from a carnical weagon he is not what he seems
-	- common 2 - powerful force for good/protection, holy symbol of hope
-		- 8 of glyph- bishop scheming adn good togetther, treasure in dragons house in hands once clean, now corrupted
-	- common 3 - dont ave to do alone, shed light on a helper in battle against darkness
-		- 5 of stars - elementalist, triumph of nature, ally has experienced many, wizard will be ally, mind broken, spells strong
-	- high 1 - card of power and str, weapon of vengensce, sword of pure sunlight
-		- Dawn john, jack of all trades - we can all weld, or none, in pile of treasure behind amber doors
-	- high 2 - enemy is of darkness, pwoer beyond mortality, cards leads us to him
-		- seer keen intelect, requires a clever mind, find enemy in tomb of one he envied above all
-	- demetri - necromancer, 8 of stars
-		- unnatural events, destructive, ticks, powers from ancestors, not random
-		- barovia = origins or undoing
-		- artifact - importance of something to find, protect, or destroy
-			- find somehting in tomb of amber to find what you desire, beware of honey whisper??
-	- nirin 
-		- illusionsist - lies, prescense of lies, to solve, solutioi in barovia
-		- tempter - one who si compromised by temptation, temper of others for evil.  Souls are not at rest, they in village, souls owned by baker, baker seeks nirin soul
-	- sanar
-		- enchanter - fear of failure and false info, both worldss mistreated, seeking belonging 
-		- beast - great rage/passion, somehting hiding in plain sight or below - find out wehichc.  Find scarred elf, quest to find lineage comes from elf, but will lead to dark path
-	- klepto
-		- rogue - master of coin, to success, no freedom in money, bring righteousness to evil bewarte evil
-		- exocutioner - killer of those the, one met before, vistani wanders alone, seek her out, rays once shown from above the mist, she wotn survive without klepto
-	- nox 
-		- anarchist - fundamental change based on belief, few beliefs and they are being tested, str from forging in fire
-		- ghost - looming past and return of secret/enemy from long ago. new life from death, one form past haunts these lands
-	- kali
-		- avenger - justice and revenge, rid world of great evil, choice about lines, forging path, found family, forging family
-		- broken one - defeat failure despair, loss, feeling incomplete, come upon me and sister, true family found, more to be discovered, secretes intertwined with lord of this land.  uncover more ....
-- inner eye told me you were coming and i was to help
-- also known as veiled lady to nox
-	- nox asks - are you a deity
-		- "what i have been and what i will be is of no consequences, just a fortune teller"
-	- "gods will not help, you mist find on own.  will you forge ahead, flee, help?"
-- vistani travel, eva stays
-	-	joy in helping champions
--	strahd
-	-	follow cards and their fate, may escape and bring better life to those in barovia - or fade from history
--	sanar asks about king maker
-		-	sanar tells her he met king maker
-		-	"if you wish to desire power and succeed, king maker will grant it.  Asking for understanding, cannot give you that.  You may seek the moutnainfolk.  A shaman of theirs migth be able to help you"
-		-	at what cost
-			-	"you must find thos out by yourself.  i only reveal what the cards tell me"
--	Nirin jug of wine, follows river to lake, finds tree, sits in bush, lays in bush
-	-	mech arm compartment - light within from runes,
-		-	pulls out rope, with loop on end
-		-	breaks down
-- statues - old kings from country of the past
-- Nox - darkest night
-	- silverymoon, dark elves attacked city
-	- death, spiders, terrifying
-	- Nox and others hid, "spider fuckers"
-		- others died who "deserved everythign that came to them"
-- Stanamir story
-	- green flame from statmir spit
-	- man holding book
-	- mighty and renonwn wiard 4-5 y ago, charsmatic leading others
-	- made own spells, black robe, powerful stafff
-	- team
-		- bugbear, warrior, archer
-	- attemtped to rouse vilalge against strahd
-		- brought them to castle
-	- people fled in terror, groveling, even the team
-	- some stood and died
-	- wizard fought, amazing!
-	- thunder shook mountainside, but wizard survived, stood ground
-	- wizard fell 100s feel, could not find body, spirit led him away
-- fate/fortune came true "in a way" - looking at his children
-- klepto appraoched by vistani
-	- name is elizah, good to have outsiders
-	- have you come to take back ravenloft
-	- klepto - lookign for someone, another vistani, esmerelda
-		- didnt know she was here
-	- not sure either, but this is the best place ot look, maybe escaping past?
-		- yes... heading to vallaki?
-	- yes, next
-		- where going
-	- churhc of andral
-		- neice (Arabelle) nameday approaching, cannot get gift
-		- vistani not allowed in villaki
-		- can you buy toy for niece
-		- vistani camp outside of villaki, niece is there with father
-	- what gift
-		- toy store - Blinsky's toys - only one in barovia
-		- letter for safe passage into vistani camp
-		- gives klepto 25gp and note
-	- vistani makes antidote to help Nox's intoxication, rams down his throat
-	- ireena
-		- head to vallaki
-		- man of many colors
-- grab nirin from the tree
-	- kali gets him some tobacco and booze
-- kali sees vistani woman tying note to magpie (black bird)
-- Nirin looks at moon, smokes tobacco
-	- walks into tent, doesnt disturb Nox
-- Colorful, best dreams for Sanar and Nirin
-- red dreams for kali
+Asked about the [[Order of the Silver Dragon]]
 
-From Matt:
+- [[Stanamir]] knows little of the [[Order of the Silver Dragon]], but he does see them occasionally
+- The [[Vistani]] and the [[Order of the Silver Dragon]] mutually don't mess with each other
 
-```
-Knowledge of the Past
+When asked about [[Kali Rouge|Kali]] being smuggled out of [[Barovia]], [[Stanamir]] said that he was not involved with that.  It was a small [[Vistani]] family who had been removed, to be [[Ex Vistani]].  That family has been dealt with, likely by [[Strahd von Zarovich]].  He also clarified that there are some [[Vistani]] that wander freely, and these are not [[Ex Vistani]].
+
+## Madam Eva tells our Fortunes
+
+We venture into [[Madam Eva]]'s tent with [[Ireena Kolyanovich]] where we find a crystal ball on a table surrounded by pillows for sitting and a chair sat on by [[Madam Eva]].  We each placed the cards we previously received down before us and power coursed through [[Madam Eva]]'s veins as she held the [[Tarokka Deck]].  [[Madam Eva]] drew three cards from the [[Tarokka Deck#Common Deck]] and two from the [[Tarokka Deck#High Cards]].  She then drew 1 card for each of us from the [[Tarokka Deck#High Cards]] and said, " The threads of fate have spoken to me..."
+
+![[Tarroka Card Reading.png]]
+
+[[Madam Eva]] first revealed the center cards revealing the future of our group:
+
+### Knowledge of the Past
+
+- Common Card 1 - `9 of Glyphs`
 - This card tells of history. Knowledge of the ancient will help you better understand your enemy.
 - A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
 
-Holy Symbol
+### Holy Symbol
+
+- Common Card 2 - `8 of Glyphs`
 - This card tells of a powerful force for good and protection, a holy symbol of great hope.
 - The treasure lies in a dragon’s house, in hands once clean and now corrupted.
 
-Sword of Sunlight
+### Sword of Sunlight
+
+- Common Card 3 - `5 of Stars`
 - This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.
 - What you seek lies in a pile of treasure, beyond a set of amber doors.
 
-Your Ally
+### Your Ally
+
+- High Card 1 - `DonJon`
 - This card sheds light on one who will help you greatly in the battle against darkness.
 - Your greatest ally will be a wizard. His mind is broken, but his spells are strong.
 
-Strahd's Location (when you want to find him)
+### Strahd's Location 
+
+- High Card 2 - `Seer`
+- This is the location of [[Strahd von Zarovich]] (when you want to find him)
 - Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!
 - He haunts the tomb of the man he envied above all.
 
-```
+### Personal Readings
 
-Hangover rules
-DC 15 CON save next morning - on fail get 1 point ~exhaustion that can be cured with any healing that removes status effects
+[[Madam Eva]] then revealed and interpreted the cards for each of us.
+
+| Character             | Given Card (Common Card) | Drawn Card (High Card) |
+| --------------------- | ------------------------ | ---------------------- |
+| [[Demetri Bebanburg]] | Necromancer              | Artifact               |
+| [[Kali Rouge]]        | Avenger                  | Broken One             |
+| [[Klepto]]            | Rogue                    | Executioner            |
+| [[Nirin Eze]]         | Illusionist              | Beast                  |
+| [[Nox Vita]]          | Anarchist                | Ghost                  |
+| [[Sanar]]             | Enchanter                | Tempter                |
+
+We asked [[Madam Eva]] why she was helping and she said, "My Inner eye told me you were coming and I was to help."  She is known to [[Nox Vita|Nox]] as "The Veiled Lady" when asking if she was a deity. She told him she was just a fortune teller, "What I was previously is of no consequence." and that the gods would not help and [[Nox Vita|Nox]] must find his own path.
+
+[[Klepto]] asked if the Execution was his own and [[Madam Eva]] responded that, "the threads of fate can combine past, present and future.  What will it be? That is your choice..."  We also found out that although the [[Vistani]] travel, [[Madam Eva]] remains and finds joy in helping champions.  As for [[Strahd von Zarovich]], she said her will didn't matter, but we were instructed to "follow the cards and their fate.  We may escape and bring a better life to those in [[Barovia]]."  [[Madam Eva]] refused to do a reading for [[Ireena Kolyanovich]], but she was capable of doing so.
+
+When asked about the [[King Maker]] by [[Sanar]], [[Madam Eva]] told him that if he desires power and success, the [[King Maker]] will grant it, but if asking for understanding, she cannot give him that. For understanding, he can seek out the [[Mountainfolk]] where a [[Shaman]] may be able to help him ([[Seek out the Mountainfolk]]), but [[Madam Eva]] does not know the cost of doing so.
+
+## Contemplating our Fortunes 
+
+We all left the tent in series.  [[Nirin Eze|Nirin]] immediately grabbed a jug of wine and traveled down river to sit by a tree.  From a compartment in his arm, he removed a small piece of rope with a loop on the end, then broke down to cry with his mechanical fox nearby.
+
+[[Stanamir]] asks how our travels were and claims that he was not responsible for the way we made it here.  [[Kali Rouge|Kali]] recounted a brief rendition of the events and [[Stanamir]] seemed disappointed in the lack of details.  A heavily intoxicated [[Nox Vita|Nox]] told [[Stanamir]] the story of the Darkest Night - when Silverymoon was attacked by Dark Elves and "Spider Fuckers."  Some of his companions died in the event and [[Nox Vita|Nox]] said they "deserved everything that came to them", but the story trailed off as [[Nox Vita|Nox]] had a Reversal of Fortune and [[Klepto]] assisted him to bed.
+
+[[Stanamir]] then spit into the fire and a Green Flame displayed the story that he began to tell. 4-5 years ago there was a mighty and renowned [[Wizard]] (name forgotten) holding a book - a charismatic leader wearing a black robe and wielding a powerful staff who even created his own spells.  The [[Wizard]] had several companions - a Bugbear, Warrior, and an Archer.  He roused the people of [[Barovia Village]] against [[Strahd von Zarovich]] in [[Castle Ravenloft]].  When they approached, many fled in terror despite [[Strahd von Zarovich]] appearing unarmed and unarmored.  Those that stayed got on their knees and groveled before him, others stood and died outright. The [[Wizard]] fought [[Strahd von Zarovich]] all over the land, taking hits, but remaining in the fight. Eventually [[Strahd von Zarovich]] overtook him and threw his body over a cliff into the [[Tser Pool]], but [[Stanamir]] was unable to find his body - the river must have washed it away...
+
+We asked [[Stanamir]] if his fortune was ever told and came true by [[Madam Eva]] and he said "yes, in a way..." as he looked on to his family nearby.  Once [[Klepto]] finished putting the wasted [[Nox Vita|Nox]] to bed, he was approached by a [[Vistani]] woman named [[Elizah]] who said it was good to have outsiders and asked if we were here to take back [[Castle Ravenloft]].  [[Klepto]] said he was looking for a [[Vistani]] named [[Esmeralda]].  [[Elizah]] did not know her, but [[Barovia]] is the best place to look. After mentioning we were heading to [[Vallaki]], [[Elizah]] asked us to get a [[Name-day gift for Arabelle]].  [[Elizah]] made an antidote and shoved it down [[Nox Vita|Nox's]] throat to help him feel better. 
+
+[[Kali Rouge|Kali]] had a small chat with [[Ireena Kolyanovich]], agreed to head to [[Vallaki]], then went off to search for [[Nirin Eze|Nirin]].  They found him against a tree, miserable, and encouraged him to return to the [[Tser Pool#Vistani Encampment]] for the night.  While grabbing some tobacco and booze for [[Nirin Eze|Nirin]] on the way back, [[Kali Rouge|Kali]] noticed a [[Vistani]] woman tying a note to a Magpie (black bird) and sending it off.  [[Nirin Eze|Nirin]] pretends to sleep, leaves the tent for a smoke, then heads to bed without disturbing anyone.
+
+[[Nirin Eze|Nirin]] and [[Sanar]] have delightful dreams as a result of eating Granny's [[Morgantha#Pies|pie]].
+
+## Active Leads
+
+- [[Seek out the Mountainfolk]]
+- [[Name-day gift for Arabelle]]
+- [[Bring Ireena to Vallaki]]
+- [[Bring Ireena to the Abbey of Saint Markovia]]

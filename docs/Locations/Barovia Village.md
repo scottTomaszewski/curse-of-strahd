@@ -20,6 +20,7 @@ tags:
 ![[docs/Assets/Gates of Barovia.png]]
 
 - East of Barovia Village
+- According to [[Stanamir]], the statues are old kings from the country, from the distant past ([[Session 6#Contemplating our Fortunes]])
 
 ## Svalich Woods
 

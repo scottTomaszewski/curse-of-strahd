@@ -5,15 +5,21 @@ tags:
 
 # Tarokka Deck
 
-Deck of cards with suites:
+[[Kali Rouge]] picked up one in [[Session 1]] at the [[Death House]]
+
+## Common Deck 
+
+cards with suites:
 
 - Swords
 - Stars
 - Coins
 - Glyphs
 
-[[Kali Rouge]] picked up 
+## High Cards 
+all unique, no suites.
 
 ## Cards
 
-- Mist	(part of the high deck) represents Something unexpected or mysterious that can’t be avoided; a great quest or journey that will try one’s spirit
+- Mist (part of the high deck) represents Something unexpected or mysterious that can’t be avoided; a great quest or journey that will try one’s spirit
+	- [[Madam Eva]] shared this with us in our dream during [[Session 4#Rest at the Burgomaster Manor]]

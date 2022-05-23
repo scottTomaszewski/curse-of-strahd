@@ -36,7 +36,7 @@ tags:
 		- Burgomaster ([[Kolyan Indirovich]]) died 3 days ago - "heart gave out"
 		- Burgomaster's son [[Ismark Kolyanovich]] is at the [[Blood on the Vine Tavern]]
 		- [[Barovia Village#Svalich Woods|Svalich Woods]] have a wolf problem
-			- Wolves are from [[Strahd von Zarovich]] who is lord over the wolves
+			- Wolves are from [[Strahd von Zarovich]] who is lord over the [[Strahd von Zarovich#Wolves]]
 		- [[Bill Draur's Mercantile]] is a local general store
 			- Sells goods, adventuring gear
 		- [[Barovia Church of the Morning Lord]]

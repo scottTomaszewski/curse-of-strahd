@@ -16,8 +16,13 @@ tags:
 - Twin of [[Kali Rouge]]
 - Sister of [[Ismark Kolyanovich]]
 - Daughter of [[Kolyan Indirovich]] (according to the [[Kolyan Letter]])
-- Bitten by [[Strahd von Zarovich]], see [[#Strahd Makes Moves]]
+
 - Thinks [[Bill Draur]] is "an ass, his shop has nothing worth it, but this bag could be just as worthless." ([[Session 5#Battle for the Leather Bundle]])
+
+### Strahd
+
+- Bitten by [[Strahd von Zarovich]], see [[#Strahd Makes Moves]]
+- During the [[Session 6#Wolf Ambush]], the [[Strahd von Zarovich#Wolves|wolves]] were especially careful not to harm Ireena
 
 ## History
 

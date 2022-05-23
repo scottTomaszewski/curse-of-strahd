@@ -28,3 +28,9 @@ tags:
 	- Generally afraid of him (according to [[Ismark Kolyanovich]])
 	- Dont appreciate his leadership (according to [[Morgantha]])
 
+
+### Wolves
+
+Is known to control the wolves (unsure if this is all of them, or only the "larger" variants).  The larger variants are described as
+- Being the size of a horse 
+- with spines and red eyes
