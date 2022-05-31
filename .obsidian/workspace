@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "55d939bad28e9c25",
+        "id": "dc684ef7e5d3459c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -85,17 +85,17 @@
     "direction": "horizontal",
     "width": 760
   },
-  "active": "55d939bad28e9c25",
+  "active": "dc684ef7e5d3459c",
   "lastOpenFiles": [
     "docs/Events/Storm of Ash.md",
+    "docs/Assets/Silverymoon Heraldry.png",
+    "docs/Assets/Church of Lolth.png",
     "docs/Sessions/Session 1.md",
     "docs/Sessions/Session 7.md",
     "docs/Player Characters/Nirin Eze.md",
     "docs/Non-Player Characters/Bildrath.md",
     "docs/Locations/Bildrath's Mercantile.md",
     "docs/Non-Player Characters/Strahd von Zarovich.md",
-    "docs/Locations/Barovia Village.md",
-    "docs/Locations/Berez.md",
-    "docs/Locations/Lake Zarovich.md"
+    "docs/Locations/Barovia Village.md"
   ]
 }
