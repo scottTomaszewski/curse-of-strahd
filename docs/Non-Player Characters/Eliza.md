@@ -3,6 +3,6 @@ aliases:
 tags: 
 ---
 
-# Elizah
+# Eliza
 
 A [[Vistani]] woman [[Klepto]] first met in [[Session 6#Contemplating our Fortunes]]

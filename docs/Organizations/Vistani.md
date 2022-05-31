@@ -9,7 +9,7 @@ tags:
 
 - [[Stanamir]]
 - [[Madam Eva]]
-- [[Elizah]]
+- [[Eliza]]
 
 ## Relationships
 

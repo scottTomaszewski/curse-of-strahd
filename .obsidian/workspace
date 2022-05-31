@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Player Characters/Sanar.md",
+            "file": "docs/Non-Player Characters/Eliza.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Player Characters/Sanar.md",
+                "file": "docs/Non-Player Characters/Eliza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "dc684ef7e5d3459c",
   "lastOpenFiles": [
+    "docs/Non-Player Characters/Eliza.md",
     "docs/Player Characters/Sanar.md",
     "docs/Events/Storm of Ash.md",
     "docs/Assets/Silverymoon Heraldry.png",
@@ -95,7 +96,6 @@
     "docs/Sessions/Session 7.md",
     "docs/Player Characters/Nirin Eze.md",
     "docs/Non-Player Characters/Bildrath.md",
-    "docs/Locations/Bildrath's Mercantile.md",
-    "docs/Non-Player Characters/Strahd von Zarovich.md"
+    "docs/Locations/Bildrath's Mercantile.md"
   ]
 }
