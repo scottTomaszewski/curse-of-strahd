@@ -12,7 +12,7 @@ Country ruled by [[Strahd von Zarovich]] (according to [[Morgantha]]).
 - [[Barovia Village]]
 - [[Vallaki]]
 - [[Krezk]]
-- [[Fourth Village]] (according to rumor)
+- [[Berez]] (according to rumor)
 
 ## Map 
 

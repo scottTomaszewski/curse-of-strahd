@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: Ireena
 tags: 
 ---
 
@@ -17,7 +17,7 @@ tags:
 - Sister of [[Ismark Kolyanovich]]
 - Daughter of [[Kolyan Indirovich]] (according to the [[Kolyan Letter]])
 
-- Thinks [[Bill Draur]] is "an ass, his shop has nothing worth it, but this bag could be just as worthless." ([[Session 5#Battle for the Leather Bundle]])
+- Thinks [[Bildrath]] is "an ass, his shop has nothing worth it, but this bag could be just as worthless." ([[Session 5#Battle for the Leather Bundle]])
 
 ### Strahd
 

@@ -7,7 +7,7 @@ tags:
 
 ![[Kolyan Letter.png]]
 
-- Found on the dead body in the [[Barovia Village#Svalich Woods]]
+- Found on the dead body in the [[Svalich Woods]]
 	- Body of a messenger sent by [[Kolyan Indirovich]] according to [[Ismark Kolyanovich]] ([[Session 4#Entering the Blood on the Vine Tavern]])
 
 ## Changes

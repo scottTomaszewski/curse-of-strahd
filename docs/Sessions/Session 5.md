@@ -35,9 +35,9 @@ We depart for the bridge to [[Retrieve Leather Bundle for Bill Draur]] with [[Ir
 
 As we walked down the river, [[Demetri Bebanburg|Demetri]] spotted a leather bundle on the other side of the river.  Although potentially faster to cross were we were, we decided it was safest to walk back to the bridge and cross safely.  When approaching the bundle, several **Ankheg** who immediately attacked us.  After defeating the defenders, we snatched the sealed leather bundle which was found along side bones of 4 humanoids, a small purse (3pg, 6sp, 21cp), a wizards spell book, straw from a scarecrow, and a rusty Greatsword.
 
-As we returned to [[Barovia Village]], [[Sanar]] convinced the group to open the satchel and [[Kali Rouge|Kali]] did so after [[Ireena Kolyanovich]] claimed [[Bill Draur]] to be "an ass, his shop has nothing worth it, but this bag could be just as worthless."  Within the pack was approximately 4 Explorers Packs.  
+As we returned to [[Barovia Village]], [[Sanar]] convinced the group to open the satchel and [[Kali Rouge|Kali]] did so after [[Ireena Kolyanovich]] claimed [[Bildrath]] to be "an ass, his shop has nothing worth it, but this bag could be just as worthless."  Within the pack was approximately 4 Explorers Packs.  
 
-When we arrived in the [[Barovia Village|village]], we made our way to [[Bill Draur's Mercantile]] to return the satchel where [[Bill Draur]] gave us a 20gp discount, but it meant nothing as he increased the price of a Shield for [[Nox Vita|Nox]] to 35gp!  After agreeing to purchase the Shield for 15gp, we started heading for the [[Tser Pool]] to [[Meet Madam Eva]]
+When we arrived in the [[Barovia Village|village]], we made our way to [[Bildrath's Mercantile]] to return the satchel where [[Bildrath]] gave us a 20gp discount, but it meant nothing as he increased the price of a Shield for [[Nox Vita|Nox]] to 35gp!  After agreeing to purchase the Shield for 15gp, we started heading for the [[Tser Pool]] to [[Meet Madam Eva]]
 
 ## Active Leads
 

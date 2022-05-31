@@ -1,5 +1,5 @@
 ---
-aliases: The Devil, The Count, The Beast, The Ancient
+aliases: The Devil, The Count, The Beast, The Ancient, Strahd
 tags: 
 ---
 

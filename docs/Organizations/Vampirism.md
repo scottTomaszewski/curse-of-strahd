@@ -1,5 +1,5 @@
 ---
-aliases: Vampire
+aliases: vampire, vampires
 tags: 
 ---
 
@@ -52,3 +52,6 @@ These individuals have been bitten, but have not undergone a [[#Ritual]].  They 
 Examples:
 - [[Ireena Kolyanovich]]
 
+### Dhampir
+
+We learn from [[Stanamir]] in [[Session 7#Speaking with Stanamir]] that Dhampir are half human, half vampire, but not really either.  He implied that being a Dhampir likely requires one be bitten.

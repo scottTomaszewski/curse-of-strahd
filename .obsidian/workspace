@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4f95849a1cdac2bc",
+        "id": "55d939bad28e9c25",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Sessions/Session 6.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "ada246c6680ef346",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
+            "file": "docs/Events/Storm of Ash.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wol",
+                "query": "\"Barovia Village#Svalich Woods\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 6.md",
+                "file": "docs/Events/Storm of Ash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437,
-    "collapsed": true
+    "width": 760
   },
-  "active": "4f95849a1cdac2bc",
+  "active": "55d939bad28e9c25",
   "lastOpenFiles": [
-    "docs/Sessions/Session 6.md",
-    "docs/Rules/Hangovers.md",
-    "docs/Sessions/Session 5.md",
-    "docs/Non-Player Characters/Esmeralda.md",
-    "docs/Non-Player Characters/Elizah.md",
-    "docs/Quests/Name-day gift for Arabelle.md",
-    "docs/Non-Player Characters/Arabelle.md",
-    "docs/Player Characters/Klepto.md",
-    "docs/Organizations/Vistani.md",
-    "docs/Non-Player Characters/Stanamir.md"
+    "docs/Events/Storm of Ash.md",
+    "docs/Sessions/Session 1.md",
+    "docs/Sessions/Session 7.md",
+    "docs/Player Characters/Nirin Eze.md",
+    "docs/Non-Player Characters/Bildrath.md",
+    "docs/Locations/Bildrath's Mercantile.md",
+    "docs/Non-Player Characters/Strahd von Zarovich.md",
+    "docs/Locations/Barovia Village.md",
+    "docs/Locations/Berez.md",
+    "docs/Locations/Lake Zarovich.md"
   ]
 }

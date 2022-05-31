@@ -7,7 +7,7 @@ tags:
 
 [Youtube: Curse of Strahd Session 4](https://youtu.be/Zdy4RAJWcXE)
 
-## [[Barovia Village#Svalich Woods|Svalich Woods]]
+## [[Svalich Woods]]
 
 - [[Klepto]] smells/sees death
 - Discovered a dead body (we later find out this is a messenger from [[Kolyan Indirovich]])
@@ -31,13 +31,13 @@ tags:
 		- [[Kali Rouge|Kali]], [[Nox Vita|Nox]], and [[Nirin Eze|Nirin]] all eat some of the pie
 	- Information/lore drop
 		- Villages: [[Barovia Village]], [[Vallaki]], and [[Krezk]]
-			- Rumor that there was a [[Fourth Village]] that was consumed by the river/lake (?)
+			- Rumor that there was a [[Berez|Fourth Village]] that was consumed by the river/lake (?)
 		- We can get a map from the Burgomaster, a role similar to a Mayor
 		- Burgomaster ([[Kolyan Indirovich]]) died 3 days ago - "heart gave out"
 		- Burgomaster's son [[Ismark Kolyanovich]] is at the [[Blood on the Vine Tavern]]
-		- [[Barovia Village#Svalich Woods|Svalich Woods]] have a wolf problem
+		- [[Svalich Woods]] have a wolf problem
 			- Wolves are from [[Strahd von Zarovich]] who is lord over the [[Strahd von Zarovich#Wolves]]
-		- [[Bill Draur's Mercantile]] is a local general store
+		- [[Bildrath's Mercantile]] is a local general store
 			- Sells goods, adventuring gear
 		- [[Barovia Church of the Morning Lord]]
 			- [[Father Donovich]]
@@ -94,13 +94,13 @@ Walking down the main road to the tavern...
 
 ## Visiting Bill Draur's Mercantile
 
-On the way to [[Burgomaster Manor]], we stopped by [[Bill Draur's Mercantile]]
+On the way to [[Burgomaster Manor]], we stopped by [[Bildrath's Mercantile]]
 
-- Met the shopkeep [[Bill Draur]] and his nephew [[Periwimple]]
+- Met the shopkeep [[Bildrath]] and his nephew [[Periwimple]]
 - Sold a few things, bought some adventuring gear
 	- 2 backpacks, 4 ropes, 1 piton
-- [[Bill Draur]] asked us to fetch his leather bundle in exchange for a 20% discount, see [[Retreive Leather Bundle for Bill Draur]] for details
-- [[Bill Draur]] asked us to fetch his leather bundle in exchange for a 20% discount, see [[Retrieve Leather Bundle for Bill Draur]] for details
+- [[Bildrath]] asked us to fetch his leather bundle in exchange for a 20% discount, see [[Retreive Leather Bundle for Bill Draur]] for details
+- [[Bildrath]] asked us to fetch his leather bundle in exchange for a 20% discount, see [[Retrieve Leather Bundle for Bill Draur]] for details
 
 ## Evening in the Burgomaster Manor
 

@@ -7,7 +7,7 @@ tags:
 
 [Youtube: Curse of Strahd Session 1](https://youtu.be/oi6ezqF05T8)
 
-(sorry I didnt take good notes)
+(sorry I didn't take good notes)
 
 ## Intro
 
