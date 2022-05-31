@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Events/Storm of Ash.md",
-            "mode": "preview"
+            "file": "docs/Player Characters/Sanar.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Events/Storm of Ash.md",
+                "file": "docs/Player Characters/Sanar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "dc684ef7e5d3459c",
   "lastOpenFiles": [
+    "docs/Player Characters/Sanar.md",
     "docs/Events/Storm of Ash.md",
     "docs/Assets/Silverymoon Heraldry.png",
     "docs/Assets/Church of Lolth.png",
@@ -95,7 +96,6 @@
     "docs/Player Characters/Nirin Eze.md",
     "docs/Non-Player Characters/Bildrath.md",
     "docs/Locations/Bildrath's Mercantile.md",
-    "docs/Non-Player Characters/Strahd von Zarovich.md",
-    "docs/Locations/Barovia Village.md"
+    "docs/Non-Player Characters/Strahd von Zarovich.md"
   ]
 }
