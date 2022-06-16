@@ -1,5 +1,5 @@
 ---
-aliases: Kali, Allison
+aliases: Kali, Allison, Meg Ashrunner
 tags: 
 ---
 
@@ -22,3 +22,9 @@ tags:
 ### Dream Book
 
 A book that records her dreams
+
+## Personas
+
+### Meg Ashrunner
+
+A demanding and high maintenance woman who acts like a noble. (First seen in [[Session 8#Traveling to the Vallaki Gates]])

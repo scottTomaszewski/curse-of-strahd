@@ -14,4 +14,6 @@ tags:
 
 ## Eldritch Cannon
 
-See [[Session 6#Wolf Ambush]]
+![[Klepto Eldritch Cannon Hand.png|500]]
+
+See [[Session 6#Wolf Ambush]] when we discovered the Hand's sentience.  

@@ -5,6 +5,8 @@ tags:
 
 # Session 7
 
+[Youtube - Curse of Strahd Session 7](https://youtu.be/WwnwxbPVrGQ)
+
 ## Waking in the Vistani Encampment
 
 As the sun rose on a new day, [[Nirin Eze|Nirin]] and [[Nox Vita|Nox]] were early to rise.  As [[Nirin Eze|Nirin]] sat by the fire quietly, [[Nox Vita|Nox]] attempted a ritual similar to before (See [[Session 5#Waking at the Burgomaster Manor]]) with a severe hangover and failed. [[Sanar]] wakes contemplating the [[Session 6#Madam Eva tells our Fortunes|fortunes told the night before]] and examines the Spell Book acquired from [[Session 5#Battle for the Leather Bundle|the Ankheg nests]], finding it mostly illegible save for `Find Familiar`, `Alarm`, and `Detect Magic`. [[Ireena Kolyanovich]] wakes with sore feet from the extensive travels, but [[Nirin Eze|Nirin]] encourages her, then he converses with [[Klepto]] about their commonalities in tinkering: Nirin with his [[Nirin Eze#Arm]] claiming he didn't make it, and Klepto with his [[Klepto#Eldritch Cannon]].

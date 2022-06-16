@@ -1,5 +1,5 @@
 ---
-aliases: Nox
+aliases: Nox, Vox, Vox Nita
 tags: 
 ---
 
@@ -30,3 +30,11 @@ Members:
 ### Box
 
 Not sure what this is, but Nox engages with it when others aren't watching
+
+## Personas
+
+### Vox Nita
+
+![[Vox Nita.png|500]]
+
+A Doctor (see [[Session 8#Traveling to the Vallaki Gates]])
