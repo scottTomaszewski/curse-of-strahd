@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Non-Player Characters/Pidlwick II.md",
+            "file": "docs/Sessions/Session 9.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 8.md",
+                "file": "docs/Sessions/Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Sessions/Session 8.md",
+                "file": "docs/Sessions/Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,14 +112,14 @@
     "width": 760,
     "collapsed": true
   },
-  "active": "6bbdeece3e6db43a",
+  "active": "fbdd7f5ce3229b0a",
   "lastOpenFiles": [
-    "docs/Sessions/Session 8.md",
+    "docs/Sessions/Session 9.md",
     "docs/Non-Player Characters/Pidlwick II.md",
+    "docs/Sessions/Session 8.md",
     "Pidlwick II.png",
     "Vallaki Village.png",
     "docs/Locations/Vallaki.md",
-    "docs/Sessions/Session 9.md",
     "docs/Locations/Vallaki Orphanage.md",
     "docs/Locations/Church of St Andral.md",
     "docs/Player Characters/Sanar.md",
