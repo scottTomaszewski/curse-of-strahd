@@ -98,7 +98,7 @@ When we asked about [[Strahd von Zarovich|Strahd]], [[Arrigal]] said he likes hi
 
 Asking to stay in the [[Vallaki Vistani Encampment]], [[Klepto]] shows [[Arrigal]] the note from [[Eliza]] which should help convince his brother [[Luvash]] to welcome the party.   [[Arrigal]] also shared that the [[Vallaki Vistani Encampment]] is home to a [[Vallaki Vistani Encampment#Dusk Elf Encampment]].
 
-## Vallaki to the Vallaki Vistani Encampment
+## Traveling to the Vallaki Vistani Encampment
 
 As we approach the [[Vallaki]] Gate we notice dozens of wolf heads on stakes - which are new according to [[Arrigal]] and he mentions that the guards can be dicks sometimes. After some discussion, the guards let [[Arrigal]], the "dirty vistani", and the party go around without issue - the Gates are closed for the night and we head around towards the [[Vallaki Vistani Encampment]].
 
