@@ -14,6 +14,7 @@ tags:
 ## Relationships
 
 - The people of [[Barovia]] have a negative perspective on the Vistani (according to [[Ireena Kolyanovich]] in [[Session 6#Walking to the Tser Pool]])
+	- Goes both ways - the Vistani also have a dislike for the people, thinking they are lazy ([[Session 7#Vallaki to the Vallaki Vistani Encampment]])
 - Have mutually agreed they will not mess with [[Order of the Silver Dragon]]
 
 ### Relationship with Strahd

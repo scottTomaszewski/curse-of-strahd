@@ -25,7 +25,7 @@ tags:
 
 ## Entering [[Barovia Village]]
 
-- Met with [[Morgantha]] who was selling pies and pastries from a cart
+- Met with [[Morgantha]] who was selling [[Dream Pie]]  from a cart
 	- She says to a previous customer, "May the pie bring you a little relief"
 	- Recognizes us as outsiders, gives us a free meat pie
 		- [[Kali Rouge|Kali]], [[Nox Vita|Nox]], and [[Nirin Eze|Nirin]] all eat some of the pie

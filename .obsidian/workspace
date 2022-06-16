@@ -6,10 +6,23 @@
       {
         "id": "dc684ef7e5d3459c",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Non-Player Characters/Eliza.md",
+            "file": "docs/Sessions/Session 7.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "213579b15a788e3c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Locations/Vallaki Orphanage.md",
             "mode": "source"
           }
         }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Barovia Village#Svalich Woods\"",
+                "query": "pie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Non-Player Characters/Eliza.md",
+                "file": "docs/Sessions/Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,24 +91,38 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "0e2b918953dfe89a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Sessions/Session 7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 760
+    "width": 760,
+    "collapsed": true
   },
   "active": "dc684ef7e5d3459c",
   "lastOpenFiles": [
-    "docs/Non-Player Characters/Eliza.md",
-    "docs/Player Characters/Sanar.md",
-    "docs/Events/Storm of Ash.md",
-    "docs/Assets/Silverymoon Heraldry.png",
-    "docs/Assets/Church of Lolth.png",
-    "docs/Sessions/Session 1.md",
     "docs/Sessions/Session 7.md",
-    "docs/Player Characters/Nirin Eze.md",
-    "docs/Non-Player Characters/Bildrath.md",
-    "docs/Locations/Bildrath's Mercantile.md"
+    "docs/Locations/Vallaki Orphanage.md",
+    "docs/Quests/Return Arabelle to the Vistani Encampment.md",
+    "docs/Non-Player Characters/Luvash.md",
+    "docs/Non-Player Characters/Arabelle.md",
+    "docs/Non-Player Characters/Alexei.md",
+    "docs/Locations/Vallaki Vistani Encampment.md",
+    "docs/Organizations/Vistani.md",
+    "docs/Non-Player Characters/Arrigal.md",
+    "docs/Locations/Vallaki.md"
   ]
 }

@@ -6,18 +6,10 @@ tags:
 # Morgantha
 
 - Old woman who prefers to go by "Granny"
-- Sells pies that that lift your spirit.  See [[#Pies]]
+- Sells [[Dream Pie]] that that lift your spirit.
 - Oldest in the [[Barovia Village]] at 87 years old
+- Lives at the [[Windmill Bakery]]
 
 ## Relationships
 
 - Does not appreciate [[Strahd von Zarovich]]'s leadership (See [[Session 4#Entering Barovia Village]])
-
-## Pies
-
-Granny sells pies that seem to "uplift one's spirits."  Witnessed effects include
-
-- Beautiful, restful sleep
-	- As seen in [[Session 4]] after [[Kali Rouge|Kali]], [[Nox Vita|Nox]], and [[Nirin Eze|Nirin]] ate some pie when [[Session 4#Entering Barovia Village]] then took a [[Session 4#Rest at the Burgomaster Manor]]
-
-The next day, a consumer craves the pie and need to make a CON saving throw to beat the temptation.  On a failure, the consumer has Disadvantage until they eat more pie.

@@ -121,7 +121,7 @@ We asked [[Stanamir]] if his fortune was ever told and came true by [[Madam Eva]
 
 [[Kali Rouge|Kali]] had a small chat with [[Ireena Kolyanovich]], agreed to head to [[Vallaki]], then went off to search for [[Nirin Eze|Nirin]].  They found him against a tree, miserable, and encouraged him to return to the [[Tser Pool#Vistani Encampment]] for the night.  While grabbing some tobacco and booze for [[Nirin Eze|Nirin]] on the way back, [[Kali Rouge|Kali]] noticed a [[Vistani]] woman tying a note to a Magpie (black bird) and sending it off.  [[Nirin Eze|Nirin]] pretends to sleep, leaves the tent for a smoke and to look at the moon, then heads to bed without disturbing anyone.
 
-[[Nirin Eze|Nirin]] and [[Sanar]] have delightful dreams as a result of eating Granny's [[Morgantha#Pies|pie]].
+[[Nirin Eze|Nirin]] and [[Sanar]] have delightful dreams as a result of eating Granny's [[Dream Pie]]
 
 ## Active Leads
 
