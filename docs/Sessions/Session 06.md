@@ -11,11 +11,11 @@ tags:
 
 After leaving [[Barovia Village]], we made our way to the [[Tser Pool]].  We traveled for about an hour and came across an "unkindness" of [[Ravens]] were seen perched in a tree.  As we passed, [[Ireena Kolyanovich]] put two fingers to her heart and bowed her head telling us that ravens represent good luck and to kill one is said to bring on bad luck - the origin may be related to the [[Mother Night]].  When asked why the people hide it, Ireena said that recognition of the raven may be seen as treasonous against [[Strahd von Zarovich]] - but she wasn't entire sure of that.
 
-We eventually reach a the Crossroads the we saw in our dream in [[Session 4#Rest at the Burgomaster Manor]].  
+We eventually reach a the Crossroads the we saw in our dream in [[Session 04#Rest at the Burgomaster Manor]].  
 
 ![[Tser Pool Crossroads.png]]
 
-To our left was an empty gallows, to our right was 11 unmarked gravestones seemingly undisturbed for some time.  The sign post pointing Northwest read "[[Tser Pool]]" and the hill slanted downwards.  The post pointing Southwest read "Ravenloft" and "[[Vallaki]]" as the hill slanted upwards in that direction.  Another post pointed East and was labeled "[[Barovia Village|Barovia]]."  As we departed this injunction, we heard rope swinging in the wind and where once the gallows was empty, now hung a corpse (male, 55 years old, tattered clothing) to all of us, but [[Sanar]] saw his own corpse hanging there. [[Kali Rouge|Kali]] asked if [[Sanar]] had died before, but he said he hadn't - covering the encounter within the [[Session 3#Death House Basement]].
+To our left was an empty gallows, to our right was 11 unmarked gravestones seemingly undisturbed for some time.  The sign post pointing Northwest read "[[Tser Pool]]" and the hill slanted downwards.  The post pointing Southwest read "Ravenloft" and "[[Vallaki]]" as the hill slanted upwards in that direction.  Another post pointed East and was labeled "[[Barovia Village|Barovia]]."  As we departed this injunction, we heard rope swinging in the wind and where once the gallows was empty, now hung a corpse (male, 55 years old, tattered clothing) to all of us, but [[Sanar]] saw his own corpse hanging there. [[Kali Rouge|Kali]] asked if [[Sanar]] had died before, but he said he hadn't - covering the encounter within the [[Session 03#Death House Basement]].
 
 As we walked, [[Ireena Kolyanovich]] shared that most people in [[Barovia]] have a negative perspective on the [[Vistani]], but she had little experience with them herself.  
 
@@ -39,7 +39,7 @@ We are immediately welcomed in by [[Stanamir]] who hugs us and joyously gives us
 
 Why can the [[Vistani]] leave, but others cant?
 
-- Maybe because the [[Vistani]] saved the prince (from the story told in [[Session 1]])
+- Maybe because the [[Vistani]] saved the prince (from the story told in [[Session 01]])
 - The [[Vistani]] and [[Strahd von Zarovich]] have a mutual respect
 	- If the Vistani dont break [[Strahd von Zarovich]]'s rules, then they are free to come and go
 - Clarified that the [[Vistani]] are not servants of Strahd, but he is not surprised that others think they are allies

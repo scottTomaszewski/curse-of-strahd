@@ -9,7 +9,7 @@ tags:
 
 In front of the encampment are dozens of wolf heads on stakes.
 
-In general, the [[Vistani]] are not welcome in [[Vallaki]], but the [[Blue Water Inn]] is friendly (According to [[Arrigal]] [[Session 7#Travel from the Windmill to Vallaki]])
+In general, the [[Vistani]] are not welcome in [[Vallaki]], but the [[Blue Water Inn]] is friendly (According to [[Arrigal]] [[Session 07#Travel from the Windmill to Vallaki]])
 
 ## Dusk Elf Encampment
 

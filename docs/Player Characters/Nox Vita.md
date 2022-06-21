@@ -12,13 +12,13 @@ tags:
 
 ## Notes
 
-- Slept in a bed for the first time in [[Session 4#Rest at the Burgomaster Manor]]
+- Slept in a bed for the first time in [[Session 04#Rest at the Burgomaster Manor]]
 - Has expressed that he is comfortable with death and he has a stroing desire to help
 	- "Cant change others, but we can change ourselves"
 
 ## Sodality
 
-Group Nox ran with up until they were killed in [[Storm of Ash]], told by a drunken Nox in [[Session 6#Contemplating our Fortunes]].  Said described them as "bad" people ([[Session 7#Travel to Vallaki]]), but they gave Nox his training.
+Group Nox ran with up until they were killed in [[Storm of Ash]], told by a drunken Nox in [[Session 06#Contemplating our Fortunes]].  Said described them as "bad" people ([[Session 07#Travel to Vallaki]]), but they gave Nox his training.
 
 Members:
 
@@ -37,4 +37,4 @@ Not sure what this is, but Nox engages with it when others aren't watching
 
 ![[Vox Nita.png|500]]
 
-A Doctor (see [[Session 8#Traveling to the Vallaki Gates]])
+A Doctor (see [[Session 08#Traveling to the Vallaki Gates]])

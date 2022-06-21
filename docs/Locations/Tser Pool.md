@@ -12,4 +12,4 @@ Permanent [[Vistani]] Settlement that is South of [[Castle Ravenloft]] and West 
 ![[Tser Pool Vistani Camp.png]]
 
 - Several wagons and horses
-- Tent of [[Madam Eva]] where [[Session 6#Madam Eva tells our Fortunes]]
+- Tent of [[Madam Eva]] where [[Session 06#Madam Eva tells our Fortunes]]

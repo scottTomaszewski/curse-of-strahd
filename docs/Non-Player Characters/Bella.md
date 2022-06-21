@@ -5,7 +5,7 @@ tags:
 
 # Bella
 
-Described in [[Session 7#Discovering the Windmill of Morgantha]] as having her hair up in a mound and very old
+Described in [[Session 07#Discovering the Windmill of Morgantha]] as having her hair up in a mound and very old
 
 ## Relationships
 

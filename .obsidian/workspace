@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Sessions/Session 8.md",
+            "file": "docs/Sessions/Session 08.md",
             "mode": "source"
           },
           "pinned": true
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Non-Player Characters/Vallaki Burgomaster.md",
+            "file": "docs/Non-Player Characters/Bildrath.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Non-Player Characters/Vallaki Burgomaster.md",
+                "file": "docs/Non-Player Characters/Bildrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,31 +98,29 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Non-Player Characters/Vallaki Burgomaster.md",
+                "file": "docs/Non-Player Characters/Bildrath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 760,
-    "collapsed": true
+    "width": 760
   },
   "active": "fbdd7f5ce3229b0a",
   "lastOpenFiles": [
-    "docs/Non-Player Characters/Vallaki Burgomaster.md",
-    "docs/Sessions/Session 10.md",
-    "docs/Sessions/Session 8.md",
-    "docs/Sessions/Session 7.md",
-    "docs/Sessions/Session 9.md",
-    "docs/Non-Player Characters/Pidlwick II.md",
-    "docs/Assets/Pidlwick II.png",
-    "docs/Assets/Vallaki Village.png",
-    "docs/Locations/Vallaki.md",
-    "docs/Locations/Vallaki Orphanage.md"
+    "docs/Non-Player Characters/Bildrath.md",
+    "docs/Sessions/Session 05.md",
+    "docs/Sessions/Session 09.md",
+    "docs/Sessions/Session 08.md",
+    "docs/Sessions/Session 07.md",
+    "docs/Sessions/Session 06.md",
+    "docs/Sessions/Session 04.md",
+    "docs/Sessions/Session 03.md",
+    "docs/Sessions/Session 02.md",
+    "docs/Sessions/Session 01.md"
   ]
 }

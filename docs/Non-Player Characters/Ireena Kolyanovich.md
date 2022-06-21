@@ -10,24 +10,24 @@ tags:
 - Looks identical to [[Kali Rouge|Kali]] except for the hair color: black for Ireena, Deep purple for [[Kali Rouge|Kali]].  
 	- Both [[Kali Rouge|Kali]] and Ireena have died their hair from the natural red.  
 - Ireena died hers because red hair is looked down upon in [[Barovia]]
-- Knows the way to the [[Tser Pool]] according to [[Ismark Kolyanovich]] ([[Session 4#Entering the Blood on the Vine Tavern]])
-- Self described as the "best swordsman in the village" and "has political clout" ([[Session 4]])
+- Knows the way to the [[Tser Pool]] according to [[Ismark Kolyanovich]] ([[Session 04#Entering the Blood on the Vine Tavern]])
+- Self described as the "best swordsman in the village" and "has political clout" ([[Session 04]])
 
 ## Relationships
 
 - Twin of [[Kali Rouge]]
 - Sister of [[Ismark Kolyanovich]]
 - Daughter of [[Kolyan Indirovich]] (according to the [[Kolyan Letter]])
-- Thinks [[Bildrath]] is "an ass, his shop has nothing worth it, but this bag could be just as worthless." ([[Session 5#Battle for the Leather Bundle]])
+- Thinks [[Bildrath]] is "an ass, his shop has nothing worth it, but this bag could be just as worthless." ([[Session 05#Battle for the Leather Bundle]])
 
 ### Strahd
 
 - Bitten by [[Strahd von Zarovich]], see [[#Strahd Makes Moves]]
-- During the [[Session 6#Wolf Ambush]], the [[Strahd von Zarovich#Wolves|wolves]] were especially careful not to harm Ireena
+- During the [[Session 06#Wolf Ambush]], the [[Strahd von Zarovich#Wolves|wolves]] were especially careful not to harm Ireena
 
 ## Items
 
-- Embroidery Kit ([[Session 7#Night on Svalich Road]])
+- Embroidery Kit ([[Session 07#Night on Svalich Road]])
 	- Wants to heal with it, through magic or plants
 
 ## History
@@ -48,4 +48,4 @@ tags:
 
 ### Nightly Attacks
 
-When we met Ireena in [[Session 4]], she told us that wolves and others attack at at the [[Burgomaster Manor]]
+When we met Ireena in [[Session 04]], she told us that wolves and others attack at at the [[Burgomaster Manor]]

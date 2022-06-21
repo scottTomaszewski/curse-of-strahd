@@ -10,7 +10,7 @@ tags:
 
 ## Description
 
-When we first arrived at the manor in [[Session 4#Evening in the Burgomaster Manor]], the manor was not looking good
+When we first arrived at the manor in [[Session 04#Evening in the Burgomaster Manor]], the manor was not looking good
 
 - Claw marks on the walls
 - Blood ichor nasty all over the place

@@ -17,11 +17,11 @@ tags:
 
 ### Father
 
-in [[Session 7#Night on Svalich Road]], Sanar shared that he practiced his powers as a child under his father's watch - assumes he inherited them
+in [[Session 07#Night on Svalich Road]], Sanar shared that he practiced his powers as a child under his father's watch - assumes he inherited them
 
 
 ## Personas
 
 ### Eresse
 
-First introduced in [[Session 8#Traveling to the Vallaki Gates]]
+First introduced in [[Session 08#Traveling to the Vallaki Gates]]
