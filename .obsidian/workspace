@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Sessions/Session 10.md",
+            "file": "docs/Non-Player Characters/Vallaki Burgomaster.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 10.md",
+                "file": "docs/Non-Player Characters/Vallaki Burgomaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Sessions/Session 10.md",
+                "file": "docs/Non-Player Characters/Vallaki Burgomaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,15 +114,15 @@
   },
   "active": "fbdd7f5ce3229b0a",
   "lastOpenFiles": [
+    "docs/Non-Player Characters/Vallaki Burgomaster.md",
     "docs/Sessions/Session 10.md",
     "docs/Sessions/Session 8.md",
     "docs/Sessions/Session 7.md",
     "docs/Sessions/Session 9.md",
     "docs/Non-Player Characters/Pidlwick II.md",
-    "Pidlwick II.png",
-    "Vallaki Village.png",
+    "docs/Assets/Pidlwick II.png",
+    "docs/Assets/Vallaki Village.png",
     "docs/Locations/Vallaki.md",
-    "docs/Locations/Vallaki Orphanage.md",
-    "docs/Locations/Church of St Andral.md"
+    "docs/Locations/Vallaki Orphanage.md"
   ]
 }
