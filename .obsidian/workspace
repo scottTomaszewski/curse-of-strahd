@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Non-Player Characters/Bildrath.md",
+            "file": "docs/Sessions/Session 10.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Non-Player Characters/Bildrath.md",
+                "file": "docs/Sessions/Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Non-Player Characters/Bildrath.md",
+                "file": "docs/Sessions/Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,19 +108,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 760
+    "width": 760,
+    "collapsed": true
   },
   "active": "fbdd7f5ce3229b0a",
   "lastOpenFiles": [
+    "docs/Sessions/Session 10.md",
+    "docs/Sessions/Session 08.md",
     "docs/Non-Player Characters/Bildrath.md",
     "docs/Sessions/Session 05.md",
     "docs/Sessions/Session 09.md",
-    "docs/Sessions/Session 08.md",
     "docs/Sessions/Session 07.md",
     "docs/Sessions/Session 06.md",
     "docs/Sessions/Session 04.md",
     "docs/Sessions/Session 03.md",
-    "docs/Sessions/Session 02.md",
-    "docs/Sessions/Session 01.md"
+    "docs/Sessions/Session 02.md"
   ]
 }

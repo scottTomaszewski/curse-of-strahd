@@ -5,7 +5,7 @@ tags:
 
 # Session 10
 
-[YouTube - Curse of Strahd Session 10](https://youtu.be/P2BpXTmuUcE)
+[YouTube - Curse of Strahd Session 10](https://youtu.be/-yfkrnnUTgA)
 
 ## Raw
 
