@@ -6,5 +6,5 @@ tags:
 # Death House
 
 - First location we arrive at when we get to [[Barovia]]
-	- [[Session 1]], [[Session 2]], and [[Session 3]]
+	- [[Session 01]], [[Session 02]], and [[Session 03]]
 - Home to [[Durst Family|Rose and Thorn]]

@@ -10,4 +10,4 @@ tags:
 
 ## Relationships
 
-- [[Ireena Kolyanovich]] thinks he is "an ass, his shop has nothing worth it, but this bag could be just as worthless." ([[Session 5#Battle for the Leather Bundle]])
+- [[Ireena Kolyanovich]] thinks he is "an ass, his shop has nothing worth it, but this bag could be just as worthless." ([[Session 05#Battle for the Leather Bundle]])

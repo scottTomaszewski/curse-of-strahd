@@ -13,4 +13,4 @@ tags:
 ## [[Vampirism]]
 
 - Is showing signs of [[Vampirism]], but does not recall going through any [[Vampirism#Ritual]]
-- Father shared information with Demetri (See [[Session 5#Waking at the Burgomaster Manor]]) about vampirism
+- Father shared information with Demetri (See [[Session 05#Waking at the Burgomaster Manor]]) about vampirism

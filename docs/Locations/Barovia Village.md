@@ -6,7 +6,7 @@ tags:
 # Barovia Village
 
 - Village in [[Barovia]]
-- First entered in [[Session 4]], see [[Session 4#Entering Barovia Village|Entering Barovia]]
+- First entered in [[Session 04]], see [[Session 04#Entering Barovia Village|Entering Barovia]]
 - Connected by the [[Svalich Woods]]
 
 ## Description
@@ -21,5 +21,5 @@ tags:
 ![[docs/Assets/Gates of Barovia.png]]
 
 - East of Barovia Village
-- According to [[Stanamir]], the statues are old kings from the country, from the distant past ([[Session 6#Contemplating our Fortunes]])
+- According to [[Stanamir]], the statues are old kings from the country, from the distant past ([[Session 06#Contemplating our Fortunes]])
 

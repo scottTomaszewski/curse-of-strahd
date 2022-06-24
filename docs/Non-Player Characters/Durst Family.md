@@ -5,7 +5,7 @@ tags:
 
 # Durst Family
 
-Family that previously lived at the [[Death House]].  We encountered them in [[Session 1]], [[Session 2]], and [[Session 3]].
+Family that previously lived at the [[Death House]].  We encountered them in [[Session 01]], [[Session 02]], and [[Session 03]].
 
 ## Members
 

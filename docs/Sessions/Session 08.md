@@ -11,7 +11,7 @@ tags:
 
 As we approach the [[Vallaki#Gate]], [[Sanar]] asks for change for `1sp` and we discuss our tactics for entering the village.  [[Ireena Kolyanovich|Ireena]] offers to use the clout of her name to enter and [[Kali Rouge|Kali]] expresses concern our identities being revealed, but [[Ireena Kolyanovich|Ireena]] doesn't seem worried.  At the very least, [[Ireena Kolyanovich|Ireena]] suggests we should use her name to get an audience with the [[Vallaki Burgomaster]]
 
-[[Klepto]]'s [[Klepto#Eldritch Cannon]] sharpened its nails without external help which interested [[Klepto]].  Seeing the hand was interested in communicating, [[Sanar]] reached out to the hand and it repeated its [[Session 6#Wolf Ambush|threats]].  [[Sanar]] requests the hand stay calm in [[Vallaki]] and it seems to comply, but continues to express it's desire to kill [[Sanar]] and/or [[Klepto]].
+[[Klepto]]'s [[Klepto#Eldritch Cannon]] sharpened its nails without external help which interested [[Klepto]].  Seeing the hand was interested in communicating, [[Sanar]] reached out to the hand and it repeated its [[Session 06#Wolf Ambush|threats]].  [[Sanar]] requests the hand stay calm in [[Vallaki]] and it seems to comply, but continues to express it's desire to kill [[Sanar]] and/or [[Klepto]].
 
 ## Entering Vallaki
 

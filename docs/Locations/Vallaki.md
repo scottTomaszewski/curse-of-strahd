@@ -37,7 +37,7 @@ Known location of the Weekly Festival
 
 ## Laws
 
-Guards shared the Vallaki laws with us in [[Session 8#Traveling to the Vallaki Gates]]:
+Guards shared the Vallaki laws with us in [[Session 08#Traveling to the Vallaki Gates]]:
 
 - Mention of the name [[Strahd von Zarovich|Strahd]] is illegal, even in written form, must refer to him as 'The Devil' or 'He who must not be named'
 - Festival each week for the Burgomaster

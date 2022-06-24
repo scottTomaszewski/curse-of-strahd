@@ -7,7 +7,7 @@ tags:
 
 - Owned by [[Bildrath]]
 - [[Periwimple]] works here
-- First entered in [[Session 4]]
+- First entered in [[Session 04]]
 	- Bought 4 ropes, 2 backpacks, 1 piton
 
 ## Inventory

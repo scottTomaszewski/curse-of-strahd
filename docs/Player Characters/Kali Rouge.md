@@ -10,7 +10,7 @@ tags:
 - Character Sheet: [DnD Beyond - Kali](https://www.dndbeyond.com/characters/66370582)
 - Played by: Scott
 
-- Was referred to as "Allison" by [[Ismark Kolyanovich]] and [[Ireena Kolyanovich]] in [[Session 4]]
+- Was referred to as "Allison" by [[Ismark Kolyanovich]] and [[Ireena Kolyanovich]] in [[Session 04]]
 
 ## Relationships
 - Sister of [[Ismark Kolyanovich]]
@@ -27,4 +27,4 @@ A book that records her dreams
 
 ### Meg Ashrunner
 
-A demanding and high maintenance woman who acts like a noble. (First seen in [[Session 8#Traveling to the Vallaki Gates]])
+A demanding and high maintenance woman who acts like a noble. (First seen in [[Session 08#Traveling to the Vallaki Gates]])

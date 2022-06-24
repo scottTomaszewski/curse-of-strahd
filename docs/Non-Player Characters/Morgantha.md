@@ -12,4 +12,4 @@ tags:
 
 ## Relationships
 
-- Does not appreciate [[Strahd von Zarovich]]'s leadership (See [[Session 4#Entering Barovia Village]])
+- Does not appreciate [[Strahd von Zarovich]]'s leadership (See [[Session 04#Entering Barovia Village]])

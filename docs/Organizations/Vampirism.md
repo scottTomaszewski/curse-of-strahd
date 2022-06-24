@@ -12,7 +12,7 @@ tags:
 - Fear of running water
 - Stake when in resting spot will kill
 - Forbidden Entry
-	- According to [[Ireena Kolyanovich]] in [[Session 4#Evening in the Burgomaster Manor]], when she was charmed by Strahd (see [[Ireena Kolyanovich#Strahd Makes Moves]]), rumor has it that he was forbidden from entering a home without permission
+	- According to [[Ireena Kolyanovich]] in [[Session 04#Evening in the Burgomaster Manor]], when she was charmed by Strahd (see [[Ireena Kolyanovich#Strahd Makes Moves]]), rumor has it that he was forbidden from entering a home without permission
 
 
 ## Traits
@@ -54,4 +54,4 @@ Examples:
 
 ### Dhampir
 
-We learn from [[Stanamir]] in [[Session 7#Speaking with Stanamir]] that Dhampir are half human, half vampire, but not really either.  He implied that being a Dhampir likely requires one be bitten.
+We learn from [[Stanamir]] in [[Session 07#Speaking with Stanamir]] that Dhampir are half human, half vampire, but not really either.  He implied that being a Dhampir likely requires one be bitten.
