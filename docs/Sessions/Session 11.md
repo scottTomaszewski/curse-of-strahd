@@ -120,8 +120,8 @@ Morning
 	- hops away and crashes...
 - Kali talks to Klepto
 	- Klepto shares that he appreciated the organization of the Ship made pins to help organize
-	- ![[Pasted image 20220624084955.png]]
-	- ![[Pasted image 20220624085002.png]]
+	- ![[Arbiter Pin.png]]
+	- ![[Captain Pin.png]]
 - Nirin asks about chain shirt, identifies
 	- its genuinely ordinary
 	- Ireena puts it on, to beat his ass with his own gift
@@ -145,7 +145,7 @@ Morning
 		- He is shaken
 Bluewater inn 
 
-![[Pasted image 20220624085032.png]]
+![[Bluewater Inn.png]]
 
 - To get upstairs we can use outside stairs, can access
 - Klepto asks for plan
@@ -239,7 +239,7 @@ Events are recorded on the pages as they occur. The attuned creature–and any c
 The written version of the events unfold precisely as they occurred in the adventure but are written from Strahd’s perspective. Although creatures exploring the memories are referred to by name, their names are altered in the written version of the events that reflect the true moment. This way, any choices made in “the past” are always the correct version of history.
 
 ```
-![[Pasted image 20220624085051.png]]
+![[Tome of Strahd.png]]
 
 vibe:
 - not in trouble, baron is curious
