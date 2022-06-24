@@ -10,6 +10,7 @@ tags:
 ## Raw
 
 Starting in the evening in the vistani camp
+
 - klepto give arabelle the gift
 	- creates some smithing tools
 	- crafting into the night
@@ -106,6 +107,7 @@ Starting in the evening in the vistani camp
 			- *wakes up*
 
 Morning
+
 - Nirin has a bunch of papers all over his tent.  looks liek he went crazy
 - Carved a new rune in his mechanical arm
 - makes a new beast rune (raven?) using incense
@@ -143,6 +145,7 @@ Morning
 	- we barely stealth into alley
 	- Nox gets peek bad, sees Izzak (spelling?)
 		- He is shaken
+
 Bluewater inn 
 
 ![[Bluewater Inn.png]]
@@ -198,6 +201,7 @@ Bluewater inn
 - Kali and Ireena disguise 
 
 The Tome of Strahd
+
 - requires attunement
 - no spells affect item, not created from spells
 - magical memory book
@@ -217,6 +221,8 @@ The Tome of Strahd
 	- events will be recorded as you go
 		- people can read later to see what happneed
 	- written events unfold as they did, but from strahds poitn of view
+
+
 ```
 Rules of the Tome
 
@@ -239,9 +245,11 @@ Events are recorded on the pages as they occur. The attuned creature–and any c
 The written version of the events unfold precisely as they occurred in the adventure but are written from Strahd’s perspective. Although creatures exploring the memories are referred to by name, their names are altered in the written version of the events that reflect the true moment. This way, any choices made in “the past” are always the correct version of history.
 
 ```
+
 ![[Tome of Strahd.png]]
 
 vibe:
+
 - not in trouble, baron is curious
 	- odd timing of the outsiders arrival, strahd, etc
 	- just wants to talk to us
@@ -259,4 +267,3 @@ vibe:
 		- wondering if you want to have lunch instead?
 		- Rest of party isnt important.  Klepto is one of importance
 		- Baron is looking to bring us down. Watcher house is only place withotu eyes.  safest place
-		- 
