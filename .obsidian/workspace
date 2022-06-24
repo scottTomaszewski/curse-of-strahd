@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6bbdeece3e6db43a",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/Sessions/Session 8.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "fbdd7f5ce3229b0a",
+        "id": "9e4077dae9ef8919",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Sessions/Session 7.md",
+            "file": "docs/Non-Player Characters/Ireena Kolyanovich.md",
             "mode": "source"
           }
         }
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pie",
+                "query": "letter 1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 7.md",
+                "file": "docs/Non-Player Characters/Ireena Kolyanovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,36 +80,34 @@
             }
           },
           {
-            "id": "0e2b918953dfe89a",
+            "id": "948a75e90e5e7240",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Sessions/Session 7.md",
+                "file": "docs/Non-Player Characters/Ireena Kolyanovich.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 760,
-    "collapsed": true
+    "width": 437
   },
-  "active": "fbdd7f5ce3229b0a",
+  "active": "9e4077dae9ef8919",
   "lastOpenFiles": [
-    "docs/Sessions/Session 7.md",
+    "docs/Non-Player Characters/Ireena Kolyanovich.md",
     "docs/Sessions/Session 9.md",
-    "docs/Non-Player Characters/Pidlwick II.md",
     "docs/Sessions/Session 8.md",
-    "Pidlwick II.png",
-    "Vallaki Village.png",
-    "docs/Locations/Vallaki.md",
-    "docs/Locations/Vallaki Orphanage.md",
-    "docs/Locations/Church of St Andral.md",
-    "docs/Player Characters/Sanar.md"
+    "docs/Sessions/Session 7.md",
+    "docs/Non-Player Characters/Pidlwick II.md",
+    "docs/Rules/Hangovers.md",
+    "docs/Assets/Ireena.png",
+    "docs/Player Characters/Nirin Eze.md",
+    "docs/Sessions/Session 4.md",
+    "docs/Player Characters/Nox Vita.md"
   ]
 }

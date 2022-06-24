@@ -5,7 +5,10 @@ tags:
 
 # Ireena Kolyanovich
 
-![[Ireena Kolyanovich.png]]
+![[Ireena.png]]
+
+> Official: 
+> Ireena is a strikingly beautiful woman with auburn hair dyed to a deep black, an attractive face fit for a princess, and haunted, albeit kind and strong, hazel eyes. She is the daughter of the Barovia Village Burgomaster, sister to Ismark Kolyanovich, and twin to Kali (Allison) Rouge.
 
 - Looks identical to [[Kali Rouge|Kali]] except for the hair color: black for Ireena, Deep purple for [[Kali Rouge|Kali]].  
 	- Both [[Kali Rouge|Kali]] and Ireena have died their hair from the natural red.  
