@@ -5,6 +5,8 @@ tags:
 
 # Session 14
 
+[Youtube - Curse of Strahd Session 14](https://youtu.be/K6K1KR231yc)
+
 ## Raw
 
 (Apparently i didnt take many notes this session...)
