@@ -10,4 +10,3 @@ In [[Session 06#Contemplating our Fortunes]], [[Stanamir]] told us a story of a 
 ## History
 
 ### Battle Against Strahd
-
