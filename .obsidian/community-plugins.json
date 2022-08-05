@@ -3,5 +3,6 @@
   "copy-url-in-preview",
   "obsidian-linter",
   "tag-wrangler",
-  "dataview"
+  "dataview",
+  "obsidian-git"
 ]
