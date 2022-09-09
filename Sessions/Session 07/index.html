@@ -1,0 +1,2401 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.1, mkdocs-material-8.4.3">
+    
+    
+      
+        <title>Session 7 - Curse of Strahd</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6b80c2a2.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#000000">
+        
+      
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="black">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#session-7" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Curse of Strahd" class="md-header__button md-logo" aria-label="Curse of Strahd" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Curse of Strahd
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Session 7
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Curse of Strahd" class="md-nav__button md-logo" aria-label="Curse of Strahd" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Curse of Strahd
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Curse of Strahd
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Events
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Events" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Events
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Events/Storm%20of%20Ash/" class="md-nav__link">
+        Storm of Ash
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Handouts
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Handouts" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Handouts
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Handouts/Condolence%20Letter%20for%20Ireena/" class="md-nav__link">
+        Condolence Letter for Ireena
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Handouts/Kolyan%20Letter/" class="md-nav__link">
+        Kolyan Letter
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Handouts/Strahd%20Letter%20to%20Dursts/" class="md-nav__link">
+        Strahd Letter to Dursts
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Items
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Items" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Items
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Dream%20Pie/" class="md-nav__link">
+        Dream Pie
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Tarokka%20Deck/" class="md-nav__link">
+        Tarokka Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Twig%20Figurine/" class="md-nav__link">
+        Twig Figurine
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Locations
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Locations" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Locations
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Abbey%20of%20Saint%20Markovia/" class="md-nav__link">
+        Abbey of Saint Markovia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Barovia%20Church%20of%20the%20Morning%20Lord/" class="md-nav__link">
+        Barovia Church of the Morning Lord
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Barovia%20Village/" class="md-nav__link">
+        Barovia Village
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Barovia/" class="md-nav__link">
+        Barovia (Country)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Berez/" class="md-nav__link">
+        Berez
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Bildrath%27s%20Mercantile/" class="md-nav__link">
+        Bildrath's Mercantile
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Blood%20on%20the%20Vine%20Tavern/" class="md-nav__link">
+        Blood on the Vine Tavern
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Blue%20Water%20Inn/" class="md-nav__link">
+        Blue Water Inn
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Burgomaster%20Manor/" class="md-nav__link">
+        Burgomaster Manor
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Castle%20Ravenloft/" class="md-nav__link">
+        Castle Ravenloft
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Church%20of%20St%20Andral/" class="md-nav__link">
+        Church of St. Andral
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Death%20House/" class="md-nav__link">
+        Death House
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Krezk/" class="md-nav__link">
+        Krezk
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Lake%20Zarovich/" class="md-nav__link">
+        Lake Zarovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Moon/" class="md-nav__link">
+        Moon
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Svalich%20Woods/" class="md-nav__link">
+        Svalich Woods
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Tser%20Pool/" class="md-nav__link">
+        Tser Pool
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Vallaki%20Orphanage/" class="md-nav__link">
+        Vallaki Orphanage
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Vallaki%20Vistani%20Encampment/" class="md-nav__link">
+        Vallaki Vistani Encampment
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Vallaki/" class="md-nav__link">
+        Vallaki
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Windmill%20Bakery/" class="md-nav__link">
+        Windmill Bakery
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Non Player Characters
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Non Player Characters" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Non Player Characters
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Abbot/" class="md-nav__link">
+        Abbot
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Alexei/" class="md-nav__link">
+        Alexei
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Arabelle/" class="md-nav__link">
+        Arabelle
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Arrigal/" class="md-nav__link">
+        Arrigal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Bella/" class="md-nav__link">
+        Bella
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Bildrath/" class="md-nav__link">
+        Bildrath
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Doru/" class="md-nav__link">
+        Doru
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Durst%20Family/" class="md-nav__link">
+        Durst Family
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Eliza/" class="md-nav__link">
+        Eliza
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Eric/" class="md-nav__link">
+        Eric
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Esmeralda/" class="md-nav__link">
+        Esmeralda
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Father%20Donovich/" class="md-nav__link">
+        Father Donovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Illinka/" class="md-nav__link">
+        Illinka
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/" class="md-nav__link">
+        Ireena Kolyanovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Ismark%20Kolyanovich/" class="md-nav__link">
+        Ismark Kolyanovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/King%20Maker/" class="md-nav__link">
+        King Maker
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Kolyan%20Indirovich/" class="md-nav__link">
+        Kolyan Indirovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Lord%20Rahadin/" class="md-nav__link">
+        Lord Rahadin
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Luvash/" class="md-nav__link">
+        Luvash
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Madam%20Eva/" class="md-nav__link">
+        Madam Eva
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Mirabell/" class="md-nav__link">
+        Mirabell
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Morgantha/" class="md-nav__link">
+        Morgantha
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Morning%20Lord/" class="md-nav__link">
+        Morning Lord
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Mother%20Night/" class="md-nav__link">
+        Mother Night
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Ophalia/" class="md-nav__link">
+        Ophalia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Periwimple/" class="md-nav__link">
+        Periwimple
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Pidlwick%20II/" class="md-nav__link">
+        Pidlwick II
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Ravens/" class="md-nav__link">
+        Ravens
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Shaman/" class="md-nav__link">
+        Shaman
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Sir%20Gaheris%20de%20Karaheu/" class="md-nav__link">
+        Sir Gaheris de Karaheu
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Sorvia/" class="md-nav__link">
+        Sorvia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Stanamir/" class="md-nav__link">
+        Stanamir
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/" class="md-nav__link">
+        Strahd von Zarovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Vallaki%20Burgomaster/" class="md-nav__link">
+        Vallaki Burgomaster
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Wizard/" class="md-nav__link">
+        Wizard
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Organizations
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Organizations" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Organizations
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Dusk%20Elves/" class="md-nav__link">
+        Dusk Elves
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Ex%20Vistani/" class="md-nav__link">
+        Ex Vistani
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Mountainfolk/" class="md-nav__link">
+        Mountainfolk
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Order%20of%20the%20Silver%20Dragon/" class="md-nav__link">
+        Order of the Silver Dragon
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Vampirism/" class="md-nav__link">
+        Vampirism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Vistani/" class="md-nav__link">
+        Vistani
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8">
+          Player Characters
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Player Characters" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Player Characters
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Demetri%20Bebanburg/" class="md-nav__link">
+        Demetri Bebanburg
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Kali%20Rouge/" class="md-nav__link">
+        Kali Rouge
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Klepto/" class="md-nav__link">
+        Klepto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Nirin%20Eze/" class="md-nav__link">
+        Nirin Eze
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Nox%20Vita/" class="md-nav__link">
+        Nox Vita
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Sanar/" class="md-nav__link">
+        Sanar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/temp/" class="md-nav__link">
+        temp
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9">
+          Quests
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Quests" data-md-level="1">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Quests
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Attend%20Festival%20of%20the%20Blazing%20Sun/" class="md-nav__link">
+        Attend Festival of the Blazing Sun
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Bring%20Ireena%20to%20Vallaki/" class="md-nav__link">
+        Bring Ireena to Vallaki
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Bring%20Ireena%20to%20the%20Abbey%20of%20Saint%20Markovia/" class="md-nav__link">
+        Bring Ireena to the Abbey of Saint Markovia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Name-day%20gift%20for%20Arabelle/" class="md-nav__link">
+        Name-day gift for Arabelle
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Return%20Arabelle%20to%20the%20Vistani%20Encampment/" class="md-nav__link">
+        Return Arabelle to the Vistani Encampment
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Seek%20out%20Van%20Richten%27s%20Guide%20to%20Monster%20Slaying/" class="md-nav__link">
+        Seek out Van Richten's Guide to Monster Slaying
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Seek%20out%20the%20Mountainfolk/" class="md-nav__link">
+        Seek out the Mountainfolk
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10" type="checkbox" id="__nav_10" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10">
+          Quests Completed
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Quests Completed" data-md-level="1">
+        <label class="md-nav__title" for="__nav_10">
+          <span class="md-nav__icon md-icon"></span>
+          Quests Completed
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests%20Completed/Burial%20of%20Kolyan%20Indirovich/" class="md-nav__link">
+        Burial of Kolyan Indirovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests%20Completed/Meet%20Madam%20Eva/" class="md-nav__link">
+        Meet Madam Eva
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests%20Completed/Retrieve%20Leather%20Bundle%20for%20Bill%20Draur/" class="md-nav__link">
+        Retrieve Leather Bundle for Bill Draur
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11" type="checkbox" id="__nav_11" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11">
+          Rules
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Rules" data-md-level="1">
+        <label class="md-nav__title" for="__nav_11">
+          <span class="md-nav__icon md-icon"></span>
+          Rules
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Rules/Hangovers/" class="md-nav__link">
+        Hangovers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Rules/Resurrection/" class="md-nav__link">
+        Resurrection
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_12" type="checkbox" id="__nav_12" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12">
+          Sessions
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Sessions" data-md-level="1">
+        <label class="md-nav__title" for="__nav_12">
+          <span class="md-nav__icon md-icon"></span>
+          Sessions
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2001/" class="md-nav__link">
+        Session 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2002/" class="md-nav__link">
+        Session 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2003/" class="md-nav__link">
+        Session 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2004/" class="md-nav__link">
+        Session 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2005/" class="md-nav__link">
+        Session 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2006/" class="md-nav__link">
+        Session 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Session 7
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Session 7
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#waking-in-the-vistani-encampment" class="md-nav__link">
+    Waking in the Vistani Encampment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#speaking-with-stanamir" class="md-nav__link">
+    Speaking with Stanamir
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#journey-to-the-svalich-road-bridge" class="md-nav__link">
+    Journey to the Svalich Road Bridge
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#travel-to-the-western-gates" class="md-nav__link">
+    Travel to the Western Gates
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#night-on-svalich-road" class="md-nav__link">
+    Night on Svalich Road
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#discovering-the-windmill-of-morgantha" class="md-nav__link">
+    Discovering the Windmill of Morgantha
+  </a>
+  
+    <nav class="md-nav" aria-label="Discovering the Windmill of Morgantha">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-four-stone-square" class="md-nav__link">
+    The Four Stone Square
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#travel-from-the-windmill-to-vallaki" class="md-nav__link">
+    Travel from the Windmill to Vallaki
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#traveling-to-the-vallaki-vistani-encampment" class="md-nav__link">
+    Traveling to the Vallaki Vistani Encampment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entering-the-vallaki-vistani-encampment" class="md-nav__link">
+    Entering the Vallaki Vistani Encampment
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2008/" class="md-nav__link">
+        Session 8
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2009/" class="md-nav__link">
+        Session 9
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2010/" class="md-nav__link">
+        Session 10
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2011/" class="md-nav__link">
+        Session 11
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2012/" class="md-nav__link">
+        Session 12
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2013/" class="md-nav__link">
+        Session 13
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2014/" class="md-nav__link">
+        Session 14
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2015/" class="md-nav__link">
+        Session 15
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2016/" class="md-nav__link">
+        Session 16
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2021/" class="md-nav__link">
+        Session 21
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#waking-in-the-vistani-encampment" class="md-nav__link">
+    Waking in the Vistani Encampment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#speaking-with-stanamir" class="md-nav__link">
+    Speaking with Stanamir
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#journey-to-the-svalich-road-bridge" class="md-nav__link">
+    Journey to the Svalich Road Bridge
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#travel-to-the-western-gates" class="md-nav__link">
+    Travel to the Western Gates
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#night-on-svalich-road" class="md-nav__link">
+    Night on Svalich Road
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#discovering-the-windmill-of-morgantha" class="md-nav__link">
+    Discovering the Windmill of Morgantha
+  </a>
+  
+    <nav class="md-nav" aria-label="Discovering the Windmill of Morgantha">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-four-stone-square" class="md-nav__link">
+    The Four Stone Square
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#travel-from-the-windmill-to-vallaki" class="md-nav__link">
+    Travel from the Windmill to Vallaki
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#traveling-to-the-vallaki-vistani-encampment" class="md-nav__link">
+    Traveling to the Vallaki Vistani Encampment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entering-the-vallaki-vistani-encampment" class="md-nav__link">
+    Entering the Vallaki Vistani Encampment
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+
+<h1 id="session-7">Session 7<a class="headerlink" href="#session-7" title="Permanent link">&para;</a></h1>
+<p><a href="https://youtu.be/WwnwxbPVrGQ">Youtube - Curse of Strahd Session 7</a></p>
+<h2 id="waking-in-the-vistani-encampment">Waking in the Vistani Encampment<a class="headerlink" href="#waking-in-the-vistani-encampment" title="Permanent link">&para;</a></h2>
+<p>As the sun rose on a new day, <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> and <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> were early to rise.  As <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> sat by the fire quietly, <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> attempted a ritual similar to before (See <a href="../Session%2005/#waking-at-the-burgomaster-manor">Session 05#Waking at the Burgomaster Manor</a>) with a severe hangover and failed. <a href="../../Player%20Characters/Sanar/">Sanar</a> wakes contemplating the <a href="../Session%2006/#madam-eva-tells-our-fortunes">fortunes told the night before</a> and examines the Spell Book acquired from <a href="../Session%2005/#battle-for-the-leather-bundle">the Ankheg nests</a>, finding it mostly illegible save for <code>Find Familiar</code>, <code>Alarm</code>, and <code>Detect Magic</code>. <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena Kolyanovich</a> wakes with sore feet from the extensive travels, but <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> encourages her, then he converses with <a href="../../Player%20Characters/Klepto/">Klepto</a> about their commonalities in tinkering: Nirin with his <a href="../../Player%20Characters/Nirin%20Eze/#arm">Nirin Eze#Arm</a> claiming he didn't make it, and Klepto with his <a href="../../Player%20Characters/Klepto/#eldritch-cannon">Klepto#Eldritch Cannon</a>.</p>
+<p><a href="../../Player%20Characters/Klepto/">Klepto</a> asked <a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> if there were merchants in the <a href="../../Locations/Tser%20Pool/#vistani-encampment">Tser Pool#Vistani Encampment</a>, was told "no", but was told there were some at the <a href="../../Locations/Vallaki%20Vistani%20Encampment/">Vallaki Vistani Encampment</a>.  When asked about the haunted gallows from <a href="../Session%2006/#walking-to-the-tser-pool">Session 06#Walking to the Tser Pool</a>, <a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> said he's never seen any bodies hung from them before. </p>
+<p><a href="../../Player%20Characters/Sanar/">Sanar</a> reassured <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> that although he may be a <a href="../../Organizations/Dusk%20Elves/">Drow</a>, he is not a follower of Lolth and was not at Silverymoon during the <a href="../../Events/Storm%20of%20Ash/">Storm of Ash</a>, although <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> did not remember the story he told the night before during <a href="../Session%2006/#contemplating-our-fortunes">Session 06#Contemplating our Fortunes</a>, but confirmed to <a href="../../Player%20Characters/Sanar/">Sanar</a> that he knows that <a href="../../Player%20Characters/Sanar/">Sanar</a> would never do such a thing.</p>
+<p>Moving focus to <a href="../../Player%20Characters/Demetri%20Bebanburg/">Demetri</a>, <a href="../../Player%20Characters/Sanar/">Sanar</a> asked him if he was being truthful about his <a href="../../Organizations/Vampirism/">Vampiric</a> heritage since his <a href="../Session%2006/#personal-readings">Session 06#Personal Readings</a> seemed to indicate there was an ancestry of the trait.  <a href="../../Player%20Characters/Demetri%20Bebanburg/">Demetri</a> confirmed that he is still unsure of the origin of his transformation nor did his family share any information with him.</p>
+<p>When <a href="../../Player%20Characters/Sanar/">Sanar</a> was asked why he wanted to speak with <a href="../../Non-Player%20Characters/Madam%20Eva/">Madam Eva</a> alone, he shared that he crossed paths with the <a href="../../Non-Player%20Characters/King%20Maker/">King Maker</a> and was curious about the implications.</p>
+<p>We agreed to remain a group for the time being since our paths seem to align.</p>
+<h2 id="speaking-with-stanamir">Speaking with Stanamir<a class="headerlink" href="#speaking-with-stanamir" title="Permanent link">&para;</a></h2>
+<p><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> took <a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> aside and asked him about the symbol found on his <a href="../../Player%20Characters/Nirin%20Eze/#arm">Nirin Eze#Arm</a>.  <a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> thought the symbol reminded him of the deity Tyr, but typically the scales rest on a Warhammer and there isn't an angel nor devil.  <a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> casts Detect Magic on the symbol and sees that its magical in nature, but is unable to pinpoint the School of magic - possibly conjuration or illusion.  He suggests <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> focus on it, touch it, etc.</p>
+<p><a href="../../Player%20Characters/Demetri%20Bebanburg/">Demetri</a> joined the conversation and asked <a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> what was happening to him.  <a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> observed that <a href="../../Player%20Characters/Demetri%20Bebanburg/">Demetri</a> may be a <a href="../../Organizations/Vampirism/#dhampir">Vampirism#Dhampir</a> as he seems similar to ones he's seen in other realms.  Oddly, that would require being bitten from <a href="../../Non-Player%20Characters/Stanamir/">Stanamir's</a> knowledge, but <a href="../../Player%20Characters/Demetri%20Bebanburg/">Demetri</a> doesn't recall those events.</p>
+<p>When finished getting ready, <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> also joins the conversation and asks <a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> about the Shriveled Goblin Hand he found in the <a href="../../Locations/Death%20House/">Death House</a> (<a href="../Session%2003/#walters-lair">Session 03#Walters Lair</a>), but <a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> finds it ordinary.</p>
+<p><a href="../../Non-Player%20Characters/Stanamir/">Stanamir</a> gives us some basic directions and we depart.</p>
+<h2 id="journey-to-the-svalich-road-bridge">Journey to the Svalich Road Bridge<a class="headerlink" href="#journey-to-the-svalich-road-bridge" title="Permanent link">&para;</a></h2>
+<p>We travel for a few hours along the <a href="../../Locations/Svalich%20Woods/#road">Svalich Woods#Road</a> and come to a waterfall with a <a href="../../Locations/Svalich%20Woods/#bridge-and-waterfall">Svalich Woods#Bridge and Waterfall</a> 1000ft above.</p>
+<p><img alt="Svalich Road Bridge and Waterfall.png" src="../../Assets/Svalich%20Road%20Bridge%20and%20Waterfall.png" /></p>
+<p>Instead of climbing, we choose to walk the path and as we approach the bridge we notice Dark Gargoyles decorating it.  Using his Proto-Dragon Familiar as a scout, <a href="../../Player%20Characters/Demetri%20Bebanburg/">Demetri</a> notices several bodies on the other side of the bridge.  We approach and find footprints leading to and from the bodies, into the woods, and one set that seem to leave the area.  After our investigation, we conclude that a barefoot vampire drained the blood of the victims and slashed the throats of another set of bodies in the woods.  <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> made a sketch of the barefoot prints and pocketed some coin from the bodies which we determined to be of the raging mob we first encountered in <a href="../Session%2004/#traveling-to-the-blood-on-the-vine-tavern">Session 04#Traveling to the Blood on the Vine Tavern</a>.  <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> tells us this is what happens to those that attempt to stand up to <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd von Zarovich</a> as <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> gives them their last rites in the name of the <a href="../../Non-Player%20Characters/Morning%20Lord/">Morning Lord</a>.</p>
+<p>In discussing the implications of this, <a href="../../Player%20Characters/Demetri%20Bebanburg/">Demetri</a> and <a href="../../Player%20Characters/Sanar/">Sanar</a> posture that <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd von Zarovich</a> is testing us - that he could easily overpower the party and take <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> if he wanted, but for some reason he chooses not to.  <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> notes that the footprints may not be of <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd von Zarovich</a> himself, but other <a href="../../Organizations/Vampirism/">Vampires</a> under <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd's command</a>.  <a href="../../Player%20Characters/Sanar/">Sanar</a> asks if <a href="../../Non-Player%20Characters/Lord%20Rahadin/">Lord Rahadin</a> is also a <a href="../../Organizations/Vampirism/">vampire</a>, but <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> doubts it.</p>
+<p>Before progressing, the morning's travels bring on the reminder of the delicious <a href="../../Items/Dream%20Pie/">Dream Pie</a> eaten previously: <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> and <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> have cravings, but fight them off.  <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> on the other hand cannot resist and is consumed by the desire for <a href="../../Items/Dream%20Pie/">Dream Pie</a> (disadvantage).  On the rest of the journey he repeatedly runs ahead, then waits for everyone to catch up, eager to get his hands on more <a href="../../Items/Dream%20Pie/">Dream Pie</a> in <a href="../../Locations/Vallaki/">Vallaki</a>.</p>
+<h2 id="travel-to-the-western-gates">Travel to the Western Gates<a class="headerlink" href="#travel-to-the-western-gates" title="Permanent link">&para;</a></h2>
+<p>Leaving the bodies behind, we continue our travels down the <a href="../../Locations/Svalich%20Woods/#road">Svalich Woods#Road</a>.  <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> asked about the story he told the night before (<a href="../Session%2006/#contemplating-our-fortunes">Session 06#Contemplating our Fortunes</a>) and <a href="../../Player%20Characters/Sanar/">Sanar</a> filled in the details of the story shared of the <a href="../../Events/Storm%20of%20Ash/">Storm of Ash</a> and the two confide in each other - <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> revealing more information about his previous party, <a href="../../Player%20Characters/Nox%20Vita/#sodality">Sodality</a>.</p>
+<p>We come to a fork in the road with a signpost labeled</p>
+<ul>
+<li><a href="../../Locations/Castle%20Ravenloft/">Castle Ravenloft</a> pointing East<ul>
+<li>Has a once-nice cobblestone road</li>
+</ul>
+</li>
+<li><a href="../../Locations/Vallaki/">Vallaki</a>, <a href="../../Locations/Berez/">Berez</a>, and <a href="../../Locations/Krezk/">Krezk</a> pointing West</li>
+</ul>
+<p><a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> updates us that <a href="../../Locations/Berez/">Berez</a> is the fourth village that supposedly existed. Her rumor matched that of <a href="../../Non-Player%20Characters/Morgantha/">Morgantha</a> saying that it was swallowed up by the flooded <a href="../../Locations/Lake%20Zarovich/#river">river</a> hundreds of years ago.</p>
+<p>We head West towards <a href="../../Locations/Vallaki/">Vallaki</a> and as the sun continues to set as <a href="../../Player%20Characters/Nirin%20Eze/">Nirin's</a> <a href="../../Items/Dream%20Pie/">Dream Pie</a> craving continues.  We approach two headless statues between large cliffs, exactly like the <a href="../../Locations/Barovia%20Village/#gates-of-barovia">Barovia Village#Gates of Barovia</a> where we prepare camp for the night.</p>
+<h2 id="night-on-svalich-road">Night on Svalich Road<a class="headerlink" href="#night-on-svalich-road" title="Permanent link">&para;</a></h2>
+<p><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> and <a href="../../Player%20Characters/Demetri%20Bebanburg/">Demetri's</a> Raven Familiar take the first watch and shorty see a shadowy figure step out from a tree. His eye's flash and <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> displays trust and friendship in conversation.  The figure introduces themselves as <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd von Zarovich</a> and asks about our purpose in the woods and for a Gold Piece.  <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> shares that we are traveling to <a href="../../Locations/Vallaki/">Vallaki</a> and although he doesn't have any Gold, he offers tobacco instead, which <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a> accepts.  The two continue formalities and <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a> conveys that he wants to ensure safe travels and he wishes to help.  Before disappearing into the night, he requests <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> let <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> know that he says "Hello".</p>
+<p>Breaking from the charm, <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> reflects on what just happened and asks his <a href="../../Player%20Characters/Nirin%20Eze/#armband">Nirin Eze#Armband</a>, "What are you?", but there is no response.  "Have I made a mistake?", and the devil goes down (no).  As a control, he asks if his name is "Nirin", the angel goes down (yes).  "Are you Tyr?", angel drops (yes).</p>
+<p><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> and <a href="../../Player%20Characters/Sanar/">Sanar</a> take second watch, asking <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> if there is anything to worry about, but he declines, then <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> sets up a telepathic connection with <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> and <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> to find <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> is having nightmares and weeps.  <a href="../../Player%20Characters/Sanar/">Sanar</a> asks <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> about her relationship with <a href="../../Player%20Characters/Klepto/">Klepto</a> and she shares that the <a href="../../Player%20Characters/Klepto/#eldritch-cannon">Klepto#Eldritch Cannon</a> wasn't always with him.  <a href="../../Player%20Characters/Sanar/">Sanar</a> shares that the turret is sentient and doesn't seem to want to be under <a href="../../Player%20Characters/Klepto/">Klepto's</a> control.  When asked about his powers, <a href="../../Player%20Characters/Sanar/">Sanar</a> tells her that he practiced them as a child under his <a href="../../Player%20Characters/Sanar/#father">father's</a> watch and he assumes he inherited the powers from him.  <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> shares that her powers are recent and came from an explosion.  <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> asked <a href="../../Player%20Characters/Sanar/">Sanar</a> about his views of <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a> and <a href="../../Player%20Characters/Sanar/">Sanar</a> replies that after <a href="#journey-to-the-svalich-road-bridge">today's discovery</a>, he definitely seems more evil than at first.</p>
+<p><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> and <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> take third watch as <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> crafts with her Embroidery Kit and asks <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> about his hobbies.  <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> says he doesn't really have many hobbies, he just helps people. <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> shares that she wants to heal people with her Embroidery via magic or plants.  <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> asks how <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> is doing with the loss of her <a href="../../Non-Player%20Characters/Kolyan%20Indirovich/">father</a>, then goes off to attempt his <a href="../../Player%20Characters/Nox%20Vita/#box">ritual</a> again, but fails.</p>
+<p>When we wake, <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> discovers he lost his Shriveled Goblin Hand (likely taken by <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a> during his ritual) and <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> makes no mention of his encounter with <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a> the night before.</p>
+<h2 id="discovering-the-windmill-of-morgantha">Discovering the Windmill of Morgantha<a class="headerlink" href="#discovering-the-windmill-of-morgantha" title="Permanent link">&para;</a></h2>
+<p>We continue our travels and come across a mossy tablet with a rough carving of a wolf's head.  With <a href="../../Player%20Characters/Sanar/">Sanar</a> noting it was thousands of years old, <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> made a quick sketch of it and we briefly discussed naming our group.</p>
+<p>Another hour into our walk, Old Svalich Road transitions into a lazy trail that hugs the mountainside and we descend into a valley. We come across a hill with a <a href="../../Locations/Windmill%20Bakery/">windmill</a> on top - one that looks similar if not identical to the windmills we saw in the <a href="../../Locations/Death%20House/">Death House</a>.  Seeing a small <a href="../../Items/Twig%20Figurine/">Twig Figurine</a> on the ground, we detect the delicious smell of pie and <a href="../../Player%20Characters/Demetri%20Bebanburg/">Demetri</a> sends his familiar to scout the area.  Inside the windmill is <a href="../../Non-Player%20Characters/Bella/">Bella</a>, an old woman with hair up in a mound and hands covered in dough who says, "Look at you!  What the fuck?!"  </p>
+<p>We enter the <a href="../../Locations/Windmill%20Bakery/">Windmill Bakery</a> to find pastries being baked and more <a href="../../Items/Twig%20Figurine/">Twig Doll</a> are in the corner of the room.  <a href="../../Non-Player%20Characters/Bella/">Bella</a> hollers for her sister, <a href="../../Non-Player%20Characters/Ophalia/">Ophalia</a> and says that their mother <a href="../../Non-Player%20Characters/Morgantha/">Morgantha</a> will be home soon.  Complimenting the pies, we buy 3 more for <code>1gp</code> each and get one for free and <a href="../../Non-Player%20Characters/Bella/">Bella</a> says that she is "happy that people appreciate their work: to make people in <a href="../../Locations/Barovia/">Barovia</a> happy," but <a href="../../Player%20Characters/Sanar/">Sanar</a> mentions that the people don't seem happy.</p>
+<p><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> immediately consumers one of the <a href="../../Items/Dream%20Pie/">pies</a> and <a href="../../Player%20Characters/Sanar/">Sanar</a> questions how the people of <a href="../../Locations/Barovia/">Barovia</a> can afford to pay <code>1gp</code> per pie.  <a href="../../Non-Player%20Characters/Bella/">Bella</a> mentions there is wealth in the valley, even if they don't look it the people have money.</p>
+<p>Asking about the <a href="../../Items/Twig%20Figurine/">Twig Doll</a>, <a href="../../Non-Player%20Characters/Bella/">Bella</a> informs us that they make them themselves and are for "decoration" and we are led to believe her.</p>
+<p>Outside, <a href="../../Player%20Characters/Klepto/">Klepto</a> notices many <a href="../../Non-Player%20Characters/Ravens/">Ravens</a> circling above.</p>
+<h3 id="the-four-stone-square">The Four Stone Square<a class="headerlink" href="#the-four-stone-square" title="Permanent link">&para;</a></h3>
+<p>As we depart, we quickly visit the <a href="../../Locations/Windmill%20Bakery/#four-stone-square">Windmill Bakery#Four Stone Square</a> nearby which <a href="../../Non-Player%20Characters/Bella/">Bella</a> says is the remnant from an old building.  <a href="../../Non-Player%20Characters/Morgantha/">Morgantha</a> joins us and states its a place of power, dark, requires sacrifice.  We depart, and <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> asks <a href="../../Non-Player%20Characters/Morgantha/">Granny</a> if she knows anything about his <a href="../../Player%20Characters/Nirin%20Eze/#armband">Nirin Eze#Armband</a>, but she says she doesn't.  As he departs, the devil side of his <a href="../../Player%20Characters/Nirin%20Eze/#armband">Nirin Eze#Armband</a> descends, "No."</p>
+<h2 id="travel-from-the-windmill-to-vallaki">Travel from the Windmill to Vallaki<a class="headerlink" href="#travel-from-the-windmill-to-vallaki" title="Permanent link">&para;</a></h2>
+<p>On our way to <a href="../../Locations/Vallaki/">Vallaki</a> we encounter a man on the road leading a Draft Horse who introduced himself as <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a>, one of the leaders of the <a href="../../Locations/Vallaki%20Vistani%20Encampment/">Vallaki Vistani Encampment</a>.  <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> was bring in supplies from outside <a href="../../Locations/Barovia/">Barovia</a> and described <a href="../../Locations/Vallaki/">Vallaki</a> as a "powder keg" - everyone is tightly wound up and they are unfriendly towards the <a href="../../Organizations/Vistani/">Vistani</a>, with the exception of the <a href="../../Locations/Blue%20Water%20Inn/">Blue Water Inn</a>.</p>
+<p><a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> mentioned [[Blinsky's Toys]] and Klepto asked what kind of toys <a href="../../Non-Player%20Characters/Arabelle/">Arabelle</a> liked.  <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> said they only have creepy toys.  We also chatted about the protection of <a href="../../Locations/Church%20of%20St%20Andral/">Church of St Andral</a> and books in <a href="../../Locations/Vallaki/">Vallaki</a>. <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> suggested we check out "Van Richten's Guide to Monster Slaying."</p>
+<p>When we asked about <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a>, <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> said he likes him, he treats the <a href="../../Organizations/Vistani/">Vistani</a> well, and doesn't care that he treats rest of people poorly, the people treat themselves poorly.</p>
+<p>Asking to stay in the <a href="../../Locations/Vallaki%20Vistani%20Encampment/">Vallaki Vistani Encampment</a>, <a href="../../Player%20Characters/Klepto/">Klepto</a> shows <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> the note from <a href="../../Non-Player%20Characters/Eliza/">Eliza</a> which should help convince his brother <a href="../../Non-Player%20Characters/Luvash/">Luvash</a> to welcome the party.   <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> also shared that the <a href="../../Locations/Vallaki%20Vistani%20Encampment/">Vallaki Vistani Encampment</a> is home to a <a href="../../Locations/Vallaki%20Vistani%20Encampment/#dusk-elf-encampment">Vallaki Vistani Encampment#Dusk Elf Encampment</a>.</p>
+<h2 id="traveling-to-the-vallaki-vistani-encampment">Traveling to the Vallaki Vistani Encampment<a class="headerlink" href="#traveling-to-the-vallaki-vistani-encampment" title="Permanent link">&para;</a></h2>
+<p>As we approach the <a href="../../Locations/Vallaki/">Vallaki</a> Gate we notice dozens of wolf heads on stakes - which are new according to <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> and he mentions that the guards can be dicks sometimes. After some discussion, the guards let <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a>, the "dirty vistani", and the party go around without issue - the Gates are closed for the night and we head around towards the <a href="../../Locations/Vallaki%20Vistani%20Encampment/">Vallaki Vistani Encampment</a>.</p>
+<p><a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> mentions that <a href="../../Organizations/Dusk%20Elves/">Dusk Elves</a> are not <em>as</em> disliked as <a href="../../Organizations/Vistani/">Vistani</a>, but they tend to not enter <a href="../../Locations/Vallaki/">Vallaki</a> - there is also a half <a href="../../Organizations/Dusk%20Elves/">Dusk Elf</a> who owns the <a href="../../Locations/Vallaki/#tannery">Vallaki#Tannery</a>.</p>
+<p>When asked about the relationship between the <a href="../../Organizations/Vistani/">Vistani</a> and the others, <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> says the "dislike goes both ways," but he "just wants to look out for his own people."</p>
+<h2 id="entering-the-vallaki-vistani-encampment">Entering the Vallaki Vistani Encampment<a class="headerlink" href="#entering-the-vallaki-vistani-encampment" title="Permanent link">&para;</a></h2>
+<p>We arrive at large <a href="../../Locations/Vallaki%20Vistani%20Encampment/">encampment</a>, full of covered wagons and the scent of wine and horses.  <a href="../../Non-Player%20Characters/Arrigal/">Arrigal</a> points to hovels built into the hills where the <a href="../../Locations/Vallaki%20Vistani%20Encampment/#dusk-elf-encampment">Vallaki Vistani Encampment#Dusk Elf Encampment</a> is.  We hear yelling from a brightly lit tent in the center of the camp where a bear of a man, <a href="../../Non-Player%20Characters/Luvash/">Luvash</a> was scolding a teenage boy, <a href="../../Non-Player%20Characters/Alexei/">Alexei</a> for losing his daughter <a href="../../Non-Player%20Characters/Arabelle/">Arabelle</a> and rages that she "never listens".  <a href="../../Non-Player%20Characters/Luvash/">Luvash</a> requests that we <a href="../../Quests/Return%20Arabelle%20to%20the%20Vistani%20Encampment/">Return Arabelle to the Vistani Encampment</a> and gives us <a href="../../Non-Player%20Characters/Arabelle/">Arabelle</a>'s favorite bronze necklace to help her notice us</p>
+
+
+
+
+              
+            </article>
+            
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+        
+        <a href="../Session%2006/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Session 6" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Session 6
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../Session%2008/" class="md-footer__link md-footer__link--next" aria-label="Next: Session 8" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Session 8
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.ecf98df9.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.2ab50757.min.js"></script>
+      
+    
+  </body>
+</html>

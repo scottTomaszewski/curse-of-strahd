@@ -1,0 +1,3141 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.1, mkdocs-material-8.4.3">
+    
+    
+      
+        <title>Session 8 - Curse of Strahd</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6b80c2a2.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#000000">
+        
+      
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="black">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#session-8" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Curse of Strahd" class="md-header__button md-logo" aria-label="Curse of Strahd" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Curse of Strahd
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Session 8
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Curse of Strahd" class="md-nav__button md-logo" aria-label="Curse of Strahd" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Curse of Strahd
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Curse of Strahd
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Events
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Events" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Events
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Events/Storm%20of%20Ash/" class="md-nav__link">
+        Storm of Ash
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Handouts
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Handouts" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Handouts
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Handouts/Condolence%20Letter%20for%20Ireena/" class="md-nav__link">
+        Condolence Letter for Ireena
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Handouts/Kolyan%20Letter/" class="md-nav__link">
+        Kolyan Letter
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Handouts/Strahd%20Letter%20to%20Dursts/" class="md-nav__link">
+        Strahd Letter to Dursts
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Items
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Items" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Items
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Dream%20Pie/" class="md-nav__link">
+        Dream Pie
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Tarokka%20Deck/" class="md-nav__link">
+        Tarokka Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Items/Twig%20Figurine/" class="md-nav__link">
+        Twig Figurine
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Locations
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Locations" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Locations
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Abbey%20of%20Saint%20Markovia/" class="md-nav__link">
+        Abbey of Saint Markovia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Barovia%20Church%20of%20the%20Morning%20Lord/" class="md-nav__link">
+        Barovia Church of the Morning Lord
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Barovia%20Village/" class="md-nav__link">
+        Barovia Village
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Barovia/" class="md-nav__link">
+        Barovia (Country)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Berez/" class="md-nav__link">
+        Berez
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Bildrath%27s%20Mercantile/" class="md-nav__link">
+        Bildrath's Mercantile
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Blood%20on%20the%20Vine%20Tavern/" class="md-nav__link">
+        Blood on the Vine Tavern
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Blue%20Water%20Inn/" class="md-nav__link">
+        Blue Water Inn
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Burgomaster%20Manor/" class="md-nav__link">
+        Burgomaster Manor
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Castle%20Ravenloft/" class="md-nav__link">
+        Castle Ravenloft
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Church%20of%20St%20Andral/" class="md-nav__link">
+        Church of St. Andral
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Death%20House/" class="md-nav__link">
+        Death House
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Krezk/" class="md-nav__link">
+        Krezk
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Lake%20Zarovich/" class="md-nav__link">
+        Lake Zarovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Moon/" class="md-nav__link">
+        Moon
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Svalich%20Woods/" class="md-nav__link">
+        Svalich Woods
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Tser%20Pool/" class="md-nav__link">
+        Tser Pool
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Vallaki%20Orphanage/" class="md-nav__link">
+        Vallaki Orphanage
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Vallaki%20Vistani%20Encampment/" class="md-nav__link">
+        Vallaki Vistani Encampment
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Vallaki/" class="md-nav__link">
+        Vallaki
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Locations/Windmill%20Bakery/" class="md-nav__link">
+        Windmill Bakery
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Non Player Characters
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Non Player Characters" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Non Player Characters
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Abbot/" class="md-nav__link">
+        Abbot
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Alexei/" class="md-nav__link">
+        Alexei
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Arabelle/" class="md-nav__link">
+        Arabelle
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Arrigal/" class="md-nav__link">
+        Arrigal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Bella/" class="md-nav__link">
+        Bella
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Bildrath/" class="md-nav__link">
+        Bildrath
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Doru/" class="md-nav__link">
+        Doru
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Durst%20Family/" class="md-nav__link">
+        Durst Family
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Eliza/" class="md-nav__link">
+        Eliza
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Eric/" class="md-nav__link">
+        Eric
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Esmeralda/" class="md-nav__link">
+        Esmeralda
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Father%20Donovich/" class="md-nav__link">
+        Father Donovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Illinka/" class="md-nav__link">
+        Illinka
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/" class="md-nav__link">
+        Ireena Kolyanovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Ismark%20Kolyanovich/" class="md-nav__link">
+        Ismark Kolyanovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/King%20Maker/" class="md-nav__link">
+        King Maker
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Kolyan%20Indirovich/" class="md-nav__link">
+        Kolyan Indirovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Lord%20Rahadin/" class="md-nav__link">
+        Lord Rahadin
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Luvash/" class="md-nav__link">
+        Luvash
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Madam%20Eva/" class="md-nav__link">
+        Madam Eva
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Mirabell/" class="md-nav__link">
+        Mirabell
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Morgantha/" class="md-nav__link">
+        Morgantha
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Morning%20Lord/" class="md-nav__link">
+        Morning Lord
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Mother%20Night/" class="md-nav__link">
+        Mother Night
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Ophalia/" class="md-nav__link">
+        Ophalia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Periwimple/" class="md-nav__link">
+        Periwimple
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Pidlwick%20II/" class="md-nav__link">
+        Pidlwick II
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Ravens/" class="md-nav__link">
+        Ravens
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Shaman/" class="md-nav__link">
+        Shaman
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Sir%20Gaheris%20de%20Karaheu/" class="md-nav__link">
+        Sir Gaheris de Karaheu
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Sorvia/" class="md-nav__link">
+        Sorvia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Stanamir/" class="md-nav__link">
+        Stanamir
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/" class="md-nav__link">
+        Strahd von Zarovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Vallaki%20Burgomaster/" class="md-nav__link">
+        Vallaki Burgomaster
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Non-Player%20Characters/Wizard/" class="md-nav__link">
+        Wizard
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Organizations
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Organizations" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Organizations
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Dusk%20Elves/" class="md-nav__link">
+        Dusk Elves
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Ex%20Vistani/" class="md-nav__link">
+        Ex Vistani
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Mountainfolk/" class="md-nav__link">
+        Mountainfolk
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Order%20of%20the%20Silver%20Dragon/" class="md-nav__link">
+        Order of the Silver Dragon
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Vampirism/" class="md-nav__link">
+        Vampirism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Organizations/Vistani/" class="md-nav__link">
+        Vistani
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8">
+          Player Characters
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Player Characters" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Player Characters
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Demetri%20Bebanburg/" class="md-nav__link">
+        Demetri Bebanburg
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Kali%20Rouge/" class="md-nav__link">
+        Kali Rouge
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Klepto/" class="md-nav__link">
+        Klepto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Nirin%20Eze/" class="md-nav__link">
+        Nirin Eze
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Nox%20Vita/" class="md-nav__link">
+        Nox Vita
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/Sanar/" class="md-nav__link">
+        Sanar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Player%20Characters/temp/" class="md-nav__link">
+        temp
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9">
+          Quests
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Quests" data-md-level="1">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Quests
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Attend%20Festival%20of%20the%20Blazing%20Sun/" class="md-nav__link">
+        Attend Festival of the Blazing Sun
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Bring%20Ireena%20to%20Vallaki/" class="md-nav__link">
+        Bring Ireena to Vallaki
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Bring%20Ireena%20to%20the%20Abbey%20of%20Saint%20Markovia/" class="md-nav__link">
+        Bring Ireena to the Abbey of Saint Markovia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Name-day%20gift%20for%20Arabelle/" class="md-nav__link">
+        Name-day gift for Arabelle
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Return%20Arabelle%20to%20the%20Vistani%20Encampment/" class="md-nav__link">
+        Return Arabelle to the Vistani Encampment
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Seek%20out%20Van%20Richten%27s%20Guide%20to%20Monster%20Slaying/" class="md-nav__link">
+        Seek out Van Richten's Guide to Monster Slaying
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests/Seek%20out%20the%20Mountainfolk/" class="md-nav__link">
+        Seek out the Mountainfolk
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10" type="checkbox" id="__nav_10" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10">
+          Quests Completed
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Quests Completed" data-md-level="1">
+        <label class="md-nav__title" for="__nav_10">
+          <span class="md-nav__icon md-icon"></span>
+          Quests Completed
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests%20Completed/Burial%20of%20Kolyan%20Indirovich/" class="md-nav__link">
+        Burial of Kolyan Indirovich
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests%20Completed/Meet%20Madam%20Eva/" class="md-nav__link">
+        Meet Madam Eva
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quests%20Completed/Retrieve%20Leather%20Bundle%20for%20Bill%20Draur/" class="md-nav__link">
+        Retrieve Leather Bundle for Bill Draur
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11" type="checkbox" id="__nav_11" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11">
+          Rules
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Rules" data-md-level="1">
+        <label class="md-nav__title" for="__nav_11">
+          <span class="md-nav__icon md-icon"></span>
+          Rules
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Rules/Hangovers/" class="md-nav__link">
+        Hangovers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Rules/Resurrection/" class="md-nav__link">
+        Resurrection
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_12" type="checkbox" id="__nav_12" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12">
+          Sessions
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Sessions" data-md-level="1">
+        <label class="md-nav__title" for="__nav_12">
+          <span class="md-nav__icon md-icon"></span>
+          Sessions
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2001/" class="md-nav__link">
+        Session 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2002/" class="md-nav__link">
+        Session 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2003/" class="md-nav__link">
+        Session 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2004/" class="md-nav__link">
+        Session 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2005/" class="md-nav__link">
+        Session 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2006/" class="md-nav__link">
+        Session 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2007/" class="md-nav__link">
+        Session 7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Session 8
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Session 8
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#traveling-to-the-vallaki-gates" class="md-nav__link">
+    Traveling to the Vallaki Gates
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entering-vallaki" class="md-nav__link">
+    Entering Vallaki
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scouting-out-the-vallaki-orphanage" class="md-nav__link">
+    Scouting out the Vallaki Orphanage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#raw" class="md-nav__link">
+    RAW
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#raw-ryan" class="md-nav__link">
+    RAW Ryan
+  </a>
+  
+    <nav class="md-nav" aria-label="RAW Ryan">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#attendees" class="md-nav__link">
+    Attendees
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#notes" class="md-nav__link">
+    Notes
+  </a>
+  
+    <nav class="md-nav" aria-label="Notes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#trip-to-valaki-gates" class="md-nav__link">
+    Trip to [[Valaki]] Gates
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#town-of-valaki" class="md-nav__link">
+    Town of [[Valaki]]
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#saint-andral-orphanage" class="md-nav__link">
+    Saint Andral Orphanage
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bluewater-inn" class="md-nav__link">
+    Bluewater Inn
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#klepto-and-the-kingmaker" class="md-nav__link">
+    Klepto and [[the Kingmaker]]
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#morning-in-valaki" class="md-nav__link">
+    Morning in Valaki
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#path-to-lake-zarovich" class="md-nav__link">
+    Path to Lake Zarovich
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#taking-bluto-to-the-vistani" class="md-nav__link">
+    Taking [[Bluto]] to the Vistani
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#returning-arabelle-to-the-valaki-vistani-camp" class="md-nav__link">
+    Returning Arabelle to the Valaki Vistani camp
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sanar-meets-with-the-drow" class="md-nav__link">
+    Sanar meets with the Drow
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2009/" class="md-nav__link">
+        Session 9
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2010/" class="md-nav__link">
+        Session 10
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2011/" class="md-nav__link">
+        Session 11
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2012/" class="md-nav__link">
+        Session 12
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2013/" class="md-nav__link">
+        Session 13
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2014/" class="md-nav__link">
+        Session 14
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2015/" class="md-nav__link">
+        Session 15
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2016/" class="md-nav__link">
+        Session 16
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Session%2021/" class="md-nav__link">
+        Session 21
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#traveling-to-the-vallaki-gates" class="md-nav__link">
+    Traveling to the Vallaki Gates
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entering-vallaki" class="md-nav__link">
+    Entering Vallaki
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scouting-out-the-vallaki-orphanage" class="md-nav__link">
+    Scouting out the Vallaki Orphanage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#raw" class="md-nav__link">
+    RAW
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#raw-ryan" class="md-nav__link">
+    RAW Ryan
+  </a>
+  
+    <nav class="md-nav" aria-label="RAW Ryan">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#attendees" class="md-nav__link">
+    Attendees
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#notes" class="md-nav__link">
+    Notes
+  </a>
+  
+    <nav class="md-nav" aria-label="Notes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#trip-to-valaki-gates" class="md-nav__link">
+    Trip to [[Valaki]] Gates
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#town-of-valaki" class="md-nav__link">
+    Town of [[Valaki]]
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#saint-andral-orphanage" class="md-nav__link">
+    Saint Andral Orphanage
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bluewater-inn" class="md-nav__link">
+    Bluewater Inn
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#klepto-and-the-kingmaker" class="md-nav__link">
+    Klepto and [[the Kingmaker]]
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#morning-in-valaki" class="md-nav__link">
+    Morning in Valaki
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#path-to-lake-zarovich" class="md-nav__link">
+    Path to Lake Zarovich
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#taking-bluto-to-the-vistani" class="md-nav__link">
+    Taking [[Bluto]] to the Vistani
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#returning-arabelle-to-the-valaki-vistani-camp" class="md-nav__link">
+    Returning Arabelle to the Valaki Vistani camp
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sanar-meets-with-the-drow" class="md-nav__link">
+    Sanar meets with the Drow
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+
+<h1 id="session-8">Session 8<a class="headerlink" href="#session-8" title="Permanent link">&para;</a></h1>
+<p><a href="https://youtu.be/uhK_dL29c_E">Youtube - Curse of Strahd Session 8</a></p>
+<h2 id="traveling-to-the-vallaki-gates">Traveling to the Vallaki Gates<a class="headerlink" href="#traveling-to-the-vallaki-gates" title="Permanent link">&para;</a></h2>
+<p>As we approach the <a href="../../Locations/Vallaki/#gate">Vallaki#Gate</a>, <a href="../../Player%20Characters/Sanar/">Sanar</a> asks for change for <code>1sp</code> and we discuss our tactics for entering the village.  <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> offers to use the clout of her name to enter and <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> expresses concern our identities being revealed, but <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> doesn't seem worried.  At the very least, <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> suggests we should use her name to get an audience with the <a href="../../Non-Player%20Characters/Vallaki%20Burgomaster/">Vallaki Burgomaster</a></p>
+<p><a href="../../Player%20Characters/Klepto/">Klepto</a>'s <a href="../../Player%20Characters/Klepto/#eldritch-cannon">Klepto#Eldritch Cannon</a> sharpened its nails without external help which interested <a href="../../Player%20Characters/Klepto/">Klepto</a>.  Seeing the hand was interested in communicating, <a href="../../Player%20Characters/Sanar/">Sanar</a> reached out to the hand and it repeated its <a href="../Session%2006/#wolf-ambush">threats</a>.  <a href="../../Player%20Characters/Sanar/">Sanar</a> requests the hand stay calm in <a href="../../Locations/Vallaki/">Vallaki</a> and it seems to comply, but continues to express it's desire to kill <a href="../../Player%20Characters/Sanar/">Sanar</a> and/or <a href="../../Player%20Characters/Klepto/">Klepto</a>.</p>
+<h2 id="entering-vallaki">Entering Vallaki<a class="headerlink" href="#entering-vallaki" title="Permanent link">&para;</a></h2>
+<p>At the gate, <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> took the lead on gaining entry, stating they are on a <a href="../../Quests/Return%20Arabelle%20to%20the%20Vistani%20Encampment/">case for a missing person</a> and we shouldn't keep <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> waiting.  Although they are suspicious of <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> and <a href="../../Player%20Characters/Klepto/">Klepto</a>, they let us in and ask for documentation.  <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> gives them the name <a href="../../Player%20Characters/Kali%20Rouge/#meg-ashrunner">Meg Ashrunner</a>, <a href="../../Player%20Characters/Sanar/">Sanar</a> gives the name <a href="../../Player%20Characters/Sanar/#eresse">Eresse</a>, and a panicked <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> gives <a href="../../Player%20Characters/Nox%20Vita/#vox-nita">Nox Vita#Vox Nita</a>. The others shared their real information.  When asked about our opinion of <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a>, <a href="../../Player%20Characters/Kali%20Rouge/">Meg Ashrunner</a> acts like she doesn't know who he is, "being new to the town and all."</p>
+<p>Seemingly satisfied, the guards give a rundown of the <a href="../../Locations/Vallaki/#laws">Vallaki#Laws</a> - including that we must <a href="../../Quests/Attend%20Festival%20of%20the%20Blazing%20Sun/">Attend Festival of the Blazing Sun</a> in 3 days.  <a href="../../Player%20Characters/Sanar/">Sanar</a> asked the guards why <a href="../../Organizations/Dusk%20Elves/">Dusk Elves</a> and <a href="../../Organizations/Vistani/">Vistani</a> aren't allowed in and they said, "<a href="../../Organizations/Dusk%20Elves/">Dusk Elves</a> are allowed in, but they are a broken people; there's not many of them" and "<a href="../../Organizations/Vistani/">Vistani</a> are vagabonds, not to be trusted, and likely in league with <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a>."  <a href="../../Locations/Blue%20Water%20Inn/">Blue Water Inn</a> was suggested as a fine resting point for the night.</p>
+<p>While registering our weapons, <a href="../../Player%20Characters/Kali%20Rouge/">Meg Ashrunner</a> continued to rant about where she can get changed and <a href="../../Player%20Characters/Sanar/">Sanar</a> attempted to Suggest otherwise, but failed. Weapons bought in town will automatically be registered.  The guard directs us the the <a href="../../Locations/Church%20of%20St%20Andral/">Church of St Andral</a>.</p>
+<p>As we walked, <a href="../../Player%20Characters/Sanar/">Sanar</a> expressed his disappointment in <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> sharing her influence immediately and that <a href="../../Player%20Characters/Klepto/">Klepto</a> mentioned that we were searching for <a href="../../Organizations/Vistani/">Vistani</a>.</p>
+<h2 id="scouting-out-the-vallaki-orphanage">Scouting out the Vallaki Orphanage<a class="headerlink" href="#scouting-out-the-vallaki-orphanage" title="Permanent link">&para;</a></h2>
+<p>Before heading off to bed, we decide to scope out the <a href="../../Locations/Vallaki%20Orphanage/">Vallaki Orphanage</a> - <a href="../../Player%20Characters/Nox%20Vita/">Nox Vita</a>, <a href="../../Player%20Characters/Klepto/">Klepto</a>, and <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> out back to keep and eye out.  </p>
+<h2 id="raw">RAW<a class="headerlink" href="#raw" title="Permanent link">&para;</a></h2>
+<ul>
+<li>sanar exchanges silver fro copper with nox and twidles in fingers</li>
+<li>ireena shares that her name has clout<ul>
+<li>suggests we might want to meet with vallaki burgomaster to get some details</li>
+</ul>
+</li>
+<li>gate interaction<ul>
+<li>kali and sanar use custom names ("Eresse")</li>
+<li>Rules of vallaki<ul>
+<li>Strahd is strictly illegal, use "the devil" or "he who should not be named"</li>
+<li>burgomaster festival every week, attendance mandatory</li>
+<li>festival of the blazing sun in 3 days, in town square</li>
+<li>morale is everything, no down playing anyone</li>
+<li>normal lies are still upheld</li>
+<li>Criminals will be punished according to justice system</li>
+</ul>
+</li>
+<li>Dusk elves are "broken people", not many of them</li>
+<li>Blue water Inn can house us for the night</li>
+</ul>
+</li>
+<li>More established than Barovia Village</li>
+<li>St. Andral orphanage</li>
+<li>sanar lectures group on subtly</li>
+<li>orphanage<ul>
+<li>backyard with outhose, fense</li>
+<li>stone steps to door</li>
+<li>one light on<ul>
+<li>bottom-right corner windoiw</li>
+<li>single-ish candle light</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>front team<ul>
+<li>nirin, sanar, kali</li>
+<li>nirin in alleyway drunk, 30ft away</li>
+<li>trade a necklace</li>
+</ul>
+</li>
+<li>backdoor<ul>
+<li>klepto, nox, Demetri, Ireena?</li>
+</ul>
+</li>
+<li>front door knock by sanar<ul>
+<li>disguise self as guard</li>
+<li>woman answers door</li>
+</ul>
+</li>
+<li>We get inside, backdoor sees shadowy figure in attic</li>
+<li>nirin detect magic<ul>
+<li>head mistress left office open</li>
+<li>necromancy from office</li>
+</ul>
+</li>
+<li>lavender to tom (sanar)</li>
+<li>convey info about office to kali</li>
+<li>girls come down</li>
+<li>girl conveys there was a man watching a girl matching the description of the lost vistani girl<ul>
+<li>grimy looking, straw hat, bottle of wine</li>
+</ul>
+</li>
+<li>girl climbs the fence to get in, doesnt come into the orphanage<ul>
+<li>not lying</li>
+</ul>
+</li>
+<li>Head mistress: "Perhaps talk with 'bluto'?<ul>
+<li>town drunk, local fisherman</li>
+<li>hangs at the bluewater inn as well</li>
+</ul>
+</li>
+<li>Office<ul>
+<li>door to bedroom, unlocked</li>
+<li>desk with locket<ul>
+<li>"X" carved into locket</li>
+<li>unknown script inside locket</li>
+<li>book in shelf with official orphanage documentation</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><img alt="Vallaki Village.png" src="../../Assets/Vallaki%20Village.png" /></p>
+<ul>
+<li>sync up and share</li>
+<li>blue water inn<ul>
+<li>raven outside, ireena salutes</li>
+<li>lights out</li>
+<li>bell for late-evening arrivals</li>
+</ul>
+</li>
+<li>Urwin Martikov<ul>
+<li>large muscular grey-black beard + hear</li>
+<li>cook</li>
+</ul>
+</li>
+<li>let in, everything is shut down for the night</li>
+<li>got a room, free of charge</li>
+<li>they stay up late and wake late</li>
+<li>Bluto<ul>
+<li>Urwin hasnt seen him lately</li>
+<li>uselessly fishing north of town</li>
+<li>better drunk than fisherman</li>
+<li>bragged about new "good luck" charm</li>
+</ul>
+</li>
+<li>stairs outside to rooms, balcony over tap room</li>
+<li>klepto + ireena + kali in room<ul>
+<li>bluto has arabelle accoridng to ireena</li>
+<li>klepto shared that he wanted to amass power and take revenge on Luskan, possibly barovia</li>
+</ul>
+</li>
+<li>nirin<ul>
+<li>asked questions to his arm band</li>
+</ul>
+</li>
+<li>sanar and nox</li>
+<li>Klepto dream<ul>
+<li>hand over him</li>
+<li>androgynous being<ul>
+<li>"Hand is being odd... hand seems to have a mind of its own"</li>
+<li>Offering boons, without any catches</li>
+<li>Accept them</li>
+<li>"There can only be one King"</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Wake up, nice day, quiet in the inn</li>
+<li>Head to the lake</li>
+<li>everyone busy except for town militia, which there are quite a few</li>
+<li>wolfs head jamboree "ALL WILL BE WELL"</li>
+<li>"Come one come all to the Blazing Sun Festival.  ALL WILL BE WELL"</li>
+<li>Nirin fakes a drunk and asks a guard for Bluto, guard says hes fishing</li>
+<li>Individual on crate<ul>
+<li>"Coming of the Sun"<ul>
+<li>Citizen calls her a "Dominionous" and pushes her off the crate</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Ms Wachter<ul>
+<li>why do you want to bring the sun back?<ul>
+<li>Prophecy has started</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>lake at foot of mountain<ul>
+<li>very still</li>
+<li>3 row boats</li>
+<li>1 boat in center of the lake<ul>
+<li>Pulls out burlap sack, wriggling, throws it into the water</li>
+</ul>
+</li>
+<li>about to rain</li>
+</ul>
+</li>
+<li>Save Anabelle and show her the necklace from her father (?)</li>
+<li>Kali makes shot to disable Bluto</li>
+<li>make it to shore</li>
+<li>Arabelle says Nox looks like Blinksy's toys</li>
+<li>Bluto's thoughts are basically a hollow shell, useless, idiotic logic</li>
+<li>Head Mistress Claudia</li>
+<li>Klepto's hand turret does some torture</li>
+<li>Meet up with hunters in the woods<ul>
+<li>convince them that Bluto is guilty after they see through our illusions</li>
+</ul>
+</li>
+<li>Head back to vistani camp<ul>
+<li>Brothers lavash on hill</li>
+<li>reunite bear-man with his daughter</li>
+</ul>
+</li>
+<li>Arabelle curses Bluto<ul>
+<li>"Be the predator outside you are inside"</li>
+<li>Sanar tells her that he is an empty husk</li>
+<li>Bluto converts to a wolf</li>
+</ul>
+</li>
+<li>Welcome to the Treasure Wagon</li>
+<li>Kasimir Velikov<ul>
+<li>Leader of the Dusk Elves</li>
+</ul>
+</li>
+<li>Treasure Wagon<ul>
+<li>throne</li>
+<li>rug with unicorn</li>
+<li>jeweled inlaid box</li>
+</ul>
+</li>
+<li>4ft tall puppet made of stiched leather with gears on interior<ul>
+<li>Pidlwick II</li>
+<li>Cant talk</li>
+<li>idolizes attentions</li>
+<li>likes to terrorize</li>
+</ul>
+</li>
+</ul>
+<p><img alt="Pidlwick II.png" src="../../Assets/Pidlwick%20II.png" /></p>
+<ul>
+<li>Sanar reaches out telepathically and finds it can communicate and obey some commands</li>
+<li>Sanar goes into the Dusk Elf Encampment<ul>
+<li>7 houses</li>
+<li>3 grey-cloaked figures</li>
+<li>confirms Kasimir Velikov is the leader, inside</li>
+<li>tired, old Dusk elf wearing a cowl inside of a tent filled with tapestries</li>
+<li>Kasimir shares that Strahd is the butcher of his people, a murder<ul>
+<li>hates Lord Rahadin at the mention of his name</li>
+</ul>
+</li>
+<li>Strahd's father, King Berov (?) started betrayal with Lord Rahadin<ul>
+<li>Killed off the Dusk Elves</li>
+<li>Made Rahadin a military advisor as reward for his betrayal</li>
+<li>Vistani took the Dusk Elves in</li>
+<li>"Velikov" is a tribute to the vistani who took in the duck elf refugees</li>
+<li>At the mention of the "Scared elf" by Madam eva, Kasimir removes cowl to show scars over his head and ears</li>
+<li>Sanar shares fortune, asks what Kasimirs's dark secret is</li>
+<li>North of Lake Zarovich, "mount of Baratok"<ul>
+<li>Ruins of Noc vir tar</li>
+<li>Ancient Village, first atrocity of Rahadin</li>
+<li>Evidence of second atrocity<ul>
+<li>under command of strahd</li>
+</ul>
+</li>
+<li>"See what has been done to our people, then return"</li>
+</ul>
+</li>
+<li>The Dusk Elves have never had an issue in the sunlight</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="raw-ryan">RAW Ryan<a class="headerlink" href="#raw-ryan" title="Permanent link">&para;</a></h2>
+<h3 id="attendees">Attendees<a class="headerlink" href="#attendees" title="Permanent link">&para;</a></h3>
+<p>Matt, Ryan, Scott, Ty, Zach, Peter (and Pops!)</p>
+<h3 id="notes">Notes<a class="headerlink" href="#notes" title="Permanent link">&para;</a></h3>
+<h4 id="trip-to-valaki-gates">Trip to [[Valaki]] Gates<a class="headerlink" href="#trip-to-valaki-gates" title="Permanent link">&para;</a></h4>
+<ul>
+<li>As we approach the gate <a href="../../Player%20Characters/Sanar/">Sanar</a> asks for change for 1 SP</li>
+<li><a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> offers to use her name (as the Barovia Village Burgomaster's daughter) to help us get through the gates should we have trouble<ul>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> is worried about potential enemies knowing her location, but <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> seems unworried</li>
+<li>At the very least we can use her name to get a meeting with the [[Valaki]] Burgomaster</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a>'s eldritch hand (<a href="../../Player%20Characters/Klepto/#noteable-abilities">Klepto#Noteable Abilities</a>) is sharpening it's nails on its own<ul>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> seems interested at this unexpected behavior</li>
+<li>The hand indicates it wants to talk to <a href="../../Player%20Characters/Sanar/">Sanar</a><ul>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> reaches out and it repeats it's previous threats</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> tells it to quiet down as if it wants it's hand to be returned we are entering a tricky situation and it shouldn't draw attention</li>
+<li>Hand listens and quiets down, but repeats it's threats of wanting to kill <a href="../../Player%20Characters/Sanar/">Sanar</a>/<a href="../../Player%20Characters/Klepto/">Klepto</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>We approach [[Valaki]] gate (~ 15 feet tall) with <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> taking the lead<ul>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> suggests the guards should let them in, don't want to keep <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> waiting</li>
+<li>Mentions they are on a missing person's case and time is of the essence</li>
+<li>Guards are initially suspicious of <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> and <a href="../../Player%20Characters/Klepto/">Klepto</a>, but let us in anyway</li>
+<li>They ask us for our names and business for being in the city<ul>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> gives the fake name <a href="../../Player%20Characters/Kali%20Rouge/">Meg Ashrunner</a>, <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> follows suite with Vox Nita</li>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> gives his real name, mentions we're looking for a <a href="../../Organizations/Vistani/">Vistani</a> child</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> gives the name <a href="../../Player%20Characters/Sanar/">Eresse</a></li>
+</ul>
+</li>
+<li>They ask for our opinion of <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd von Zarovich</a><ul>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> acts as if she doesn't know who he is, being new to town and all</li>
+</ul>
+</li>
+<li>Guards give us a rundown of the laws<ul>
+<li>Mention of the name <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a> is illegal, even in written form, must refer to him as 'The Devil' or 'He who must not be named'</li>
+<li>Festival each week for the Burgomaster<ul>
+<li>Attendance is required, although we don't have to participate</li>
+<li>Next one, Festival of the Blazing Sun in 3 days</li>
+</ul>
+</li>
+<li>No one should speak poorly of Baron or the Festival as moral is paramount</li>
+<li>Normal town laws all apply</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> asks why Dusk elves and <a href="../../Organizations/Vistani/">Vistani</a> are not allowed in<ul>
+<li>Dusk elves are allowed in, but they are broken (not many)</li>
+<li><a href="../../Organizations/Vistani/">Vistani</a> are vagabonds, not to be trusted, and likely in league with <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd</a></li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a>, continuing her ruse, asks where she can get changed, acting as a noble</li>
+<li>Guards ask for our weapons to be registered<ul>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> attempts to cast Suggestion, but fails</li>
+<li>We register ours one by one<ul>
+<li>If we buy them from the blacksmith he will register them for us</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="town-of-valaki">Town of [[Valaki]]<a class="headerlink" href="#town-of-valaki" title="Permanent link">&para;</a></h4>
+<ul>
+<li>As we enter the town we see remnants from previous festivals<ul>
+<li>[[Valaki]] generally seems more built up than Barovia Village (London 1900s)</li>
+</ul>
+</li>
+<li>As we leave <a href="../../Player%20Characters/Klepto/">Klepto</a> asks the guards where the St Andral Orphanage is<ul>
+<li>just before the North Gate</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> brings up disappointment that we used <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a>'s influence right away when we decided not to<ul>
+<li>Also that <a href="../../Player%20Characters/Klepto/">Klepto</a> slipped mentioning they were looking for <a href="../../Organizations/Vistani/">Vistani</a></li>
+</ul>
+</li>
+<li>Group decides to scout out orphanage although it's late<ul>
+<li>Split up as <a href="../../Player%20Characters/Klepto/">Klepto</a> and <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> may draw unwanted attention (team back door) - <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> joins them</li>
+</ul>
+</li>
+</ul>
+<h4 id="saint-andral-orphanage">Saint Andral Orphanage<a class="headerlink" href="#saint-andral-orphanage" title="Permanent link">&para;</a></h4>
+<ul>
+<li>3 story manor, wooden fence and backyard, stone steps lead to front door<ul>
+<li>1 light on in bottom right corner of building</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> slinks to the shadows, <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> disappears, <a href="../../Player%20Characters/Sanar/">Sanar</a> acts like he belongs<ul>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> begins to walk towards the door as everyone else stealthed away</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> and <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> trade for the necklace so <a href="../../Player%20Characters/Sanar/">Sanar</a> can show <a href="../../Non-Player%20Characters/Arabelle/">Arabelle</a></li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> casts disguise self to make himself look like the guard from the gate we entered</li>
+</ul>
+</li>
+<li>[[Headmistress (Valaki Orphanage)|Headmistress]] answers the door, knows [[Tom]] (aka the guard)<ul>
+<li>The [[Headmistress (Valaki Orphanage)|headmistress]] seems to know [[Tom]] (<a href="../../Player%20Characters/Sanar/">Sanar</a>) doesn't look right</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> tries to convince her for more information as she seems to know, but fails</li>
+<li>She says we should come back in the morning as the girls would know more</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> casts suggestion and asks to enter with an investigator (<a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a>)</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> doesn't see anything indicating a <a href="../../Organizations/Vistani/">Vistani</a> child</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a>, <a href="../../Player%20Characters/Klepto/">Klepto</a>, and <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> notice a shadow in the attic as the [[Headmistress (Valaki Orphanage)|headmistress]] is getting the girls</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> uses his rune to cast detect magic - notices <a href="../../Player%20Characters/Sanar/">Sanar</a>, as well as something in the office the headmistress emitting Necromancy<ul>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> tells <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> to search the room</li>
+<li>Plaque: headmistress Claudia Belasco</li>
+</ul>
+</li>
+<li>Headmistress comes down with the girls from the Orphanage<ul>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> asks the girls about a girl who has come and gone, but isn't normally here</li>
+<li>One of the girls asks if we are talking about <a href="../../Non-Player%20Characters/Arabelle/">Arabelle</a></li>
+<li><a href="../../Non-Player%20Characters/Arabelle/">Arabelle</a> doesn't say where she's from, but comes to play - climbs the fence to enter<ul>
+<li>Has never come into the Orphanage </li>
+</ul>
+</li>
+<li>Girls mention a man was watching her - grimy man, straw hat with a bottle of wine</li>
+</ul>
+</li>
+<li>Headmistress mentions [[Tom]] (<a href="../../Player%20Characters/Sanar/">Sanar</a>) should have a talk with [[Bluto]]<ul>
+<li>Known as the town drunk, frequents the Bluewater Inn</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> asks her not to mention this investigation to others - she agrees</li>
+<li>While this is happening <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> is trying to gum up the lock to prevent it from locking for future investigation<ul>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> scans the room for important documents - only finds orphanage important documents</li>
+<li>Top drawer of the desk - finds rusted tin locket in the shape of the circle with an 'X' scratched into the lid</li>
+<li>Opens the locket, does not understand language, uses forgery kit to write as much as she can</li>
+</ul>
+</li>
+<li>Each team fills in the other about what they saw<ul>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> gives <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> the transcription she took of the locket</li>
+</ul>
+</li>
+</ul>
+<h4 id="bluewater-inn">Bluewater Inn<a class="headerlink" href="#bluewater-inn" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Team works their way back to middle of town towards in we passed on the way to the Orphanage<ul>
+<li>Several Ravens perched on top of roof</li>
+<li>Blue waterfall on the sign of the inn - presumably the Bluewater Inn</li>
+<li>Door locked, Inn seems dead, ring bell to get entry</li>
+<li>Large man answers the door, dark-skinned, black/grey hair and beard - [[Urwin Martikov]]<ul>
+<li>runs in with wife Danica, boys Bran and Bray</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Room available so we enter, taproom is currently empty<ul>
+<li>Offers us room free of charge - 7 keys one room for each of us</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> asks for information on [[Bluto]] and gives him 5 silver<ul>
+<li>Normally found useless fishing on the Lake Zarovich</li>
+<li>Recently boasting of a new good luck charm</li>
+</ul>
+</li>
+<li>Separate out into 3 rooms<ul>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a>, <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> and <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a><ul>
+<li>Talk about the figure they saw in the attic<ul>
+<li>Seems suspicious, probably not a child</li>
+<li><a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> thinks [[Bluto]] has Arabelle, unsure what he is doing with her</li>
+</ul>
+</li>
+<li><a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> mentions that the weekly festivals seems weird</li>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> asks <a href="../../Player%20Characters/Klepto/">Klepto</a> why he was delayed getting to Daggerford<ul>
+<li>Nothing to do with the ship - says he was waylaid by some bandits, slowed him down a bit</li>
+<li>Barovia, or the ship? - at least he has some sort of freedom in Barovia</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> isn't sure she want's to know what the fortune teller has dealt for us, wouldn't mind some freedom on [[Faerun]]</li>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> asks if he would confront the ship if he were to return<ul>
+<li>Hopefully would be in a position where he wouldn't have to</li>
+<li>He thinks Barovia is the perfect place to gain a name, a following</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> goes outside to the moonlight again<ul>
+<li>Lays the transcript from <a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> down - asks if they know the language - it says yes</li>
+<li>Asks armband if it is of extraplanar origin - yes</li>
+<li>Asks if it is from Celestials or Devils - Celestials, not Abyssal</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> and <a href="../../Player%20Characters/Nox%20Vita/">Nox</a><ul>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> mentions that <a href="../../Player%20Characters/Sanar/">Sanar</a> was quite nice today, more sociable in his interactions<ul>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> doesn't agree, but says <a href="../../Player%20Characters/Nox%20Vita/">Nox</a> may have rubbed off on him</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> asks where <a href="../../Player%20Characters/Sanar/">Sanar</a>'s magic comes from<ul>
+<li>his blood, his birthright - father tried to make him study, but he was always just a natural</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> on the other hand was trained and it is through his faith</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="klepto-and-the-kingmaker"><a href="../../Player%20Characters/Klepto/">Klepto</a> and [[the Kingmaker]]<a class="headerlink" href="#klepto-and-the-kingmaker" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> wakes up with his eldritch hand sitting on his chest<ul>
+<li>[[The Kingmaker]] is sitting at the edge of his bed</li>
+<li>Kingmaker states the hand was meant to be a gift, but it seems to have a life of it's own</li>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> is curious if Kingmaker gives him his powers to imbue technology?<ul>
+<li>No, that is his own pure skill, imbuing the hand with life was a gift is all</li>
+<li>Previous owner has some sort of attachment which is affecting things</li>
+</ul>
+</li>
+<li>Kingmaker appreciates people who know what they want<ul>
+<li>Overheard him talking about needing individuals, power to accomplish his goals</li>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> indicates he wants a name</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> asks if [[the Kingmaker]] is offering these things?<ul>
+<li>Affirms yes, and that there is no contract</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> asks how he contacts them<ul>
+<li>They will contact <a href="../../Player%20Characters/Klepto/">Klepto</a>, when the boons come accept them and allow them to work for you</li>
+<li>Everything he will need to take the ship by force</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> mentions he has heard their name before, asks if they have given gifts out to others in the party<ul>
+<li>Cannot say, relies on those they interact with to be discrete</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="morning-in-valaki">Morning in Valaki<a class="headerlink" href="#morning-in-valaki" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> tries his ritual once again - finally succeeds and can now cast gentle repose<ul>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> is excited, thanks [[Kelemvor]]</li>
+<li>At the bottom of the box he takes out a chain with two platinum rings and tucks it into his tunic</li>
+</ul>
+</li>
+<li>Group meets up, <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> tells everyone the writing is Celestial<ul>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> is curious why Necromancy and Celestial would be together</li>
+</ul>
+</li>
+<li>Next step for group?<ul>
+<li>Church of Saint Andral to drop of <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a></li>
+<li><a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> wants to talk to the Burgomaster</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> wants to search for Arabelle - <a href="../../Player%20Characters/Sanar/">Sanar</a> convinces everyone to go to Lake Zarovich to search for [[Bluto]] first</li>
+</ul>
+</li>
+<li>As we walk around Valaki we see a more populated city than before<ul>
+<li>Specifically notice a well organized militia, as well as a few common citizens milling about</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> asks common citizens about location of [[Bluto]] - don't reveal anything</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> climbs up a tree, disguises self, approaches Militia and asks about [[Bluto]]<ul>
+<li>They say the last they saw he went fishing</li>
+<li>Threaten to take him to the reformation center if he doesn't be on his way    </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>As we travel we see proclamations around the town<ul>
+<li>They're putting in new advertisements for Blazing Sun festival, same exact verbiage</li>
+</ul>
+</li>
+<li>Heading North toward gate that leads to Lake Zarovich<ul>
+<li>See woman standing on a crate - <em>"the coming of the Sun"</em><ul>
+<li>Other citizen jeers - <em>"the Sun isn't coming you dominionist"</em></li>
+<li>Guard breaks it up, shoves her to the ground, and threatens to take her to the reformation center</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> runs up to check on her<ul>
+<li>She says <em>"the Sun will come soon"</em></li>
+<li>She recognizes <a href="../../Player%20Characters/Klepto/">Klepto</a> as <em>The Outsider</em> from some prophecy<ul>
+<li>Tells <a href="../../Player%20Characters/Klepto/">Klepto</a> to go see Miss Wachter</li>
+<li>She will tell her to find <a href="../../Player%20Characters/Klepto/">Klepto</a></li>
+</ul>
+</li>
+<li>Others are watching us as this happens</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="path-to-lake-zarovich">Path to Lake Zarovich<a class="headerlink" href="#path-to-lake-zarovich" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Come about a beach, nestled between a forest and a mountain we see a dark lake<ul>
+<li>3 small row boats on the shore, another in the center of the lake with a loan figure fishing</li>
+<li>We see the figure toss a wriggling burlap sack into the middle of the lake</li>
+</ul>
+</li>
+<li>Skills challenge to try and save Arabelle<ul>
+<li>Rush into boats -&gt; bring her out of the water -&gt; heal her back to life -&gt; non-lethally shoot [[Bluto]]</li>
+</ul>
+</li>
+<li>We show her the necklace from Luvash and assure her she is safe</li>
+<li>Get to [[Bluto]] and bring him back to shore - we begin an interrogation<ul>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> wakes him up, <a href="../../Player%20Characters/Sanar/">Sanar</a> casts detect thoughts, <a href="../../Player%20Characters/Klepto/">Klepto</a> brings out his Eldritch hand<ul>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> takes her away from the interrogation</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> uses his last 5 hp from his scarred healing to cure him of his drunkenness' (poison)</li>
+<li>He states he just thought she would be good luck</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> digs deeper and he seems like a hollow shell - thought he could get fish for wine<ul>
+<li>Asks about the headmistress, the person in the attic, and her trinket - but reveals nothing</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> tells <a href="../../Player%20Characters/Klepto/">Klepto</a>'s Eldritch hand that it can do whatever it wants to [[Bluto]]<ul>
+<li>It beings slamming [[Bluto]]'s head against the ground and choking him</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> speaks up relaying that he seems empty inside and may not be capable of learning his lesson, suggests bringing him back to the <a href="../../Organizations/Vistani/">Vistani</a><ul>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> agrees with <a href="../../Player%20Characters/Sanar/">Sanar</a> about bringing him to the <a href="../../Organizations/Vistani/">Vistani</a></li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> seems to indicate that there could be an accident at the lake (indicate drowning him), some things aren't worth forgiveness</li>
+</ul>
+</li>
+<li>As we tie up [[Bluto]], <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> pulls out a noose from his mechanical arm to place it around [[Bluto]]'s neck</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> asks Arabelle about what happened<ul>
+<li>She was playing with orphans, lied to her and said her Dad sent him, he stuck a sack over her when no one else was looking</li>
+</ul>
+</li>
+</ul>
+<h4 id="taking-bluto-to-the-vistani">Taking [[Bluto]] to the <a href="../../Organizations/Vistani/">Vistani</a><a class="headerlink" href="#taking-bluto-to-the-vistani" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Travel back to <a href="../../Organizations/Vistani/">Vistani</a> camp through the forest in order to avoid Valaki</li>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> hears two footsteps approaching<ul>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> hides [[Bluto]] in a large boulder via Silent Image</li>
+<li>Tell him to be quite and try to tie the noose around his mouth so he is quiet</li>
+</ul>
+</li>
+<li>Two hunters approach us who question our purpose<ul>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> states we are investigators, looking for a missing child</li>
+<li>Hunters ask on whose authority, and <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> gestures to <a href="../../Non-Player%20Characters/Ireena%20Kolyanovich/">Ireena</a> who introduces herself</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> makes it sound like there is game behind him</li>
+</ul>
+</li>
+<li>One of the hunter's see's through <a href="../../Player%20Characters/Sanar/">Sanar</a>'s illusion<ul>
+<li>He recognizes [[Bluto]] and asks why he is our captive</li>
+<li><a href="../../Player%20Characters/Klepto/">Klepto</a> talks them down, makes [[Bluto]] admit to his crimes as well as Arabelle verify</li>
+<li>They calm down and on their way out threaten us that they better not see us with another Valaki villager again</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> feels uncomfortable with the whole situation, asks <a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> about the noose<ul>
+<li><a href="../../Player%20Characters/Kali%20Rouge/">Kali</a> also seems uncomfortable, and thinks we should consider more</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> is only worried about how the justice dealt to [[Bluto]] will affect the <a href="../../Organizations/Vistani/">Vistani</a> and subsequently their group</li>
+</ul>
+</li>
+</ul>
+<h4 id="returning-arabelle-to-the-valaki-vistani-camp">Returning Arabelle to the Valaki <a href="../../Organizations/Vistani/">Vistani</a> camp<a class="headerlink" href="#returning-arabelle-to-the-valaki-vistani-camp" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Luvash charges out of his tent to rush Arabelle in a big hug, closely followed by Arrigal<ul>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> tells Luvash what [[Bluto]] tried to do to Arabelle</li>
+<li>Arabelle stops them from immediately killing [[Bluto]]<ul>
+<li>Arabelle wants to cast her first curse</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> warns them of his mental status and the potential consequences of angering Valaki</li>
+<li>Arabelle agrees and want's to curse him such that his own people kill him<ul>
+<li><a href="../../Player%20Characters/Nox%20Vita/">Nox</a> walks away at this</li>
+<li>She curses him such that he turns into a werewolf</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> asks if the Drow will return from searching now that Arabelle has returned<ul>
+<li>[[Kasimir Velikov|Kasimir]] - the leader of the Dusk elves at the <a href="../../Organizations/Vistani/">Vistani</a> camp outside of Valaki</li>
+</ul>
+</li>
+<li>Luvash is extremely thankful and offers us to stay whenever we want as well as a look at his treasure wagon<ul>
+<li>Both Luvash and Arrigal have a key, each needed to unlock the large treasure wagon</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> uses detect magic and sees the bulge in the rug has conjuration magic</li>
+<li>We choose rug with unicorn motif, as well as whatever is in it<ul>
+<li>Within the rug out jumps a creepy puppet, skin made of leather, gears etc.<ul>
+<li>![[Pasted image 20220602220046.png|250]]</li>
+</ul>
+</li>
+<li>Luvash tells us that it seems to follow whoever gives it attention, and takes joy in creeping people out<ul>
+<li>Found tag with it - Pidlwick II</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> tries to reach out telepathically - he understands <a href="../../Player%20Characters/Sanar/">Sanar</a><ul>
+<li>Wants to be loved, wants to make people happy</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Nirin%20Eze/">Nirin</a> is worried about returning to Valaki (via a different entrance) without arousing suspicion</li>
+</ul>
+<h4 id="sanar-meets-with-the-drow"><a href="../../Player%20Characters/Sanar/">Sanar</a> meets with the Drow<a class="headerlink" href="#sanar-meets-with-the-drow" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> approaches the tent Luvash pointed him out to<ul>
+<li>3 dark elves outside with spears, <a href="../../Player%20Characters/Sanar/">Sanar</a> briefly chats and asks to speak with [[Kasimir Velikov|Kasimir]]</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> enters his tent - wooden statues of elven deities, tapestry of a forest on a wall<ul>
+<li>Drow, looks tired, hard to tell age, wears a cowl that conceals most of his face, wears simple woven clothes</li>
+<li>Seams surprised a Drow outsider</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> is curious about the lack of the Sun<ul>
+<li><em>"I am the ancient, I am the land"</em>, Sun hasn't appeared since </li>
+<li>Calls him a butcher of his people, hates him greatly</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> mentions <a href="../../Non-Player%20Characters/Lord%20Rahadin/">Rahadin</a>, only angers him further</li>
+</ul>
+</li>
+<li><a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd von Zarovich</a>'s father - King Barov started the decline of the Dusk elves along with <a href="../../Non-Player%20Characters/Lord%20Rahadin/">Rahadin</a><ul>
+<li><a href="../../Non-Player%20Characters/Lord%20Rahadin/">Rahadin</a> was exiled for refusing to bow down to a Dusk Elf prince</li>
+<li>Previously was a general in the army</li>
+<li>Dusk Elf refused to bow down to the</li>
+<li><a href="../../Non-Player%20Characters/Lord%20Rahadin/">Rahadin</a> told <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd von Zarovich</a>'s father who subsequently hunted down the Dusk elves</li>
+<li>Barov was so pleased with <a href="../../Non-Player%20Characters/Lord%20Rahadin/">Rahadin</a> that he was promoted to an honorary member</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> is curious why Dusk elves live with <a href="../../Organizations/Vistani/">Vistani</a>, given <a href="../../Organizations/Vistani/">Vistani</a> are n<ul>
+<li><a href="../../Organizations/Vistani/">Vistani</a> took in the Dusk elves when they were hunted down</li>
+<li>His last name is a tribute to the <a href="../../Organizations/Vistani/">Vistani</a> that welcomed him into the clan, [[Kasimir Velikov|Velikov]]</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> asks about the scarred elf from <a href="../../Non-Player%20Characters/Madam%20Eva/">Madam Eva</a>'s fortune<ul>
+<li>It is [[Kasimir Velikov|Kasimir]]</li>
+<li>What is his dark path - he glances at the corner of the room<ul>
+<li>He wishes me to see something to grant me insight into the Dusk Elves</li>
+<li>North of Lake Zarovich, in the foothills of Mount Veratoc in the Svalich woods - Ruins of Noc U tar<ul>
+<li>Where the royals had a summer palace retreat, there I will find the remnants of the first atrocity committed by <a href="../../Non-Player%20Characters/Lord%20Rahadin/">Rahadin</a></li>
+<li>As well as the second atrocity <a href="../../Non-Player%20Characters/Lord%20Rahadin/">Rahadin</a> committed on the Dusk elves on the command of <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd von Zarovich</a>, he has not yet told <a href="../../Player%20Characters/Sanar/">Sanar</a></li>
+<li>Known to be haunted by the mad mage of mount beratoc</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="../../Player%20Characters/Sanar/">Sanar</a> asks about bringing magic to blot out the Sun to Faerun<ul>
+<li>States his people is not averted to the Sun</li>
+<li>Perhaps when we kill <a href="../../Non-Player%20Characters/Strahd%20von%20Zarovich/">Strahd von Zarovich</a>, we can find out more to help <a href="../../Player%20Characters/Sanar/">Sanar</a>'s people</li>
+</ul>
+</li>
+<li>As Sanar leaves he reaches out telepathically to Kasimir and asks if he can do it as well<ul>
+<li>Answers no, and mentions Sanar is more special than originally thought</li>
+</ul>
+</li>
+</ul>
+
+
+
+
+              
+            </article>
+            
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+        
+        <a href="../Session%2007/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Session 7" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Session 7
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../Session%2009/" class="md-footer__link md-footer__link--next" aria-label="Next: Session 9" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Session 9
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.ecf98df9.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.2ab50757.min.js"></script>
+      
+    
+  </body>
+</html>
