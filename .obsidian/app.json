@@ -51,5 +51,6 @@
     "Burgomeister",
     "Viktor"
   ],
-  "livePreview": false
+  "livePreview": false,
+  "showFrontmatter": false
 }

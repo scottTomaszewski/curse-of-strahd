@@ -11,6 +11,7 @@ tags:
 ### Yesterhill
 
 ![[Yesterhill Map.png]]
+
 - abba in the air
 	- strahd gone
 	- see large beasts in the western mist (which is taller than normal, maybe barovia bounds??)
@@ -25,7 +26,8 @@ tags:
 	- Spear dude: "i will rest if you spill blood with the spear"
 	- Nox: "Sure!"
 
-Back to martikov
+### Back to martikov
+
 - happy to see us, ecstatic about the gem
 - Lore
 	- those that go in the mist dont return (except vistani)
@@ -44,14 +46,17 @@ Back to martikov
 - jovial morning
 - amber "something" to the southeast - mount Ghakis
 
-Morning on the Road
+### Morning on the Road
+
 - 7 hours to get to vallaki
 - 2.5 hours...
 
-Raven River Crossroads
+### Raven River Crossroads
+
 ![[Raven River Crossroads Location.png]]
 
-We head to the  Tower 
+### We head to the  Tower 
+
 ![[Van Richten Tower.png]]
 
 - we see RIctavio's cart out front
@@ -61,6 +66,7 @@ We head to the  Tower
 - Nirin message, dissipates before it reaches tower
 
 Tower Door
+
 ![[Van Richten Door.png]]
 
 - Kali hangs back with Ireena as everyone else gets shocked by lightning when then knocked (21 lightning damage)
@@ -70,8 +76,10 @@ Tower Door
 - Nox tries to get in, breaks scaffolding and falls
 - bottom floor is full of debris, 4 pullies + chain with a clay statue for each
 
-Heading into the tower
+### Heading into the tower
+
 ![[Van Richten.png]]
+
 
 - needed to use the clay golems in the bottom of the tower to elevator to the top
 - Rudolph Van ricten - admits to being ricktavio
@@ -136,9 +144,11 @@ Heading into the tower
 		- also made castle ravenloft
 
 New map!
+
 ![[Nice Barovia Map.png]]
 
-Talk after tower
+### Talk after tower
+
 - Ireena
 	- why not make a spawn?  Why bride ceremony?  - maybe he wants you to love him? explains the courting
 	- Why hasnt the third bite happened yet? are we toys?  why....
